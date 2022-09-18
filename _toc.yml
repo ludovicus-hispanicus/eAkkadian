@@ -1,0 +1,49 @@
+format: jb-book
+root: ita_welcome
+parts:
+- caption: How To
+  chapters:
+  - file: How-To-Interact-With-This-Book
+    title: Interact With This Book
+- caption: The Course
+  chapters:
+  - file: course-schedule-2022-2023
+    title: Course Schedule
+- caption: The Book
+  chapters:
+  - file: ita_intro
+    title: Introduction
+    sections:
+    -file: ita_akkadian_semitic_language
+    title: Akkadian as a Semitic Language
+    -file: ita_history_periodisation
+    title: History and Periodisation
+    -file: ita_phonems_akkadian
+    title: Phonems in Akkadian
+    -file: ita_cuneiform
+    title: Cuneiform Script
+  - file: lesson_01
+    title: Lesson 1
+    sections:
+    - file: ita_akkadian_nouns
+      title: Nouns
+    - file: ita_akkadian_adjectives
+      title: Adjectives
+    - file: ita_akkadian_pronouns
+      title: Pronouns
+    - file: 02-Python/06-String-Methods
+  - file: lesson_02
+    title: Lesson 2
+    sections:
+    - file: 03-Data-Analysis/01-Pandas-Basics-Part1.ipynb
+    - file: 03-Data-Analysis/02-Pandas-Basics-Part2.ipynb
+    - file: 03-Data-Analysis/03-Pandas-Basics-Part3.ipynb
+    - file: 03-Data-Analysis/04-Pandas-Merge-Datasets
+- caption: Datasets
+  chapters:
+  - file: 00-Datasets/00-Datasets
+- caption: Extra Materials
+  chapters:
+  - file: 02-Python/EXTRA-Jupyter-Tips-Tricks
+  - file: 02-Python/EXTRA-Randomize-Students
+    title: Make Random Student Groups
