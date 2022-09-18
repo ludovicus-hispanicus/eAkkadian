@@ -14,15 +14,15 @@ parts:
   - file: ita_intro
     title: Introduction
     sections:
-    -file: ita_akkadian_semitic_language
+    - file: ita_akkadian_semitic_language
     title: Akkadian as a Semitic Language
-    -file: ita_history_periodisation
+    - file: ita_history_periodisation
     title: History and Periodisation
-    -file: ita_phonems_akkadian
+    - file: ita_phonems_akkadian
     title: Phonems in Akkadian
-    -file: ita_cuneiform
+    - file: ita_cuneiform
     title: Cuneiform Script
-  - file: lesson_01
+  - file: lesson_01_intro
     title: Lesson 1
     sections:
     - file: ita_akkadian_nouns
@@ -31,19 +31,5 @@ parts:
       title: Adjectives
     - file: ita_akkadian_pronouns
       title: Pronouns
-    - file: 02-Python/06-String-Methods
-  - file: lesson_02
+  - file: lesson_02_intro
     title: Lesson 2
-    sections:
-    - file: 03-Data-Analysis/01-Pandas-Basics-Part1.ipynb
-    - file: 03-Data-Analysis/02-Pandas-Basics-Part2.ipynb
-    - file: 03-Data-Analysis/03-Pandas-Basics-Part3.ipynb
-    - file: 03-Data-Analysis/04-Pandas-Merge-Datasets
-- caption: Datasets
-  chapters:
-  - file: 00-Datasets/00-Datasets
-- caption: Extra Materials
-  chapters:
-  - file: 02-Python/EXTRA-Jupyter-Tips-Tricks
-  - file: 02-Python/EXTRA-Randomize-Students
-    title: Make Random Student Groups
