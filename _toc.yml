@@ -11,25 +11,42 @@ parts:
     title: Course Schedule
 - caption: The Book
   chapters:
-  - file: ita_intro
+  - file: introduction/ita_intro
     title: Introduction
     sections:
-    - file: ita_akkadian_semitic_language
+    - file: introduction/ita_akkadian_semitic_language
     title: Akkadian as a Semitic Language
-    - file: ita_history_periodisation
+    - file: introduction/ita_history_periodisation
     title: History and Periodisation
-    - file: ita_phonems_akkadian
+    - file: introduction/ita_phonems_akkadian
     title: Phonems in Akkadian
-    - file: ita_cuneiform
+    - file: introduction/ita_cuneiform
     title: Cuneiform Script
-  - file: lesson_01_intro
+  - file: lesson_01/lesson_01_intro
     title: Lesson 1
     sections:
-    - file: ita_akkadian_nouns
+    - file: lesson_01/ita_akkadian_nouns
       title: Nouns
-    - file: ita_akkadian_adjectives
+    - file: lesson_01/ita_akkadian_adjectives
       title: Adjectives
-    - file: ita_akkadian_pronouns
+    - file: lesson_01/ita_akkadian_pronouns
       title: Pronouns
-  - file: lesson_02_intro
+  - file: lesson_02/lesson_02_intro
     title: Lesson 2
+  - file: lesson_03/lesson_03_intro
+    title: Lesson 3
+  - file: lesson_04/lesson_04_intro
+    title: Lesson 4
+  - file: lesson_05/lesson_05_intro
+    title: Lesson 5
+  - file: lesson_06/lesson_06_intro
+    title: Lesson 6
+  - file: lesson_07/lesson_07_intro
+    title: Lesson 7
+  - file: lesson_08/lesson_08_intro
+    title: Lesson 8
+  - file: lesson_09/lesson_09_intro
+    title: Lesson 9
+  - file: lesson_10/lesson_10_intro
+    title: Lesson 10
+                                  
