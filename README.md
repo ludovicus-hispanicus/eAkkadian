@@ -1,4 +1,4 @@
-# introduction_to_akkadian
+# Introduction to Akkadian
 
 1\. Lesson: Nominals and Pronouns
 ---
