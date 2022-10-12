@@ -37,6 +37,6 @@
 # 
 # [^discussion_standard_babylonian]: AGA, p. 4.; Kouwenberg 2010, p. 16;  Godnick Westenholz 1997. 
 # 
-# > Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See Godnick Westenhiolz 1997.
+# > Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See Godnick Westenholz 1997.
 # 
 # 

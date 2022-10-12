@@ -53,7 +53,7 @@
 # 
 # - **Phonograms/syllabograms**: It represents syllables or vowels. A sign can have more than one syllabic/vocalic value. Depending on the Language, in Sumerian, they appear in normal script in the transliteration (sometimes sans serif) and in Akkadian, they appear in italics.
 # 
-#     | Sign | Sign Name |Syllable | 
+#     | Sign | Sign Name |Syllabic writing | 
 #     | -------- | -------- | --|
 #     | 𒆳 | KUR |*kur* | 
 #     | 𒆳 | KUR |*šat* |
@@ -100,7 +100,7 @@
 # ## Orthography
 # Words can be written logographic as well as syllabic:
 # 
-# | Logogram | Cuneiform | Syllables | Cuneiform
+# | Logogram | Cuneiform | Syllabic writing | Cuneiform
 # | -------- | -------- | --------- | ----------
 # | E₂ | 𒂍 | bi-tu-um | 𒁉𒌅𒌝 
 # | EN | 𒂗 | be-lu-um | 𒁁𒇻𒌝

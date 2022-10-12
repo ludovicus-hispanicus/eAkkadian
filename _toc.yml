@@ -27,10 +27,18 @@ parts:
     sections:
     - file: lesson_01/01_ita_lesson_01_ita_akkadian_nouns
       title: Nouns
-    - file: lesson_01/02_ita_lesson_01_akkadian_adjectives
-      title: Adjectives
-    - file: lesson_0103_ita_lesson_01_ita_akkadian_pronouns
-      title: Pronouns
+    - file: 01_ita_lesson_01_ita_akkadian_nouns_01_gender
+      title: Nouns - Gender
+    - file: 01_ita_lesson_01_ita_akkadian_nouns_02_gram_number
+      title: Nouns -  Grammatical Number
+    - file: 01_ita_lesson_01_ita_akkadian_nouns_03_casus
+      title: Nouns - Case
+    - file: 01_ita_lesson_01_ita_akkadian_nouns_04_status
+      title: Nouns - Status
+    - file: 02_ita_lesson_01_akkadian_adjectives
+      title: Akkadian Adjective
+    - file: 03_ita_lesson_01_ita_akkadian_pronouns
+      title: Akkadian Pronouns      
   - file: lesson_02/lesson_02_intro
     title: Lesson 2
   - file: lesson_03/lesson_03_intro
