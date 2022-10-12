@@ -2,22 +2,30 @@
 # coding: utf-8
 
 # # Akkadian Nouns - Grammatical case
-# The most common are: nominative, genitive and accusative.
+# There are three cases: nominative, genitive and accusative. 
 # 
-# |     | casus |Masculine | Femenine |
-# |---- | -------- | -------- | ------- |
-# | sg. | nom. | šarrum  | šarratum |
-# |     | gen.   | šarrim  | šarratim |
-# |     | acc. | šarram  | šarratam |
-# | dual| nom. | šarrān   | šarratān |
-# |     | gen./acc. |šarrīn | šarratīn |        
-# | pl. | nom. | šarrū    | šarrātum |
-# |     | gen./acc. | šarrī | šarrātim |
+# | Number | Gender | Case | Substantive | Adjective |
+# |------- | ------ | -----| ----------- | --------- |
+# | sg.    |  masc. | nom. | šarrum      | dannum    |
+# |        |        | gen. | šarrim      | dannim    |
+# |        |        | acc. | šarram      | dannam    |
+# | dual   |  masc. | nom. | šarrān      |           |
+# |        |        | gen./acc. | šarrīn |           |        
+# | pl.    | masc.  | nom. | šarrū       | dannūtum  |
+# |        |        | gen./acc. | šarrī  | dannūtim  |
+# ||||||
+# | sg.    |  fem   | nom. | šarratum      | dannatum |
+# |        |        | gen. | šarratim      | dannatim |
+# |        |        | acc. | šarratam      | dannatam |
+# | dual   |  fem.  | nom. | šarratān      |  |
+# |        |        | gen./acc. | šarratīn |  |        
+# | pl.    |  fem.  | nom. | šarrātum      | dannātum |
+# |        |        | gen./acc. | šarrātim | dannātum |
 # 
-# Besides there are two more cases: locative-adverbialis and terminative-adverbialis
+# Besides there are two more cases: locative-adverbialis and terminative-adverbialis. They can also be used with pronominal suffixes:
 # 
-# |  casus |Masculine | Femenine |
-# | -------- | -------- | ------- |
+# |  casus    | Masculine | Femenine |
+# | --------- | --------  | ------- |
 # | loc.-adv. | qatum  | šarratum |  
 # | ter.-adv. | 
 # 

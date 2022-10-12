@@ -2,12 +2,12 @@
 # coding: utf-8
 
 # # Akkadian Nouns - Status
-# There are three status: status rectus, status constructus and status absolututs.
+# There are three status:
 # 
-# **Status rectus:** 
+# - **Status rectus** is the inflected form of the noun without genitive. Example: *šarrum* King.
 # 
-# **Status constructus:** 
+# - **Status constructus:** is the form of a noun before another one in genitiv and before a possessive suffix.
 # 
-# **Status absolutus:** 
+# - **Status absolutus** is the form without ending. It is used for the vocative, numbers and in some idiomatic expressions.
 # 
 # 

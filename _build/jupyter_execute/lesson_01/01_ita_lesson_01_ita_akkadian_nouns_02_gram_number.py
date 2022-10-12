@@ -3,13 +3,18 @@
 
 # # Akkadian Nouns - Grammatical Number
 # 
-# There are numbers: singular, dual and plural
+# There are thre numbers: singular, dual and plural
 # 
-# |     | Masculine | Femenine |
-# |---- | -------- | -------- |
-# | sg. | šarrum   | šarratum |
-# | dual| šarrān   | šarratān |
-# | pl. | šarrū    | šarrātum |
+# | Number | Gender | Substantive | Adjective |   
+# | -----  | ------ | ----------- | --------- |     
+# | sg.    | masc.  | šarrum      | dannum    |    
+# | dual   | masc.  | šarrān      |  -        |
+# | pl.    | masc.  | šarrū       | dannūtum  |
+# | | | |  
+# | sg.    | fem.   | šarratum    | dannatum  |
+# | dual   | fem.   | šarratān    | -         |
+# | pl.    | fem.   | šarrātum    | dannātum  |
 # 
+# The adjectives have no dual forms.
 # 
 # 

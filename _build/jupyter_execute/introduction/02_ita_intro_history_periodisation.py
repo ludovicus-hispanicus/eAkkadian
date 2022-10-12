@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # History and Periodisation
-# Akkadian is due to his geographical and chronological distrbution one of most important languages in the Ancient Near East. The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE. [^kouwenberg_2010] Probably around the middle of the first millenium it was already extinct as a spoken language.
+# The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE. [^kouwenberg_2010] Probably around the middle of the first millenium it was already extinct as a spoken language.
 # 
 # [^kouwenberg_2010]: Kouwenberg 2010, p. 10.
 # 

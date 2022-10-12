@@ -2,4 +2,16 @@
 # coding: utf-8
 
 # # Introduction
-# In this lesson
+# The parts of speech (word classes) in Akkadian are:
+# 
+# - Pronouns
+# - Nouns (Substantive and Adjectives)
+# - Numerals
+# - Verbs
+# - Adverbs
+# - Prepositions
+# - Conjunction
+# - Subjunctions
+# - Negation
+# - Partikeln 
+# - Interjektionen
