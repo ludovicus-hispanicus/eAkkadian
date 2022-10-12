@@ -1,8 +1,4 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
+# # Course Schedule 2022-2023
