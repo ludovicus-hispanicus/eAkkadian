@@ -1,36 +1,44 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Akkadian Nouns - Grammatical case
-# There are three cases: nominative, genitive and accusative. 
+# # Lesson 1
+# 
+# ## Grammatical case
+# In Akkadian there are three cases: 
+# 
+# - The **nominative** has the ending *-um* and indicates the subject in verbal and nominal sentences. For more details see: ABG §153.
+# - The **genitive** has the ending *-im* and indicates possession, accompanies the *status constructus* and after prespositions. For more details see: ABG §154.
+# - The **accusative:** has the ending *-am* and indicates the direct object of the verbs. It is also used in several adverbial expressions. For more details see: ABG §155.
 # 
 # | Number | Gender | Case | Substantive | Adjective |
 # |------- | ------ | -----| ----------- | --------- |
 # | sg.    |  masc. | nom. | šarrum      | dannum    |
 # |        |        | gen. | šarrim      | dannim    |
 # |        |        | acc. | šarram      | dannam    |
-# | dual   |  masc. | nom. | šarrān      |           |
-# |        |        | gen./acc. | šarrīn |           |        
-# | pl.    | masc.  | nom. | šarrū       | dannūtum  |
-# |        |        | gen./acc. | šarrī  | dannūtim  |
 # ||||||
 # | sg.    |  fem   | nom. | šarratum      | dannatum |
 # |        |        | gen. | šarratim      | dannatim |
 # |        |        | acc. | šarratam      | dannatam |
-# | dual   |  fem.  | nom. | šarratān      |  |
-# |        |        | gen./acc. | šarratīn |  |        
-# | pl.    |  fem.  | nom. | šarrātum      | dannātum |
-# |        |        | gen./acc. | šarrātim | dannātum |
 # 
-# Besides there are two more cases: locative-adverbialis and terminative-adverbialis. They can also be used with pronominal suffixes:
+# Besides there are two more cases that already in Old Babylonian are not productive anymore: 
+# 
+# - The **locative-adverbialis** has the ending *-um*. It is replaced by the preposition *ina* + genitiv. It is used mainly in frozen adverial phrases.
+# - The **terminative-adverbialis** 
+# 
+# 
+# They can also be used with pronominal suffixes:
 # 
 # |  casus    | Masculine | Femenine |
 # | --------- | --------  | ------- |
 # | loc.-adv. | qatum  | šarratum |  
 # | ter.-adv. | 
 # 
-# Already in Old Babylonian they are not productive anymore. They are used in fixed phrases.
+# They are used in fixed phrases.
 # 
+# ## Vowel Contractions 
 # 
+# Nouns and adjectives with a final vowel make a contraction with  
+# 
+# examples excercises
 # 
 # 

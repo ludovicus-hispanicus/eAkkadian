@@ -6,4 +6,4 @@
 # 
 # ![Fig. 1 Genetic classification of the Semitic languages. Rebecca Hasselbach-Andee (2021), p. 135](https://i.imgur.com/UrBXdwX.png)
 # 
-# It is still a matter of debate if Eblaite has to be considered as a language on its own or a dialect of an East Semitic laguage that comprises also Akkadian. For more information see xxx
+# It is still a matter of debate if Eblaite has to be considered as a language on its own or a dialect of an East Semitic laguage that comprises also Akkadian. See AG xxi-xxiii; ABG §1.

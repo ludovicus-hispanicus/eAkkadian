@@ -37,7 +37,7 @@
 # | /*s*/    | [s] [voiceless alveolar fricatives](https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative) | ס
 # | /*p*/    | [p] [Voiceless bilabial plosive](https://en.wikipedia.org/wiki/Voiceless_bilabial_plosive) |פ  
 # | /*ṣ*/    | [θʼ] [Dental ejective fricative](https://en.wikipedia.org/wiki/Dental_ejective_fricative) | צ
-# | /*q*/    | [Velar ejective stop](https://en.wikipedia.org/wiki/Velar_ejective_stop) | ק
+# | /*q*/    | [kʼ] [Velar ejective stop](https://en.wikipedia.org/wiki/Velar_ejective_stop) | ק
 # | /*r*/    | [r] [Voiced alveolar trill](https://en.wikipedia.org/wiki/Voiced_dental,_alveolar_and_postalveolar_trills) | ר
 # | /*š*/    | [ʃ] [voiceless palato-alveolar fricative](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative) |ש
 # | /*t*/    | [t] [Voiceless dental plosives](https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_plosives) |ת
