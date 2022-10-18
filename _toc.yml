@@ -11,11 +11,9 @@ parts:
     title: Course Schedule
 - caption: The Book
   chapters:
-  - file: introduction/00_ita_intro_intro
-    title: Introduction
+  - file: introduction/01_ita_intro_akkadian_semitic_language
+    title: Akkadian as a Semitic Language
     sections:
-    - file: introduction/01_ita_intro_akkadian_semitic_language
-      title: Akkadian as a Semitic Language
     - file: introduction/02_ita_intro_history_periodisation
       title: History and Periodisation
     - file: introduction/03_ita_intro_phonems_akkadian
@@ -55,3 +53,21 @@ parts:
     title: Lesson 9
   - file: lesson_10/lesson_10_intro
     title: Lesson 10
+- caption: Datasets
+  chapters:
+  - file: datasets/datasets
+    title: Interact With This Book
+- caption: Extra Materials
+  chapters:
+  - file: extra_materials/grammars
+    title: Akkadian Grammars
+  - file: extra_materials/dictionaries
+    title: Dictionaries and Lexica
+  - file: extra_materials/sign_lists
+    title: Sign Lists
+  - file: extra_materials/textbooks
+    title: Akkadian Textbooks  
+  - file: extra_materials/digital_projects
+    title: Digital Projects
+  - file: extra_materials/digital_tools
+    title: Digital Tools
