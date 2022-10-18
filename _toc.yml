@@ -21,7 +21,7 @@ parts:
     - file: introduction/04_ita_intro_cuneiform
       title: Cuneiform Script
   - file: lesson_01/01_00_intro
-    title: Lesson 1: Introduction
+    title: Introduction
     sections:
     - file: lesson_01/01_01_nouns_status
       title: Status
