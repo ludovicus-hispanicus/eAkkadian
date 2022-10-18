@@ -21,7 +21,7 @@ parts:
     - file: introduction/04_ita_intro_cuneiform
       title: Cuneiform Script
   - file: lesson_01/01_00_intro
-    title: Introduction
+    title: Lesson 1
     sections:
     - file: lesson_01/01_01_nouns_status
       title: Status
@@ -53,6 +53,10 @@ parts:
     title: Lesson 9
   - file: lesson_10/lesson_10_intro
     title: Lesson 10
+- caption: Paradigms
+  chapters:
+  - file: paradigms/01_nouns
+    title: Nominal Paradigm    
 - caption: Datasets
   chapters:
   - file: datasets/datasets

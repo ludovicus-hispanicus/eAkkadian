@@ -17,6 +17,7 @@
     - Preterite
     - Imperative
     - nominal Forms
+- Adverbs
     
 3\. Lesson: Strong Verb (II)
 ---
@@ -25,6 +26,8 @@
     - Stativ
     - Subjunctive
     - Ventive
+- Prepositions
+- Conjunctions
     
 4\. Lesson: Modals
 ---
@@ -34,6 +37,9 @@
 - Emphatic Particle *lū*
 - Vetitive
 - Prohibitiv
+- Negation
+- Partikeln
+- Interjections
 
 5\. Lesson: Stems (I)
 ---

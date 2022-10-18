@@ -1,5 +1,35 @@
-# Sign Lists
-
-- Röllig, *Syllabar* (1991⁴)
-- Borger, *Zeichenlexikon* (2010)
-- Labat, *Manuel* (1988⁶)
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Sign Lists 𒁹\n",
+    "\n",
+    "- ABZ\n",
+    "- MZL\n",
+    "- Labat\n",
+    "- "
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3.10.0 64-bit",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.10.0"
+  },
+  "orig_nbformat": 4,
+  "vscode": {
+   "interpreter": {
+    "hash": "5c26deda390e14352809ff5e3846854a2e41da099b7523d3f7fcda45a1663734"
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
