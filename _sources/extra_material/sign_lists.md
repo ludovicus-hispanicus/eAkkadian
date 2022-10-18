@@ -1,5 +1,4 @@
-# Sign Lists
-
-- Röllig, *Syllabar* (1991⁴)
-- Borger, *Zeichenlexikon* (2010)
-- Labat, *Manuel* (1988⁶)
+# Sign Lists 𒁹
+- ABZ
+- MZL
+- Labat
