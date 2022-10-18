@@ -7,6 +7,8 @@
 # This website hosts an online course book, *Introduction to Akkadian*, which offers a short introduction to the 
 # 
 # **What is Akkadian?**
+# Akkadian is due to his geographical and chronological distrbution one of most important languages in the Ancient Near East. Its written tradition is very long as well. 
+# 
 # Mesopotamia - definition
 # Akkadian - where the names comes from
 # Assyrian Babylonians
@@ -21,4 +23,4 @@
 # interactiv
 # 
 # **Acknowledgements**
-# 
+# The newly published volume *History of Akkadian Language*

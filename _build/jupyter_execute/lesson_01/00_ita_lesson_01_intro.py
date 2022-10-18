@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Introduction
+# # Lesson 1 - Introduction
 # We will follow the classical classification according to [part of speech](https://en.wikipedia.org/wiki/Part_of_speech) (word classes). In Akkadian we classify the following word classes:
 # 
 # - Pronouns

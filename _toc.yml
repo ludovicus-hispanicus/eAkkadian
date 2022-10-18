@@ -59,15 +59,15 @@ parts:
     title: Interact With This Book
 - caption: Extra Materials
   chapters:
-  - file: extra_materials/grammars
+  - file: extra_material/grammars
     title: Akkadian Grammars
-  - file: extra_materials/dictionaries
+  - file: extra_material/dictionaries
     title: Dictionaries and Lexica
-  - file: extra_materials/sign_lists
+  - file: extra_material/sign_lists
     title: Sign Lists
-  - file: extra_materials/textbooks
+  - file: extra_material/textbooks
     title: Akkadian Textbooks  
-  - file: extra_materials/digital_projects
+  - file: extra_material/digital_projects
     title: Digital Projects
-  - file: extra_materials/digital_tools
+  - file: extra_material/digital_tools
     title: Digital Tools

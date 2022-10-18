@@ -25,13 +25,8 @@
 # 
 # The iconic character of the original sign is visible. The Sumerian word for water is /a/. In this use it can be called a logogram, a pictogram or sometimes a sumerogram. It was turned clockwise 90° and became a symbolic sign that could also have a phonetic value. In this case /a/. Over time it acquired new phonetic and logographic values. In this case up to 24 phonetic values and 3 logographic values (if we count the cases where it is the first part of a composite sign, the number of possibilities is even higher). This is representative for all cuneiform signs. They can have more than one phonetic and logographic value.
 # 
-# 
-# ## Number of Signs
-# The cuneiform writing, considered from its beginning until the end of its use, has about 1000 signs. Nevertheless, at no period of time were they used in its entirety. It varied from period to period, genres, etc. Besides, the shape of the signs changed geographically as well as diachronically. 
-# 
 # ## Cuneiform Signs
 # Each sign can consists on following elements
-# 
 # 
 # | Element | Wedge | 
 # | -------- | -------- | 
@@ -81,8 +76,6 @@
 # | 𒀀 | A | A (water) | a | -
 # | 𒆷 | LA | LA (plenty) | la | - | 
 #     
-# 
-# 
 # Example
 # 
 # ## Types of Phonograms
@@ -106,4 +99,6 @@
 # | EN | 𒂗 | be-lu-um | 𒁁𒇻𒌝
 # | GAL | 𒃲 | ra-bu-um | 𒊏𒁍𒌝
 # 
+# ## Number of Signs
+# The cuneiform writing, considered from its beginning until the end of its use, has about 1000 signs. Nevertheless, at no period of time were they used in its entirety. It varied from period to period, genres, etc. Besides, the shape of the signs changed geographically as well as diachronically. 
 # 
