@@ -12,7 +12,7 @@ parts:
 - caption: The Book
   chapters:
   - file: introduction/01_ita_intro_akkadian_semitic_language
-    title: Akkadian as a Semitic Language
+    title: Introduction
     sections:
     - file: introduction/02_ita_intro_history_periodisation
       title: History and Periodisation
@@ -20,21 +20,21 @@ parts:
       title: Phonems in Akkadian
     - file: introduction/04_ita_intro_cuneiform
       title: Cuneiform Script
-  - file: lesson_01/00_ita_lesson_01_intro
-    title: Lesson 1
+  - file: lesson_01/01_00_intro
+    title: Lesson 1: Introduction
     sections:
-    - file: lesson_01/01_ita_lesson_01_ita_akkadian_nouns_01_status
+    - file: lesson_01/01_01_nouns_status
       title: Status
-    - file: lesson_01/01_ita_lesson_01_ita_akkadian_nouns_02_gender
+    - file: lesson_01/01_02_nouns_gender
       title: Gender
-    - file: lesson_01/01_ita_lesson_01_ita_akkadian_nouns_03_casus
+    - file: lesson_01/01_03_nouns_casus
       title: Case
-    - file: lesson_01/01_ita_lesson_01_ita_akkadian_nouns_04_gram_number
+    - file: lesson_01/01_04_gram-number
       title: Grammatical Number
-    - file: lesson_01/02_ita_lesson_01_akkadian_adjectives
-      title: Akkadian Adjective
-    - file: lesson_01/03_ita_lesson_01_ita_akkadian_pronouns
-      title: Akkadian Pronouns      
+    - file: lesson_01/01_05_status-constructus
+      title: Status Constructus
+    - file: lesson_01/01_06_pronouns_01
+      title: Pronouns Part 1      
   - file: lesson_02/lesson_02_intro
     title: Lesson 2
   - file: lesson_03/lesson_03_intro
@@ -56,7 +56,7 @@ parts:
 - caption: Datasets
   chapters:
   - file: datasets/datasets
-    title: Interact With This Book
+    title: Datasets
 - caption: Extra Materials
   chapters:
   - file: extra_material/grammars
