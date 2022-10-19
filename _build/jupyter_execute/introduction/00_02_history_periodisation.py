@@ -8,7 +8,10 @@
 # 
 # Die native designation of the language was *akkadû* i.e. *akkadītu* “Akkadian”. It is also used to refer to its dialect like "Babylonian" or "Assyrian". The name derives from the city of the empire's capital Akkade (2400-2200 BCE), which is situated near to [Samarra](https://goo.gl/maps/6Acv17T7a1Mb2qF69).[^Sommerfeld_2021] 
 # 
-# > In the begining of the Assyriology it was assumed that the language was Assyrian. That is why this discipline is until today known as "Assyriology". 
+# `````{admonition} To Show-off 🤓 
+# :class: tip
+# In the begining of the Assyriology it was assumed that the language was Assyrian. That is why this discipline is until today known as "Assyriology."
+# `````
 # 
 # [^Sommerfeld_2021]: Sommerfeld 2021, p. 514.
 # 

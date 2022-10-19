@@ -1,5 +1,5 @@
 format: jb-book
-root: ita_welcome
+root: welcome
 parts:
 - caption: How To
   chapters:
@@ -28,9 +28,9 @@ parts:
     - file: lesson_01/01_01_nouns_status
       title: Status
     - file: lesson_01/01_02_nouns_gender
-      title: Gender
+      title: Grammatical Gender
     - file: lesson_01/01_03_nouns_casus
-      title: Case
+      title: Grammatical Case
     - file: lesson_01/01_04_gram-number
       title: Grammatical Number
     - file: lesson_01/01_05_status-constructus

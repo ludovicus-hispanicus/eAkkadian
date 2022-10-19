@@ -9,10 +9,10 @@
 # 
 # | Short Vowels| Long Vowels |
 # | -------- | -------- |
-# | a        | ā/â |
-# | e        | ē/ê |
-# | i        | ī/î |
-# | u        | ū/û |
+# | *a*        | *ā*/*â* |
+# | *e*        | *ē*/*ê* |
+# | *i*        | *ī*/*î* |
+# | *u*       | *ū*/*û* |
 # 
 # It is possible that the vowel "o" existed but it was not represented in the script. Vowels can be short or long. The *macron* designates a structural lenght or lenght that originates from the [monophthongization](https://en.wikipedia.org/wiki/Monophthongization) of the diphthongs \*/aw/ and \*/ay/. Long vowels with the circumphlex *â* originate from the contraction of two neighbouring vowels.
 # 

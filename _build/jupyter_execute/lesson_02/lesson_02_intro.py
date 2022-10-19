@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Lesson 2 - Stems
+# # L2.1: Stems
 # 
 # - Stems
 # - G-Stem

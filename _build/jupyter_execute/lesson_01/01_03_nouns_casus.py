@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Lesson 1: Grammatical case
+# (casus)=
+# # L1.3: Grammatical Case
 # In Akkadian there are three grammatical cases: 
 # 
 # - The **nominative** has the ending *-um* and indicates the subject in verbal and nominal sentences. For more details see: ABG §153.
@@ -20,8 +21,8 @@
 # 
 # All other cases are expressed with prepositions. Besides there are two more cases that already in Old Babylonian are not productive anymore: 
 # 
-# - The **locative-adverbialis** has the ending *-um*. It is replaced by the preposition *ina* + genitiv. It is used mainly in frozen adverial phrases. It can be used with pronominal suffixes. 
-# - The **terminative-adverbialis** has the ending *-iš*. It is replaced by the preposition *ana* + genitive.
+# - The **locative** has the ending *-um*. It is replaced by the preposition *ina* + genitiv. It is used mainly in frozen adverial phrases. It can be used with pronominal suffixes. 
+# - The **terminative** has the ending *-iš*. It is replaced by the preposition *ana* + genitive.
 # 
 # |  Case     | Noun    | Femenine |
 # | --------- | ------- | ------- |
@@ -29,6 +30,7 @@
 # | loc.-adv. | *rittūšša* (\<*ritt-um-ša*) | into her hand |
 # | ter.-adv. | *ašar-iš* | to the place |
 # 
+# (vowel-conraction)=
 # ## Vowel Contractions 
 # When two vowels appear consecutively, they are usually contracted. Generally the second one dominates. This contraction length is shown by circumflex:
 # 

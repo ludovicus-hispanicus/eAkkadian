@@ -4,7 +4,10 @@
 # # L0.4: Cuneiform Script
 # In the south of Mesopotamia, at the end of the fourth millennium BCE, a writing system based on ideograms was invented for bookkeeping. This writting system is today known as "cuneiform". The name "cuneiform" derives from the latin word *cuneus* "wedge" and *forme* "form" . It denotes the shape of the strokes. Thomas Hyde was the first one to name it "cuneiformes".[^thomas_hyde_1700] 
 # 
-# >The native designation for the cuneiform script was *tikip santakku* "triangle script". Before the descifermet of this script they were also called *dactuli pyramidales*, *pyramidales figura* "pyramidal signs". 
+# `````{admonition} To Show-off 🤓 
+# :class: tip
+# The native designation for the cuneiform script was *tikip santakku* "triangle script". Before the descifermet of this script they were also called *dactuli pyramidales*, *pyramidales figura* "pyramidal signs".
+# `````
 # 
 # The texts were written on clay, and they just contained personal names and lists of goods. The identification of a language behind these ideograms is problematic, although it is very probable that it was Sumerian[^krebernik_2022] The first understandable texts come from Ur from around the 28th century BCE. They are undoubtedly written in Sumerian. Already in these texts a Semitic name, very likely an Akkadian name, is attested.[^sallaberger_2004] This shows the coexistence of these two languages from almost the beginning of written Mesopotamian history. This form of writing together with the Akkadian language spread throughout Mesopotamia and became dominant in the ancient Near East until the 1st Millennium BCE, when they were gradually replaced by the Aramaic language and its alphabetic script.[^streck_2007] Not only Sumerian and Akkadian used the cuneiform script, but also Hittite, Hurrian, Elamite, Ugaritic and several other smaller languages around the ancient Near East.
 # 

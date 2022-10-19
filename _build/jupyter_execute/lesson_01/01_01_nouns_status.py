@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Lesson 1: Status
-# In Akkadian there are three status:
+# (state)=
+# # L1.1: Status
+# The status is the form the noun takes when it stands by itself or in relation to another noun. in In Akkadian there are three status:
 # 
-# **Status rectus** is the inflected (nominative, genitive, accusative) form of the noun without genitive. 
+# (st-rt)=
+# ### Status Rectus
+# This is the the inflected (nominative, genitive, accusative) form of the noun, when it is not before the a noun in genitive. 
 # 
 # | *Status rectus* | Translation |
 # |---------------- | ----------- |
@@ -13,24 +16,30 @@
 # | *ālim*  (gen.)  | city        |
 # | *bēlum* (nom.)  | lord        |
 # 
-# The endings in the *status rectus* contains the elemen *-m* and is called [*mimmation*](https://en.wikipedia.org/wiki/Mimation) (there is also an ending with *-n* called [*nunnation*](https://en.wikipedia.org/wiki/Nunation)). It begins to desappear already in the old Babylonian period, later on completely. For more details see 
 # 
-# **Status constructus** is the form of a noun before another one in genitiv and before a possessive suffix. This is found in all semitic languages. For more details see 
+# `````{admonition} To Show-off 🤓 
+# :class: tip
+# From now on this status won't be mentioned, but remember that if 
+# `````
 # 
-# | Status rectus | *Status constructus* | Genitiv | Translation       |     | Possessive suffix  | Translation |
+# (st-ct)=
+# ### Status Constructus
+# This is the form of a noun before another one in genitiv and before a possessive suffix. This is found in all semitic languages. For more details see 
+# 
+# | *Status rectus* | *Status constructus* | Genitiv | Translation       |     | Possessive suffix  | Translation |
 # | ------------- | -------------------- | ------- | ----------------- | --- | ------------------ | ----------- |
 # | *bēlum*       | *bēl*                | *ālim*  | lors of the city  |     | *bēl-ī*              | my lord     |
 # 
 # 
-# **Status absolutus** is the form without ending. It occurs rarely and it is used for the vocative, numerals, measures of length , weight, etc. and in some frozen idiomatic expressions. This is found only in Akkadian and Aramaic.
+# (st-ab)=
+# ### Status Absolutus
+# Thi is the form without ending. It occurs rarely and it is used for the vocative, numerals, measures of length, weight, etc. and in some frozen idiomatic expressions. This is found only in Akkadian and Aramaic.
 # 
-# | Status absolutus | status rectus | Translation |
+# | *Status absolutus* | *Status rectus* | Translation |
 # |----------------- | ------------- | ----------- |
-# | zikar[^\*]           | zikarum       | viril       |
+# | zikar[^\*]       | zikarum       | viril       |
 # | šarrat           | šarratum      | queen       |
-# | šinniš[^\*]          | šinništum     | woman       |
+# | šinniš[^\*]      | šinništum     | woman       |
 # 
 # [^\*]: they are often used in the idiomatic expressions *zikar u šinniš* "male and female".
-# 
-# ## Declension
 # 
