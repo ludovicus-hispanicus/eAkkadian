@@ -16,10 +16,10 @@
 
 ## Loanwords dictionaries,
 
-    - Sumerian Loanwords in Old Babylonian: Lieberman, Sumerian Loanwords (1977, partly outdated),
-    - North-West Semitic Vocabulary in Middle Babylonian texts: Sivan, Grammatical analysis (1984),
-    - North-West Semitic vocabulary in the Middle Babylonian texts from Emar in Syria: Pentiuc, West Semitic (2001). ,
-    - Aramaic loanwords in Neo-Assyrian: Cherry, Aramaic Loanwords (2017). ,
-    - Akkadian loanwords in Biblical Hebrew: Mankowski, Akkadian Loanwords (2000).,
+- Sumerian Loanwords in Old Babylonian: Lieberman, Sumerian Loanwords (1977, partly outdated),
+- North-West Semitic Vocabulary in Middle Babylonian texts: Sivan, Grammatical analysis (1984),
+- North-West Semitic vocabulary in the Middle Babylonian texts from Emar in Syria: Pentiuc, West Semitic (2001). ,
+- Aramaic loanwords in Neo-Assyrian: Cherry, Aramaic Loanwords (2017). ,
+- Akkadian loanwords in Biblical Hebrew: Mankowski, Akkadian Loanwords (2000).,
 
 ## Reallexikon der Assyriologie
