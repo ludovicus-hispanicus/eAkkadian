@@ -3,7 +3,7 @@
 
 # # Lesson 1: Gender
 # 
-# ## Substantives
+# ## Nouns
 # There are two genders: masculine and feminine. Masculine nouns have no special ending, the femenines have -t or -at.
 # 
 # | Masculine | Translation |   | Feminine | Translation |
@@ -25,7 +25,7 @@
 # 
 # For more exception to this rules see: ABG §146, AG 2.1(e).
 # 
-# ## Adjectives - Gender
+# ## Adjectives
 # The adjective has to be congruent with its substantive and is placed normally after the substantive.
 # 
 # |Gender | Noun     | Adjective | Translation |

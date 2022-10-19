@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Lesson 1: Staus
+# # Lesson 1: Status
 # In Akkadian there are three status:
 # 
 # **Status rectus** is the inflected (nominative, genitive, accusative) form of the noun without genitive. 
@@ -31,3 +31,6 @@
 # | šinniš[^\*]          | šinništum     | woman       |
 # 
 # [^\*]: they are often used in the idiomatic expressions *zikar u šinniš* "male and female".
+# 
+# ## Declension
+# 

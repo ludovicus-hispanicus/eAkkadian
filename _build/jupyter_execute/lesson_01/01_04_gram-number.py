@@ -13,7 +13,7 @@
 # |------- | ------ | -----| ----------- | --------- |
 # | sg.    |  masc. | nom. | *šarrum*    | *dannum*  |
 # |        |        | gen. | *šarrim*    | *dannim*  |
-# |        |        | acc. | *šarram*      | *dannam*   |
+# |        |        | acc. | *šarram*    | *dannam*  |
 # | dual   |  masc. | nom. | *šarrān*      | -         |
 # |        |        | gen./acc. | *šarrīn* | -         |        
 # | pl.    | masc.  | nom. | *šarrū*       | *dannūtum*  |

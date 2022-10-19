@@ -11,15 +11,17 @@ parts:
     title: Course Schedule
 - caption: The Book
   chapters:
-  - file: introduction/01_ita_intro_akkadian_semitic_language
+  - file: introduction/00_01_akkadian_semitic_language
     title: Introduction
     sections:
-    - file: introduction/02_ita_intro_history_periodisation
+    - file: introduction/00_02_history_periodisation
       title: History and Periodisation
-    - file: introduction/03_ita_intro_phonems_akkadian
+    - file: introduction/00_03_phonems_akkadian
       title: Phonems in Akkadian
-    - file: introduction/04_ita_intro_cuneiform
+    - file: introduction/00_04_cuneiform
       title: Cuneiform Script
+    - file: introduction/00_05_word_class
+      title: Word Classes in Akkadian  
   - file: lesson_01/01_00_intro
     title: Lesson 1
     sections:
