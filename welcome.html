@@ -52,6 +52,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="How to interact with this book" href="How-To-Interact-With-This-Book.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -100,8 +101,8 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="bd-toc-item active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1">
-                <a class="reference internal" href="welcome.html">
+            <li class="toctree-l1 current active">
+                <a class="reference internal" href="#">
                     Introduction to Akkadian
                 </a>
             </li>
@@ -367,6 +368,35 @@ title="Toggle navigation"
         
     </div>
     <div class="header-article__right">
+<div class="menu-dropdown menu-dropdown-launch-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Launch interactive content">
+      <i class="fas fa-rocket"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/master?urlpath=tree/welcome.ipynb"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Launch on Binder"
+>
+  
+
+<span class="headerbtn__icon-container">
+  
+    <img src="_static/images/logo_binder.svg">
+  </span>
+<span class="headerbtn__text-container">Binder</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
 <button onclick="toggleFullScreen()"
   class="headerbtn"
   data-toggle="tooltip"
@@ -389,7 +419,7 @@ title="Fullscreen mode"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="_sources/README.md"
+        <a href="_sources/welcome.ipynb"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -400,7 +430,7 @@ title="Download source file"
 <span class="headerbtn__icon-container">
   <i class="fas fa-file"></i>
   </span>
-<span class="headerbtn__text-container">.md</span>
+<span class="headerbtn__text-container">.ipynb</span>
 </a>
 
       </li>
@@ -426,94 +456,12 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-nominals-and-pronouns">
-   1. Lesson: Nominals and Pronouns
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-strong-verb-i">
-   2. Lesson: Strong Verb (I)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-strong-verb-ii">
-   3. Lesson: Strong Verb (II)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-modals">
-   4. Lesson: Modals
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-stems-i">
-   5. Lesson: Stems (I)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-stem-ii">
-   6. Lesson: Stem (II)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-verb-iii-weak">
-   7. Lesson: Verb III weak
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-verb-ii-weak">
-   8. Lesson: Verb II weak
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-verbs-i-n-w">
-   9. Lesson: Verbs I
-   <em>
-    ʾ/n/w
-   </em>
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-quadriliteral-verbs-and-irregular-verbs">
-   10. Lesson: Quadriliteral verbs and irregular verbs
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#teaching-material">
-   Teaching Material
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#extra-material">
-   Extra Material
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
@@ -525,77 +473,6 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-nominals-and-pronouns">
-   1. Lesson: Nominals and Pronouns
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-strong-verb-i">
-   2. Lesson: Strong Verb (I)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-strong-verb-ii">
-   3. Lesson: Strong Verb (II)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-modals">
-   4. Lesson: Modals
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-stems-i">
-   5. Lesson: Stems (I)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-stem-ii">
-   6. Lesson: Stem (II)
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-verb-iii-weak">
-   7. Lesson: Verb III weak
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-verb-ii-weak">
-   8. Lesson: Verb II weak
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-verbs-i-n-w">
-   9. Lesson: Verbs I
-   <em>
-    ʾ/n/w
-   </em>
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lesson-quadriliteral-verbs-and-irregular-verbs">
-   10. Lesson: Quadriliteral verbs and irregular verbs
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#teaching-material">
-   Teaching Material
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#extra-material">
-   Extra Material
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -605,131 +482,34 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="introduction-to-akkadian">
 <h1>Introduction to Akkadian<a class="headerlink" href="#introduction-to-akkadian" title="Permalink to this headline">#</a></h1>
-<section id="lesson-nominals-and-pronouns">
-<h2>1. Lesson: Nominals and Pronouns<a class="headerlink" href="#lesson-nominals-and-pronouns" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Nouns</p>
-<ul>
-<li><p>Status</p></li>
-<li><p>Declination</p></li>
-<li><p>Status constructus</p></li>
-</ul>
-</li>
-<li><p>Adjectives</p></li>
-<li><p>Pronouns</p></li>
-</ul>
-</section>
-<section id="lesson-strong-verb-i">
-<h2>2. Lesson: Strong Verb (I)<a class="headerlink" href="#lesson-strong-verb-i" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Stems</p></li>
-<li><p>G-Stem</p>
-<ul>
-<li><p>Present</p></li>
-<li><p>Preterite</p></li>
-<li><p>Imperative</p></li>
-<li><p>nominal Forms</p></li>
-</ul>
-</li>
-<li><p>Adverbs</p></li>
-</ul>
-</section>
-<section id="lesson-strong-verb-ii">
-<h2>3. Lesson: Strong Verb (II)<a class="headerlink" href="#lesson-strong-verb-ii" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>G-Stem</p>
-<ul>
-<li><p>Perfect</p></li>
-<li><p>Stativ</p></li>
-<li><p>Subjunctive</p></li>
-<li><p>Ventive</p></li>
-</ul>
-</li>
-<li><p>Prepositions</p></li>
-<li><p>Conjunctions</p></li>
-</ul>
-</section>
-<section id="lesson-modals">
-<h2>4. Lesson: Modals<a class="headerlink" href="#lesson-modals" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Volitional</p></li>
-<li><p>Cohortative</p></li>
-<li><p>Precative</p></li>
-<li><p>Emphatic Particle <em>lū</em></p></li>
-<li><p>Vetitive</p></li>
-<li><p>Prohibitiv</p></li>
-<li><p>Negation</p></li>
-<li><p>Partikeln</p></li>
-<li><p>Interjections</p></li>
-</ul>
-</section>
-<section id="lesson-stems-i">
-<h2>5. Lesson: Stems (I)<a class="headerlink" href="#lesson-stems-i" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Gt-Stem</p></li>
-<li><p>D-Stem</p></li>
-<li><p>Dt-Stem</p></li>
-<li><p>Š-Stem</p></li>
-<li><p>Št-Stem</p></li>
-</ul>
-</section>
-<section id="lesson-stem-ii">
-<h2>6. Lesson: Stem (II)<a class="headerlink" href="#lesson-stem-ii" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>N-stem</p></li>
-<li><p><em>tan</em>-stem</p></li>
-<li><p>ŠD-stem</p></li>
-</ul>
-</section>
-<section id="lesson-verb-iii-weak">
-<h2>7. Lesson: Verb III weak<a class="headerlink" href="#lesson-verb-iii-weak" title="Permalink to this headline">#</a></h2>
-</section>
-<section id="lesson-verb-ii-weak">
-<h2>8. Lesson: Verb II weak<a class="headerlink" href="#lesson-verb-ii-weak" title="Permalink to this headline">#</a></h2>
-</section>
-<section id="lesson-verbs-i-n-w">
-<h2>9. Lesson: Verbs I <em>ʾ/n/w</em><a class="headerlink" href="#lesson-verbs-i-n-w" title="Permalink to this headline">#</a></h2>
-</section>
-<section id="lesson-quadriliteral-verbs-and-irregular-verbs">
-<h2>10. Lesson: Quadriliteral verbs and irregular verbs<a class="headerlink" href="#lesson-quadriliteral-verbs-and-irregular-verbs" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Quadriliteral verbs</p></li>
-<li><p>Irregular N-Stem</p></li>
-<li><p>The irregular verb <em>izuzzum</em></p></li>
-<li><p>Double weak Verbs</p></li>
-</ul>
-</section>
-<section id="teaching-material">
-<h2>Teaching Material<a class="headerlink" href="#teaching-material" title="Permalink to this headline">#</a></h2>
-<p>Abbreviations</p>
-<ul class="simple">
-<li><p>Ungnad</p></li>
-<li><p>GAG</p></li>
-<li><p>MesZL</p></li>
-<li><p>Huehnegard</p></li>
-<li><p>Caplice
-For a more more extended abbreviations list see the <a class="reference external" href="https://rla.badw.de/reallexikon/abkuerzungslisten.html">Reallexikon der Assyriologie</a>
-Tables</p></li>
-<li><p>Periodisation
-Paradigms
-Vokabular
-Excercises</p></li>
-</ul>
-</section>
-<section id="extra-material">
-<h2>Extra Material<a class="headerlink" href="#extra-material" title="Permalink to this headline">#</a></h2>
-<ul class="simple">
-<li><p>Anki</p></li>
-<li><p>CDLI</p></li>
-<li><p>Cuneify</p></li>
-<li><p>ORACC</p></li>
-<li><p>ARMEP</p></li>
-<li><p>British Museum</p></li>
-<li><p>Louvre</p></li>
-<li><p>Dicta</p></li>
-</ul>
-<p>Bibliographie</p>
-</section>
+<p><strong>Design by the <a class="reference external" href="https://digitalpasts.github.io/">Digital Pasts Lab</a></strong> // <strong>Powered by <a class="reference external" href="https://jupyterbook.org/en/stable/intro.html">Jupiter Book</a></strong></p>
+<p>This website hosts an online course book, <em>Introduction to Akkadian</em>, which offers a short introduction to the</p>
+<p><strong>What is Akkadian?</strong>
+Akkadian is due to his geographical and chronological distrbution one of most important languages in the Ancient Near East. Its written tradition is very long as well.</p>
+<p>Mesopotamia - definition
+Akkadian - where the names comes from
+Assyrian Babylonians
+Arameans, Hebrews, Greeks
+Great epic: Gilgamesh, Enuma elish
+Great monuments: Ninive</p>
+<p><strong>Why in Jupyter Notebooks?</strong>
+This is the forst attempt to write an online course
+flexible
+interactiv</p>
+<p><strong>Acknowledgements</strong>
+The newly published volume <em>History of Akkadian Language</em></p>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -759,6 +539,13 @@ Excercises</p></li>
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
+    <a class='right-next' id="next-link" href="How-To-Interact-With-This-Book.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">How to interact with this book</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
             </footer>
         </div>
