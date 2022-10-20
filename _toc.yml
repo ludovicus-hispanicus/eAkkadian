@@ -63,20 +63,22 @@ parts:
   chapters:
   - file: datasets/datasets
     title: Datasets
-- caption: Extra Materials
+- caption: Bibliography
   chapters:
-  - file: extra_material/grammars
-    title: Akkadian Grammars
-  - file: extra_material/dictionaries
-    title: Dictionaries and Lexica
-  - file: extra_material/sign_lists
-    title: Sign Lists
-  - file: extra_material/textbooks
+  - file: bibliography/general_bibliography
+    title: General Bibliography
+  - file: bibliography/textbooks
     title: Akkadian Textbooks  
+  - file: bibliography/grammars
+    title: Akkadian Grammars
+  - file: bibliography/dictionaries
+    title: Dictionaries and Lexica
+  - file: bibliography/sign_lists
+    title: Sign Lists
+- caption: Extra Material
+  chapters:
   - file: extra_material/digital_projects
     title: Digital Projects
   - file: extra_material/digital_tools
     title: Digital Tools
-- caption: Bibliography
-  chapters:
-  - file: bibliography
+  

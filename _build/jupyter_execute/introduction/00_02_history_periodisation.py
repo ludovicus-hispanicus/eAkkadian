@@ -2,13 +2,13 @@
 # coding: utf-8
 
 # # L0.2: History and Periodisation
-# The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE. [^kouwenberg_2010] Probably around the middle of the first millenium it was already extinct as a spoken language.
+# The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE.[^kouwenberg_2010] Probably around the middle of the first millenium it was already extinct as a spoken language.
 # 
-# [^kouwenberg_2010]: Kouwenberg 2010, p. 10.
+# [^kouwenberg_2010]: {cite}`kouwenberg_akkadian_2010`, p. 10.
 # 
 # Die native designation of the language was *akkadû* i.e. *akkadītu* “Akkadian”. It is also used to refer to its dialect like "Babylonian" or "Assyrian". The name derives from the city of the empire's capital Akkade (2400-2200 BCE), which is situated near to [Samarra](https://goo.gl/maps/6Acv17T7a1Mb2qF69).[^Sommerfeld_2021] 
 # 
-# `````{admonition} To Show-off 🤓 
+# `````{admonition} Knowledge to show-off 🤓 
 # :class: tip
 # In the begining of the Assyriology it was assumed that the language was Assyrian. That is why this discipline is until today known as "Assyriology."
 # `````
@@ -18,7 +18,7 @@
 # The Akkadian language has three dialects: Old Akkadian, Babylonian, Assyrian and the so called **Standard Babylonian**. The conventional periodisation for the Akkadian dilaects is as follows:[^Hasselbach-Andee]
 # 
 # 
-# [^Hasselbach-Andee]: See [Hasselbach-Andee (2021), p.137](htps://doi.org/10.1163/9789004445215_007)
+# [^Hasselbach-Andee]: See Hasselbach-Andee (2021), p.137
 # 
 # 
 # | Period              | Old Akkdian  | Babylonian        | Assyrian |
@@ -36,7 +36,7 @@
 # 
 # The **Assyrian** dialect is named after the city of Assur. Is was spoken in the North of Mesopotamia and the western bank of the Tigris. This dialect is also well attested.
 # 
-# The [Standard Babylonian](/NHr2dsKbS8mPXkO6aK7mvQ) is a scientific and literary variety that appears after the Old Babylonian period[^discussion_standard_babylonian] and tries to emulate it. It was widely used in and outside Mesopotamia.
+# The Standard Babylonian is a scientific and literary variety that appears after the Old Babylonian period[^discussion_standard_babylonian] and tries to emulate it. It was widely used in and outside Mesopotamia.
 # 
 # [^discussion_standard_babylonian]: AGA, p. 4.; Kouwenberg 2010, p. 16;  Godnick Westenholz 1997. 
 # 
