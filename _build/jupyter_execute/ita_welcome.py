@@ -9,12 +9,12 @@
 # **What is Akkadian?**
 # Akkadian is due to his geographical and chronological distrbution one of most important languages in the Ancient Near East. Its written tradition is very long as well. 
 # 
-# Mesopotamia - definition
-# Akkadian - where the names comes from
-# Assyrian Babylonians
-# Arameans, Hebrews, Greeks
-# Great epic: Gilgamesh, Enuma elish
-# Great monuments: Ninive 
+# - Mesopotamia - definition
+# - Akkadian - where the names comes from
+# - Assyrian Babylonians
+# - Arameans, Hebrews, Greeks
+# - Great epic: Gilgamesh, Enuma elish
+# - Great monuments: Ninive 
 # 
 # 
 # **Why in Jupyter Notebooks?**

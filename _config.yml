@@ -3,7 +3,10 @@ title: Introduction to Akkadian  # The title of the book. Will be placed in the 
 author: Shai Gordin and Luis Sáenz  # The author of the book
 execute:
   execute_notebooks: force
-  
-# Add a bibtex file so that we can create citations
+
+# References-Bibliography
 bibtex_bibfiles:
-    - references.bib
+  - references.bib
+sphinx:
+  config:
+    bibtex_reference_style: author_year
