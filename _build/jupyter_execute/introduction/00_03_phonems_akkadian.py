@@ -42,4 +42,6 @@
 # | /*š*/    | [ʃ] [voiceless palato-alveolar fricative](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative) |ש
 # | /*t*/    | [t] [Voiceless dental plosives](https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_plosives) |ת
 # 
+# ``` {note}
 # The length in consonants is written with [gemination](https://en.wikipedia.org/wiki/Gemination), e.g.: *ša-ar-rum* for *šarrum* "king".
+# ```

@@ -15,7 +15,7 @@
 # 
 # [^Sommerfeld_2021]: Sommerfeld 2021, p. 514.
 # 
-# The Akkadian language has three dialects: Old Akkadian, Babylonian, Assyrian and the so called [Standard Babylonian](/NHr2dsKbS8mPXkO6aK7mvQ). The conventional periodisation for the Akkadian dilaects is as follows:[^Hasselbach-Andee]
+# The Akkadian language has three dialects: Old Akkadian, Babylonian, Assyrian and the so called **Standard Babylonian**. The conventional periodisation for the Akkadian dilaects is as follows:[^Hasselbach-Andee]
 # 
 # 
 # [^Hasselbach-Andee]: See [Hasselbach-Andee (2021), p.137](htps://doi.org/10.1163/9789004445215_007)
@@ -40,6 +40,9 @@
 # 
 # [^discussion_standard_babylonian]: AGA, p. 4.; Kouwenberg 2010, p. 16;  Godnick Westenholz 1997. 
 # 
-# > Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See Godnick Westenholz 1997.
+# ```{note} 
+# Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See Godnick Westenholz 1997.
+# ``` 
+# 
 # 
 # 

@@ -3,7 +3,7 @@
 
 # (state)=
 # # L1.1: Status
-# The status is the form the noun takes when it stands by itself or in relation to another noun. in In Akkadian there are three status:
+# The status is the form the noun takes when it stands by itself or in relation to another noun. In Akkadian there are three status:
 # 
 # (st-rt)=
 # ### Status Rectus

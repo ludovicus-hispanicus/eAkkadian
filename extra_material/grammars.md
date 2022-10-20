@@ -1,3 +1,3 @@
 # Akkadian Grammars 📖
 
-Wolfram von Soden, *Grundriss* (1995³)
+Wolfram von Soden, {cite} `GAG_95`
