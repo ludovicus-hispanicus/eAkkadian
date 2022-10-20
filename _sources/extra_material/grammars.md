@@ -3,4 +3,5 @@
 Wolfram von Soden, {cite}`GAG_95`.
 
 ```{bibliography}
+:style: unsrt
 ```
