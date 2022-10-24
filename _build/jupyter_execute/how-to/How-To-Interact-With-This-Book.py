@@ -14,8 +14,9 @@
 # ## Download Jupyter Notebook
 # You can download any Jupyter notebook page from this book as a Jupyter notebook file (.ipynb). Hover over the download icon and click “.ipynb”
 # 
-# {attention}
-# To work with this .ipynb file, you will need to have [Jupyter installed](02-Python/Installation) and running on your own computer.
+# ````{attention}
+# To work with this .ipynb file, you will need to have Jupyter installed and running on your own computer.
+# ````
 # 
 # ## Download PDF
 # You can download any Jupyter notebook page from this book as a PDF file. Hover over the download icon and click ".pdf"
@@ -23,10 +24,13 @@
 # ## Make Full Screen
 # To make any page from this book full screen, click the full screen icon at the top of the page.
 # 
+# ## Cuneiform Font 𒀀
+# In this course we will mainly use the Neo-Assyrian script. In order to visualize it, you may want to download [Assurbanipal](https://www.hethport.uni-wuerzburg.de/cuneifont/) under the link "Neo-Assyrian Font" and install it. Otherwise the browser will use the [default font](https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)), which actually are design according to the Old Babylonian ductus.  
+# 
 # ## Open Issue on GitHub
 # If you run into any issues or would like to make a suggestion, you can open an issue on GitHub by hovering over the GitHub icon and clicking "open issue."
 # 
-# You can also email me with issues or suggestions at digpasts@gmail.com.
+# You can also email me with issues or suggestions at digpasts@gmail.com. 
 # 
 # 
 # 
