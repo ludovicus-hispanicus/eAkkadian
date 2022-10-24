@@ -3,3 +3,5 @@
 - Wincompose
 - Cuneiform fonts
 - Typing cuneiform
+- CuReD
+- 
