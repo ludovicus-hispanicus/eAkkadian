@@ -1,4 +1,5 @@
 # Nouns Paradigm
 
-Nouns in *status rectus*
-
+(parag-st-rt)=
+## Nouns in *status rectus*
+bla

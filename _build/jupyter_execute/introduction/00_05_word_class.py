@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# (word-class)=
 # # L0.5: Word Class (Parts of Speech) 
 # We will follow the classical classification according to [part of speech](https://en.wikipedia.org/wiki/Part_of_speech) (word classes) as modern scholars in Assyriology follow this classification as well. In Akkadian we classify the following word classes:
 # 
 # - **Pronouns** 
-#   - Part 1: ↑[L1.6](C:\Users\luiss\introduction_to_akkadian\lesson_01\01_06_pronouns_01.ipynb)
+#   - Part 1: ↑[L1.6](pron-1)
 #   - Part 2: ↑
 #   - Part 3: ↑
 # - **Nouns** 

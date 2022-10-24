@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# (akk-phon)=
 # # L0.3: Phonems in Akkadian
 # Akkadian is a reconstructed language, so it is impossible to determine how phonemes were pronounced exactly. In this sense, pronunciation is a scholar’s convention derived from other Semitic languages, cuneiform orthographie and transliteration of Akkadian into other writing systems.
 # 
@@ -45,3 +46,10 @@
 # ``` {note}
 # The length in consonants is written with [gemination](https://en.wikipedia.org/wiki/Gemination), e.g.: *ša-ar-rum* for *šarrum* "king".
 # ```
+
+# In[1]:
+
+
+import IPython
+IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\gilgamesch-XI_Hecker.mp3")
+

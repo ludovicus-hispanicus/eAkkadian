@@ -3,17 +3,21 @@ root: ita_welcome
 parts:
 - caption: How To
   chapters:
-  - file: How-To-Interact-With-This-Book
+  - file: how-to/How-To-Interact-With-This-Book
     title: Interact With This Book
+  - file: how-to/conventions
+    title: Conventions
 - caption: The Course
   chapters:
   - file: course-schedule-2022-2023
     title: Course Schedule
 - caption: The Book
   chapters:
-  - file: introduction/00_01_akkadian_semitic_language
+  - file: introduction/00_00_intro
     title: Introduction
     sections:
+    - file: introduction/00_01_akkadian_semitic_language
+      title: Akkadian as a Semitic Language
     - file: introduction/00_02_history_periodisation
       title: History and Periodisation
     - file: introduction/00_03_phonems_akkadian
@@ -81,4 +85,8 @@ parts:
     title: Digital Projects
   - file: extra_material/digital_tools
     title: Digital Tools
+- caption: Acknowledgements
+  chapters:
+  - file: acknowledgement
+    title: Acknowledgements
   

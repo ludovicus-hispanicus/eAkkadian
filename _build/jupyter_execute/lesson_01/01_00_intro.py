@@ -3,7 +3,7 @@
 
 # 
 # # L1.0: Nouns - Adjectives - Pronouns
-# This group of word classes have in common that they are inflected.
+# This chapter s group of word classes have in common that they are inflected.
 # 
 # ## Nouns
 # Nouns in Akkadian are inflected according to:

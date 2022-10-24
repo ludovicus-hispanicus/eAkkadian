@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Lesson 1: Pronouns Part 1
+# (pron-1)
+# # L1.6: Pronouns Part 1: Independent personal pronouns
 # There are
 # 
 # - personal pronomens

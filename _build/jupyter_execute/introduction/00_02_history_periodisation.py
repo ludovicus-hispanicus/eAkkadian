@@ -1,25 +1,18 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# (hist-per)=
 # # L0.2: History and Periodisation
-# The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE.[^kouwenberg_2010] Probably around the middle of the first millenium it was already extinct as a spoken language.
+# The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE (Kouwenberg {cite:year}`kouwenberg_akkadian_2010`, 10). Probably around the middle of the first millenium it was already extinct as a spoken language.
 # 
-# [^kouwenberg_2010]: {cite}`kouwenberg_akkadian_2010`, p. 10.
+# The native designation of the language was *akkadû* i.e. *akkadītu* “Akkadian”. It is also used to refer to its dialect like "Babylonian" or "Assyrian". The name derives from the city of the empire's capital [Akkad](https://en.wikipedia.org/wiki/Akkad_(city)) (2400-2200 BCE), which is situated near to [Samarra](https://goo.gl/maps/6Acv17T7a1Mb2qF69) (Sommerfeld {cite:year}`sommerfeld_old_2021`, 514). 
 # 
-# Die native designation of the language was *akkadû* i.e. *akkadītu* “Akkadian”. It is also used to refer to its dialect like "Babylonian" or "Assyrian". The name derives from the city of the empire's capital Akkade (2400-2200 BCE), which is situated near to [Samarra](https://goo.gl/maps/6Acv17T7a1Mb2qF69).[^Sommerfeld_2021] 
-# 
-# `````{admonition} Knowledge to show-off 🤓 
+# `````{admonition} Did you know? 🤓 
 # :class: tip
 # In the begining of the Assyriology it was assumed that the language was Assyrian. That is why this discipline is until today known as "Assyriology."
 # `````
 # 
-# [^Sommerfeld_2021]: Sommerfeld 2021, p. 514.
-# 
-# The Akkadian language has three dialects: Old Akkadian, Babylonian, Assyrian and the so called **Standard Babylonian**. The conventional periodisation for the Akkadian dilaects is as follows:[^Hasselbach-Andee]
-# 
-# 
-# [^Hasselbach-Andee]: See Hasselbach-Andee (2021), p.137
-# 
+# The Akkadian language has three dialects: Old Akkadian, Babylonian, Assyrian and the so called **Standard Babylonian**. The conventional periodisation for the Akkadian dilaects is as follows (Hasselbach-Andee {cite:year}`hasselbach-andee_classification_2021`, 137):
 # 
 # | Period              | Old Akkdian  | Babylonian        | Assyrian |
 # | --------            | --------     | --------          |--------  |
@@ -41,7 +34,7 @@
 # [^discussion_standard_babylonian]: AGA, p. 4.; Kouwenberg 2010, p. 16;  Godnick Westenholz 1997. 
 # 
 # ```{note} 
-# Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See Godnick Westenholz 1997.
+# Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See {cite:label}, Godnick Westenholz 1997.
 # ``` 
 # 
 # 
