@@ -1,5 +1,8 @@
 # Conventions
 
+
+## Conventions for Akkadian
+
 - Akkadian : *italics*
 - Sumerian: normal
 - Logograms: CAPITAL
