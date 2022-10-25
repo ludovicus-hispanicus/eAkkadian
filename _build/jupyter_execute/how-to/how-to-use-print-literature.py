@@ -3,6 +3,6 @@
 
 # # How to Use Print Literature
 # Basic Terminology
-# - How to read the dctionary 
-# - how to read the paradigms
-# - How to read the sign list
+# - How to use the dictionary 
+# - how to use the paradigms
+# - How to use the sign list
