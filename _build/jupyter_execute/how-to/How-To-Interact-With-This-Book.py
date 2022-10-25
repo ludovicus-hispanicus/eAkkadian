@@ -35,19 +35,19 @@
 # For the special characters you may install [WinCompose](http://wincompose.info/). Once installed download {download}`this list <../extra_material/.XCompose.txt>` and add it to in ```C:\Users\[username]```.
 # The combinations for the special characters are:
 # 
-# - [key] ^ + g = ĝ 
-# - [key] ^ + G = Ĝ
-# - [key] c + s = š
-# - [key] c + S = Š
-# - [key] ! + s = ṣ
-# - [key] ! + S = Ṣ
-# - [key] ! + t = ṭ
-# - [key] ! + T = Ṭ
-# - [key] a + - = ā (the same combination for the other vowels)
-# - [key] a + ^ = â (the same combination for the other vowels)
+# - [key] + ^ + g = ĝ 
+# - [key] + ^ + G = Ĝ
+# - [key] + c + s = š
+# - [key] + c + S = Š
+# - [key] + ! + s = ṣ
+# - [key] + ! + S = Ṣ
+# - [key] + ! + t = ṭ
+# - [key] + ! + T = Ṭ
+# - [key] + a + - = ā (the same combination for the other vowels)
+# - [key] + a + ^ = â (the same combination for the other vowels)
 # 
-# ## **𒇽** **𒈗** Special Characters
-# [Robbin Leroy](https://github.com/eggrobin) has developped a cuneifornm input method called [Enmekar](https://github.com/eggrobin/Enmerkarn) for typing cuneiform. Follow die instructions there to install it. 
+# ## **𒇽** **𒈗** Typing Cuneiform
+# [Robbin Leroy](https://github.com/eggrobin) has developped a cuneifornm input method called [Enmekar](https://github.com/eggrobin/Enmerkarn) for typing cuneiform. Follow the instructions there to install it. 
 # 
 # ```{note}
 # At the moment it only runs on Windows.
