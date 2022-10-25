@@ -8,7 +8,7 @@ parts:
   - file: how-to/how-to-use-print-literature
     title: Use Print Literature 
   - file: how-to/conventions
-    title: Conventions & Abbreviation
+    title: Conventions & Abbreviations
 - caption: The Course
   chapters:
   - file: course-schedule-2022-2023
