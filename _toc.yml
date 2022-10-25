@@ -7,7 +7,7 @@ parts:
     title: Interact With This Book
   - file: how-to/how-to-use-print-literature
     title: Use Print Literature 
-  - file: how-to/conventions
+  - file: how-to/conventions-abbreviations
     title: Conventions & Abbreviations
 - caption: The Course
   chapters:
