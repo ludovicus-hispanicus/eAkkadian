@@ -1,8 +1,7 @@
 # Digital Tool
 
 - Wincompose
-  - 
 - Cuneiform fonts
-- Typing cuneiform
+- Enmekar for typing cuneiform
 - CuReD
-- 
+- eBL
