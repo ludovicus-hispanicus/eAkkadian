@@ -6,6 +6,10 @@
 # 
 # ## Literature
 # 
+# ## Audio Files
+# 
+# https://soundcloud.com/soas-university-of-london/sets/babylonian-and-assyrian-poetry
+# 
 # ## Films
 # 
 # https://www.soas.ac.uk/research/epic-gilgamesh-ancient-poem-modern-inspiration

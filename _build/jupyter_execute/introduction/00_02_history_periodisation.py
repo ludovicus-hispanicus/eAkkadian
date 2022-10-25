@@ -3,6 +3,10 @@
 
 # (hist-per)=
 # # L0.2: History and Periodisation
+# ```{margin} Grammar references
+# GoA xxiii-xxv; ABG §2-4
+# ```
+# 
 # The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE (Kouwenberg {cite:year}`kouwenberg_akkadian_2010`, 10). Probably around the middle of the first millenium it was already extinct as a spoken language.
 # 
 # The native designation of the language was *akkadû* i.e. *akkadītu* “Akkadian”. It is also used to refer to its dialect like "Babylonian" or "Assyrian". The name derives from the city of the empire's capital [Akkad](https://en.wikipedia.org/wiki/Akkad_(city)) (2400-2200 BCE), which is situated near to [Samarra](https://goo.gl/maps/6Acv17T7a1Mb2qF69) (Sommerfeld {cite:year}`sommerfeld_old_2021`, 514). 
@@ -29,12 +33,10 @@
 # 
 # The **Assyrian** dialect is named after the city of Assur. Is was spoken in the North of Mesopotamia and the western bank of the Tigris. This dialect is also well attested.
 # 
-# The Standard Babylonian is a scientific and literary variety that appears after the Old Babylonian period[^discussion_standard_babylonian] and tries to emulate it. It was widely used in and outside Mesopotamia.
-# 
-# [^discussion_standard_babylonian]: AGA, p. 4.; Kouwenberg 2010, p. 16;  Godnick Westenholz 1997. 
+# The **Standard Babylonian** is a scientific and literary variety that appears after the Old Babylonian period and tries to emulate it. It was widely used in and outside Mesopotamia.
 # 
 # ```{note} 
-# Although the name "Standard Babylonian" is stablished, it is still a matter of debate. In the German literature it is known as "jungbabylonisch". See {cite:label}, Godnick Westenholz 1997.
+# Although the name "Standard Babylonian" is stablished, its use is still a matter of debate. In the German literature it is known as "jungbabylonisch". See Kouwenberg {cite:year}`kouwenberg_akkadian_2010`, 16 and Hess {cite:year}`hess_standard_2020`.
 # ``` 
 # 
 # 

@@ -46,10 +46,3 @@
 # ``` {note}
 # The length in consonants is written with [gemination](https://en.wikipedia.org/wiki/Gemination), e.g.: *ša-ar-rum* for *šarrum* "king".
 # ```
-
-# In[1]:
-
-
-import IPython
-IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\gilgamesch-XI_Hecker.mp3")
-
