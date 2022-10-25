@@ -6,31 +6,31 @@
 # 
 # Below the interactive features of this Jupyter Book are explained in further detail. Most interactive features can be found in the toolbar at the top of the page.
 # 
-# ## Open Jupyter Notebook in the Cloud
+# ## <i class="fa fa-rocket" aria-hidden="true"></i> Open Jupyter Notebook in the Cloud
 # You can open most pages from this book in the cloud and run the code live. Hover over the rocket icon  at the top of the page and click “Binder” to open a version of the same page in the cloud.
 # 
 # [Binder](https://mybinder.org/) is a service that allows you to run Jupyter notebooks without any prior configuration or installation. It may take a few minutes for the Jupyter notebook to load, so be patient. 
 # 
-# ## Download Jupyter Notebook
-# You can download any Jupyter notebook page from this book as a Jupyter notebook file (.ipynb). Hover over the download icon and click “.ipynb”
+# ## <i class="fas fa-expand" aria-hidden="true"></i> Make Full Screen
+# To make any page from this book full screen, click the full screen icon at the top of the page.
+# 
+# ## <i class="fab fa-github" aria-hidden="true"></i> GitHub
+# Github is a code repository and is the place where all the source material for this site lives.
+# 
+# - <i class="fab fa-github" aria-hidden="true"></i> To see the Repository with all source files
+# 
+# - <i class="fas fa-pencil-alt"></i> If you run into any issues or would like to make a suggestion, you can open an issue on GitHub by hovering over the GitHub icon and clicking "open issue." You can also email me with issues or suggestions at digpasts@gmail.com..
+# 
+# ## <i class="fa fa-download" aria-hidden="true"></i> Download Jupyter Notebook
+# You can download any Jupyter notebook page from this book as a Jupyter notebook file (.ipynb) or as a PDF. Hover over the download icon and click “.ipynb” or “.pdf”
 # 
 # ````{attention}
 # To work with this .ipynb file, you will need to have Jupyter installed and running on your own computer.
 # ````
 # 
-# ## Download PDF
-# You can download any Jupyter notebook page from this book as a PDF file. Hover over the download icon and click ".pdf"
-# 
-# ## Make Full Screen
-# To make any page from this book full screen, click the full screen icon at the top of the page.
-# 
-# ## Cuneiform Font 𒀀
+# ## 𒀀 Cuneiform Font 
 # In this course we will mainly use the Neo-Assyrian script. In order to visualize it, you may want to download [Assurbanipal](https://www.hethport.uni-wuerzburg.de/cuneifont/) under the link "Neo-Assyrian Font" and install it. Otherwise the browser will use the [default font](https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)), which actually are design according to the Old Babylonian ductus.  
 # 
-# ## Open Issue on GitHub
-# If you run into any issues or would like to make a suggestion, you can open an issue on GitHub by hovering over the GitHub icon and clicking "open issue."
-# 
-# You can also email me with issues or suggestions at digpasts@gmail.com. 
-# 
-# 
+# ## **Š** **Ṣ** **Ĝ** Special Characters
+# For the special characters you may install [WinCompose](http://wincompose.info/). Ince installed go to ```C:\Users\[username]``` and paste the text file .Xcompose
 # 

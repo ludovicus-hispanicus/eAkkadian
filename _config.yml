@@ -11,3 +11,11 @@ sphinx:
   config:
     bibtex_reference_style: author_year
 
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/DigitalPasts/eAkkadian/  # Online location of your book
+  branch : main  # Which branch of the repository should be used when creating links (optional)
+html:
+  use_repository_button: true
+  use_issues_button: true
+
