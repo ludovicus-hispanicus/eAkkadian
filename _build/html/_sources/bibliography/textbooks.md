@@ -6,3 +6,6 @@
 - Borger, *Babylonisch-Assyrische Lesestücke* (2006)
 - Riemschneider, *Lehrbuch des Akkadischen* (1978³)
 - Streck, *Altbabylosnisches Lehrbuch* (2018)
+
+Introductions to the ancient near east
+Companion

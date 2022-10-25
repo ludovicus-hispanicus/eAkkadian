@@ -5,8 +5,10 @@ parts:
   chapters:
   - file: how-to/How-To-Interact-With-This-Book
     title: Interact With This Book
+  - file: how-to/how-to-use-print-literature
+    title: Use Print Literature 
   - file: how-to/conventions
-    title: Conventions
+    title: Conventions & Abbreviation
 - caption: The Course
   chapters:
   - file: course-schedule-2022-2023

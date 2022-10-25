@@ -30,7 +30,7 @@
 # | loc.-adv. | *rittūšša* (\<*ritt-um-ša*) | into her hand |
 # | ter.-adv. | *ašar-iš* | to the place |
 # 
-# (vowel-conraction)=
+# (vowel-contraction)=
 # ## Vowel Contractions 
 # When two vowels appear consecutively, they are usually contracted. Generally the second one dominates. This contraction length is shown by circumflex:
 # 

@@ -4,7 +4,7 @@
 # # Introduction
 # This section introduces the Akkadian language, its history and phoneme inventory. It describes as well the cuneiform script, that is intrinsically attached to Akkadian. Lastly it shows the word class classification that we will follow in this course.
 # 
-# **What is Akkadian?**
+# 
 # Akkadian is due to his geographical and chronological distrbution one of most important languages in the Ancient Near East. Its written tradition is very long as well. 
 # 
 # - Mesopotamia - definition

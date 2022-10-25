@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Introduction to Akkadian
-# **Design by the [Digital Pasts Lab](https://digitalpasts.github.io/)** // **Powered by [Jupiter Book](https://jupyterbook.org/en/stable/intro.html)**
+# # eAkkadian: A Coursebook to the Akkadian Language
+# **Design by the [Digital Pasts Lab](https://digitalpasts.github.io/) // Powered by [Jupyter Book](https://jupyterbook.org/)**
 # 
 # ```{margin} Sennacherib's Campaign in the Levant
-# There are three main sources for the Sennacherib's third military campaign: [Taylor Prism](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P421809) in the British Museum. The [Chicago Prism](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P313081) in the Oriental Institute, University of Chicago, and the [Jerusalem Prism](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P430082) in the Israel Museum, Jerusalem.
+# There are three main sources for the Sennacherib's third military campaign: [Taylor Prism](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P421809) in the British Museum. The [Chicago Prism](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P313081) in the Oriental Institute, University of Chicago, and the [Jerusalem Prism](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P430082) in the Israel Museum, Jerusalem
 # ```
 # 
 # On the year 701 BCE the Assyrian King Sennacherib led his troops against rebellious kingdoms in the Levant. This was his third military campaign. In his annals, written in Akkadian on clay prisms, the narration begins as follows:   
