@@ -28,9 +28,30 @@
 # To work with this .ipynb file, you will need to have Jupyter installed and running on your own computer.
 # ````
 # 
-# ## 𒀀 Cuneiform Font 
+# ## **𒀀** Cuneiform Font 
 # In this course we will mainly use the Neo-Assyrian script. In order to visualize it, you may want to download [Assurbanipal](https://www.hethport.uni-wuerzburg.de/cuneifont/) under the link "Neo-Assyrian Font" and install it. Otherwise the browser will use the [default font](https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)), which actually are design according to the Old Babylonian ductus.  
 # 
 # ## **Š** **Ṣ** **Ĝ** Special Characters
-# For the special characters you may install [WinCompose](http://wincompose.info/). Ince installed go to ```C:\Users\[username]``` and paste the text file .Xcompose
+# For the special characters you may install [WinCompose](http://wincompose.info/). Once installed download {download}`this list <../extra_material/.XCompose.txt>` and add it to in ```C:\Users\[username]```.
+# The combinations for the special characters are:
+# 
+# - [key] ^ + g = ĝ 
+# - [key] ^ + G = Ĝ
+# - [key] c + s = š
+# - [key] c + S = Š
+# - [key] ! + s = ṣ
+# - [key] ! + S = Ṣ
+# - [key] ! + t = ṭ
+# - [key] ! + T = Ṭ
+# - [key] a + - = ā (the same combination for the other vowels)
+# - [key] a + ^ = â (the same combination for the other vowels)
+# 
+# ## **𒇽** **𒈗** Special Characters
+# [Robbin Leroy](https://github.com/eggrobin) has developped a cuneifornm input method called [Enmekar](https://github.com/eggrobin/Enmerkarn) for typing cuneiform. Follow die instructions there to install it. 
+# 
+# ```{note}
+# At the moment it only runs on Windows.
+# ```
+# This input method can also be used for special charachters.
+# 
 # 
