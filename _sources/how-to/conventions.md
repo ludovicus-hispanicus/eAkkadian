@@ -13,8 +13,16 @@ These
 
 
 ## Abbreviations for Grammars
-GAG
-GoA 
+- **GAG**
+  
+  Wolfram von Soden. *Grundriss der akkadischen Grammatik*. Number 33 in Analecta Orientalia. Pontificium Institutum Biblicum, Roma, 3 edition, {cite:year}`GAG`.
+- **GoA**
+
+  John Huehnergard. * {cite:year}`GoA`
+
+- **ABG**
+
+  Michael P. Streck. *Altbabylonisches Lehrbuch*. Number 23 in Porta Linguarum Orientalium. Harrassowitz Verlag, Wiesbaden, vierte, überarbeitete auflage, revidierte ausgabe edition, {cite:year}`ABG`.
 
 ## Abbreviations for Dicctionaries
 AHw
@@ -22,8 +30,13 @@ CAD
 CDA
 
 ## Abreviations for sign lists
-LABAT
-Borger
+- **Labat**
+  
+  René Labat. *Manuel d'épigraphie akkadienne*. Geuthner, Paris, nouv. éd., rev. et corr., 5. ed. edition, 1976.ABAT {cite:year}`labat`.  
+
+- **MZL**
+  
+  Rykle Borger. *Mesopotamisches Zeichenlexikon*. Number 305 in Alter Orient und Altes Testament. Ugarit-Verlag, Münster, 2., revidierte und aktualisierte auflage edition, {cite:year}`MZL`.
 
 ## Other Abbreviations
 

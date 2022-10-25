@@ -1,4 +1,4 @@
 # Acknowledgements
 
 
-- Introduction to Cultural Analytics & Python
+- Introduction to Cultural Analytics & Python &

@@ -1,3 +1,0 @@
-# General Bibliography
-```{bibliography}
-```
