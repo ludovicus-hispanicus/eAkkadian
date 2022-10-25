@@ -1,5 +1,5 @@
 # Akkadian Grammars 📖
 
-Wolfram von Soden, *Grundriss der Akkadischen Grammatik*, {cite}`GAG_1995`.
+Wolfram von Soden, *Grundriss der Akkadischen Grammatik*, {cite}`GAG`.
 
-Michael Streck, *Altbabylonische Grammatik*, {cite}`ABG_2021`
+Michael Streck, *Altbabylonische Grammatik*, {cite}`ABG`
