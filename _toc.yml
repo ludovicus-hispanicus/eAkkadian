@@ -1,0 +1,94 @@
+format: jb-book
+root: ita_welcome
+parts:
+- caption: How To
+  chapters:
+  - file: how-to/How-To-Interact-With-This-Book
+    title: Interact With This Book
+  - file: how-to/how-to-use-print-literature
+    title: Use Print Literature 
+  - file: how-to/conventions
+    title: Conventions & Abbreviation
+- caption: The Course
+  chapters:
+  - file: course-schedule-2022-2023
+    title: Course Schedule
+- caption: The Book
+  chapters:
+  - file: introduction/00_00_intro
+    title: Introduction
+    sections:
+    - file: introduction/00_01_akkadian_semitic_language
+      title: Akkadian as a Semitic Language
+    - file: introduction/00_02_history_periodisation
+      title: History and Periodisation
+    - file: introduction/00_03_phonems_akkadian
+      title: Phonems in Akkadian
+    - file: introduction/00_04_cuneiform
+      title: Cuneiform Script
+    - file: introduction/00_05_word_class
+      title: Word Classes in Akkadian  
+  - file: lesson_01/01_00_intro
+    title: Lesson 1
+    sections:
+    - file: lesson_01/01_01_nouns_status
+      title: Status
+    - file: lesson_01/01_02_nouns_gender
+      title: Grammatical Gender
+    - file: lesson_01/01_03_nouns_casus
+      title: Grammatical Case
+    - file: lesson_01/01_04_gram-number
+      title: Grammatical Number
+    - file: lesson_01/01_05_status-constructus
+      title: Status Constructus
+    - file: lesson_01/01_06_pronouns_01
+      title: Pronouns Part 1      
+  - file: lesson_02/lesson_02_intro
+    title: Lesson 2
+  - file: lesson_03/lesson_03_intro
+    title: Lesson 3
+  - file: lesson_04/lesson_04_intro
+    title: Lesson 4
+  - file: lesson_05/lesson_05_intro
+    title: Lesson 5
+  - file: lesson_06/lesson_06_intro
+    title: Lesson 6
+  - file: lesson_07/lesson_07_intro
+    title: Lesson 7
+  - file: lesson_08/lesson_08_intro
+    title: Lesson 8
+  - file: lesson_09/lesson_09_intro
+    title: Lesson 9
+  - file: lesson_10/lesson_10_intro
+    title: Lesson 10
+- caption: Paradigms
+  chapters:
+  - file: paradigms/01_nouns
+    title: Nominal Paradigm    
+- caption: Datasets
+  chapters:
+  - file: datasets/datasets
+    title: Datasets
+- caption: Bibliography
+  chapters:
+  - file: bibliography/general_bibliography
+    title: General Bibliography
+  - file: bibliography/textbooks
+    title: Akkadian Textbooks  
+  - file: bibliography/grammars
+    title: Akkadian Grammars
+  - file: bibliography/dictionaries
+    title: Dictionaries and Lexica
+  - file: bibliography/sign_lists
+    title: Sign Lists
+- caption: Extra Material
+  chapters:
+  - file: extra_material/digital_projects
+    title: Digital Projects
+  - file: extra_material/digital_tools
+    title: Digital Tools
+- caption: Acknowledgements
+  chapters:
+  - file: acknowledgement
+    title: Acknowledgements
+  
