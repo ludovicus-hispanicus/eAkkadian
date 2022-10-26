@@ -23,7 +23,7 @@
 # In Akkadian there is no definite article. The definiteness is determined according to the context.
 # ``` 
 # ## Nouns - Adjectives - Pronouns
-# In this we will study the nouns, adjectives and pronouns. This group of word classes have in common that they are inflected.
+# In this chapter we will study the nouns, adjectives and pronouns. They all share the characteristic of being inflected.
 # 
 # ### Nouns
 # Nouns in Akkadian are inflected according to:

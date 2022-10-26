@@ -142,6 +142,7 @@
 # |**<** | develops, comes from |
 # |**\*** | reconstructed/unattested form |
 # |**\*\*** | ungrammatical form |
+# | **→** | see |
 # 
 # ## Terminoloy in Hebrew
 # 

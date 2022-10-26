@@ -41,9 +41,11 @@ parts:
       title: Grammatical Case
     - file: lesson_01/01_04_gram-number
       title: Grammatical Number
-    - file: lesson_01/01_05_status-constructus
+    - file: lesson_01/01_05_vowel-contraction
+      title: Vowel Contraction
+    - file: lesson_01/01_06_status-constructus
       title: Status Constructus
-    - file: lesson_01/01_06_pronouns_01
+    - file: lesson_01/01_07_pronouns_01
       title: Pronouns Part 1      
   - file: lesson_02/lesson_02_intro
     title: Lesson 2

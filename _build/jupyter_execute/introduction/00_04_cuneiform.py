@@ -78,6 +78,18 @@
 # 
 #     The correct reading depends on the context. 
 #     ```
+#     On the opposite a single phonem can be reproduce by many signs:
+#     
+#     | Sign | Sign Name |Syllabic value | 
+#     | -------- | :--------: | :----: |
+#     | <font size="11">𒀀</font> | A |*a* | 
+#     | <font size="11">𒀉</font> | A₂ |*a₂* |
+#     | <font size="11">𒉿</font> | PI | *a₃* |
+#     | <font size="11">𒀀𒀭</font> | AM₃ |*a₄* | 
+#     | <font size="11">𒀝</font> | AK |*a₅* |
+#     | <font size="11">𒌋</font> | U | *a₆* |
+#     | <font size="11">𒄩</font> | HA | *a₇* |
+# 
 # 
 # - **Determinative**: It represents a semantic field and is placed before or after a logogram. In printed transliterations it is designated with superscript, but in the digital transliteration it appears in curly brackets.
 # 
@@ -117,6 +129,8 @@
 # | VC | *ad* | <font size="11">𒀜</font>
 # | CVC | *lum* | <font size="11">𒈝</font>
 # | V | *a* | <font size="11">𒀀</font>
+# 
+# ## 
 # 
 # ## Number of Signs
 # The cuneiform writing, considered from its beginning until the end of its use, has about 1000 signs. Nevertheless, at no period of time were they used in its entirety. It varied from period to period, genres, etc. Besides, the shape of the signs changed geographically as well as diachronically. 

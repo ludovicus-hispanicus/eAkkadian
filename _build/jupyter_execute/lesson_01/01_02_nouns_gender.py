@@ -16,6 +16,12 @@
 # | *mārum*   | sohn        |   | *mārtum*   | daugther    |
 # | *bēlum*   | lord        |   | *bēltum*   | lady        |
 # 
+# ````{margin}
+# ```{note}
+# For more exception to this rules →GoA 2.1(e).
+# ```
+# ````
+# 
 # Some formally masculine nouns are gramatically femenine : 
 # 
 # | Feminine | Translation |
@@ -26,18 +32,24 @@
 # | *enzum*  | she-goat    |
 # | *nārum*  | river       |
 # 
-# For more exception to this rules see: ABG §146, A0G 2.1(e).
+# 
 # 
 # (adj-gender)=
 # ## Adjectives
+# ````{margin}
+# ```{note}
+# For more details →AoG 
+# ```
+# ````
+# 
 # The adjective has to be congruent with its substantive and is placed normally after the substantive.
 # 
-# |Gender | Noun     | Adjective | Translation |
-# |------ | -------- | --------  | ----------- |
-# | masc. | *šarrum*   | *dannun*    | mighty king |
-# | fem.  | *šarratum* | *dannatum*  | mighty queen |
-# | masc. | *ilum*     | *damqum*    | good god    |
-# | fem.  | *iltum*    | *damiqtum*  | good goddess |
+# |Gender | Noun + Adjective | Translation |
+# |------ | ----------------  | ----------- |
+# | masc. | *šarrum dannun*    | mighty king |
+# | fem.  | *šarratum dannatum*  | mighty queen |
+# | masc. | *ilum damqum*    | good god    |
+# | fem.  | *iltum damiqtum*  | good goddess |
 # 
-# For more details see ABG § ; AoG 
+# 
 # 

@@ -35,52 +35,34 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # 
 # ## Cuneiform reading
 # Give the logographic value of the following signs
-# 𒌓	UTU		Šamaš		Sun
-# 𒌓	U₄		umu		day
-# 𒌓	BABBAR	peṣû		white
-# 𒆳	KUR		mātu		country	
-# 𒀭	DINGIR	īlu		god
-# 𒄑	GIŠ		(iṣu)		wood
-# 𒀀	A		(mû)		water
-# 𒂍	E₂		bītum		house
-# 𒂗	EN		bēlum		lord
-# 𒃲	gal		rabûm	big
 # 
-# Transliterate the following word:
-# 𒅎	
-# 𒈾
-# 𒀭
-# 𒄑
-# 𒌑
-# 𒀀
-# 𒆷
-# 𒈠
-# 𒀜
-# 𒈝
-# 𒁉𒌅𒌝
-# 𒁁𒇻𒌝
-# 𒊏𒁍𒌝
-# 𒃲
+# - <font size="11">𒌓</font>	
+# - <font size="11">𒌓</font>	
+# - <font size="11">𒌓</font>	
+# - <font size="11">𒆳</font>	
+# - <font size="11">𒀭</font>	
+# - <font size="11">𒄑</font>	
+# - <font size="11">𒀀</font>	
+# - <font size="11">𒂍</font>	
+# - <font size="11">𒂗</font>
+# - <font size="11">𒃲</font>	
 # 
-# 
-# Vocabulary
-# abum
-# ālum
-# amtum
-# Bēlum
-# bītum
-# hurāṣum
-# ilum
-# iltum
-# kaspum
-# u
-# mārtum
-# mārum
-# qaqqadum
-# ṣābum
-# šarratum
-# šarrum
-# wardum
-# 
-# Divide the word of the vocabulary into syllables and write them with cuneiform .
+# Write this words in cuneiform, sometimes more than one option, and then transliterate them:
+# - *abum*
+# - *ālum*
+# - *amtum*
+# - *bēlum*
+# - *bītum*
+# - *hurāṣum*
+# - *ilum*
+# - *iltum*
+# - *kaspum*
+# - *u*
+# - *mārtum*
+# - *mārum*
+# - *qaqqadum*
+# - *ṣābum*
+# - *šarratum*
+# - *šarrum*
+# - *wardum*
 # 

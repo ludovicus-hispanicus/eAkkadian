@@ -9,17 +9,17 @@
 # ## Status Rectus
 # This is the the inflected (nominative, genitive, accusative) form of the noun, when it is not before the a noun in genitive. 
 # 
-# | *Status rectus* | Translation |
+# | *Status rectus* | Translation | 
 # |---------------- | ----------- |
 # | *šarrum* (nom.) | king        |
-# | *ilam* (acc.)   | god         |
-# | *ālim*  (gen.)  | city        |
-# | *bēlum* (nom.)  | lord        |
+# | *ilam* (acc.)   | god         | 
+# | *ālim*  (gen.)  | city        | 
+# | *bēlum* (nom.)  | lord        | 
 # 
 # 
-# `````{admonition} Remember! 💪 
+# `````{admonition} Remember! 🧠 
 # :class: tip
-# From now on the *status rectus* won't be mentioned, because this status won't be mentioned, but remember that if 
+# From now on the *status rectus* won't be mentioned, because this status is the most common. 
 # `````
 # 
 # (st-ct)=
@@ -37,9 +37,11 @@
 # 
 # | *Status absolutus* | *Status rectus* | Translation |
 # |------------------- | --------------- | ----------- |
-# | zikar[^\*]         | *zikarum*       | viril       |
-# | šarrat             | *šarratum*      | queen       |
-# | šinniš[^\*]        | *šinništum*     | woman       |
+# | *zikar*            | *zikarum*       | viril       |
+# | *šarrat*           | *šarratum*      | queen       |
+# | *šinniš*           | *šinništum*     | woman       |
 # 
-# [^\*]: they are often used in the idiomatic expressions *zikar u šinniš* "male and female".
+# ```{note}
+# The word *zikar* und *šinniš* are often used in the idiomatic expressions *zikar u šinniš* "male and female".
+# ```
 # 

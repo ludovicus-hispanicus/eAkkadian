@@ -33,7 +33,7 @@
 # 
 # - Google Chrome <i class="fa fa-chrome" aria-hidden="true"></i>
 #   
-#   Go to "Settings" > "Appearance" > "Sans-serif font" and choose "Assurbanipal".
+#   Go to "Settings" > "Appearance" > Customize fonts > "Standard font" and choose "Assurbanipal".
 # - Firefox <i class="fa fa-firefox" aria-hidden="true"></i>
 #   
 #   Go to "Setting" > "General" > "Fonts" > "Advanced" > "Sans-serif" and choose "Assurbanipal".
