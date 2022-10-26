@@ -7,6 +7,7 @@
 # - L0.1: [Akkadian as Semitic Language](akk-sem)
 # - L0.2: [History and Periodisation](hist-per)
 # - L0.3: [Akkadische Phoneme](akk-phon)
-# - L0.4: [Cuneiform Script](cuneif)
-# - L0.5: [Word Class](word-class)
+# - L0.4: [yllabification](syllab)
+# - L0.5: [Cuneiform Script](cuneif)
+# - L0.6: [Excercises: Reading and Writing](ex-intro)
 # 

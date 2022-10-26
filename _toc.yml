@@ -26,10 +26,10 @@ parts:
       title: Phonems in Akkadian
     - file: introduction/00_04_cuneiform
       title: Cuneiform Script
-    - file: introduction/00_05_ex_enuma_eliš
-      title: Excercises
-    - file: introduction/00_06_word_class
-      title: Word Classes in Akkadian  
+    - file: introduction/00_05_syllabification
+      title: Syllabification
+    - file: introduction/00_06_ex_enuma_eliš
+      title: Excercises & Vocabulary
   - file: lesson_01/01_00_intro
     title: Lesson 1
     sections:

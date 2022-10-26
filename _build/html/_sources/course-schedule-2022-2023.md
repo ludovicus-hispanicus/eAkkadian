@@ -1,8 +1,8 @@
 # Course Schedule 2022-2023
 
-| Week     | Date          | Topic               | Akkadian *online*              | Grammar                       | Tasks     | Assignment     |
+| Week     | Date          | Topic               | Akkadian *online*              | GoA                       | Tasks     | Assignment     |
 | -------- | ------------- | --------------      | ------------------------------ | ---------------------------   | --------- | -------------- |
-| Week 1   | Thur Oct 27   | Introduction Semitic family | [Akkadian as a Semitic language](akk-sem) | GoA xxi-xxv; ABG §1-4 |      |        |
+| Week 1   | Thur Oct 27   | Introduction Semitic family | [Akkadian as a Semitic language](akk-sem) | pp. xxi-xxv |      |        |
 |          |               | Writing system and cuneiform | [Cuneiform script](cuneif)     |                      |           |                |
 |          |               | Nominal system: Nouns and Adjectives (fem./masc.; sg., dual, pl.) | [Status](state), [grammatical gender](gender), [grammatical case](casus), [grammatical number](numerus), [*status constructus*](st-ct)         |         |           |                |
 |          |               | Independent personal pronouns | [Pronouns part 1](pron-1)  |                          |           |                |
