@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # (ex-intro)=
-# # Excercise and Vocabulary
+# # Excercise
 # In this excercise we will read first seven lines of the Akkadian poem of creation *Enūma Eliš* "When on High" and compare it with the first two verses of Genesis 1 and then practice some cuneiform signs.
 # 
 # ## Reading *Enūma Elīš*
@@ -23,7 +23,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # In the beginning God created the heavens and the earth. Now the earth was without shape and empty, and darkness was over the surface of the watery deep, but the Spirit of God was moving over the surface of the water.
 # ```
 # 
-# | Transkription | Translation | Hebrew |
+# | Normalisation | Translation | Hebrew |
 # | --------------- | ----------- | ------: |
 # | 1 *enūma eliš lā nabû šamāmū*         | When on high no word was used for heaven, | בְּעַת מִמַעַל לא נָקְרְאוּ שָמִים (בָּשֶם) |
 # | 2	*šapliš ammatu šuma lā zakrat*      | Nor below was firm ground called by name, | מִפַּחַת אַדְמָה בְּשֶם לא נזְכְרָה
@@ -47,6 +47,8 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - <font size="11">𒂗</font>
 # - <font size="11">𒃲</font>	
 # 
+# Example and reference
+# 
 # Write this words in cuneiform, sometimes more than one option, and then transliterate them:
 # - *abum*
 # - *ālum*
@@ -66,3 +68,5 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - *šarrum*
 # - *wardum*
 # 
+# 
+# Writing with Logograms

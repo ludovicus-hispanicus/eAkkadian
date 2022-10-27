@@ -2,8 +2,11 @@
 # coding: utf-8
 
 # (cuneif)=
-# # L0.4: Cuneiform Script
+# ```{margin} Grammar references
+# GoA 9.2
+# ````
 # 
+# # L0.4: Cuneiform Script
 # In the south of Mesopotamia, at the end of the fourth millennium BCE, a writing system based on ideograms was invented for bookkeeping. Today this writing system is known as "cuneiform". The name "cuneiform" derives from the latin word *cuneus* "wedge" and *forme* "form" . It denotes the shape of the strokes. The native designation for the cuneiform script was *tikip santakku* "triangle script". Before the deciphermet of this script they were also called *dactuli pyramidales*, *pyramidales figura* "pyramidal signs". 
 # 
 # `````{admonition} Good to know 🤓 
@@ -38,7 +41,8 @@
 #     | -------- | :--------: | :---------: |:----:|
 #     | <font size="11">𒌓</font> | UTU | *šamaš* |sun
 #     | <font size="11">𒆳</font> | KUR | *mātu* | country
-#     | <font size="11">𒀭</font> | DINGIR | *īlu* | god
+#     | <font size="11">𒀭</font> | DINGIR | *ilu* | god 
+#     | <font size="11">𒆪</font> | TUKUL | *tukultu* | weapon 
 # 
 #     ```{admonition} Remember! 🧠
 #     :class: tip
@@ -46,12 +50,12 @@
 #     - U₄ *ūmu* "day", 
 #     - BABBAR *peṣû* "white", etc.
 # 
-#     The correct reading depends on the context. 
+#     The correct reading depends on the context. Remember as well that the language behind those names is always Sumerian.
 #     ```
 # 
 # ````{margin}
 # ``` {note}
-# The **sign names** are a modern convention. Normally the name for the sign is the most used phonetic value. In antiquity the names of the signs were different.
+# The **sign names** are a modern convention. Normally the name for the sign is the most used phonetic value. In antiquity the names of the signs were different. For more detailed information 👉Gong {cite:year}`gong_namen_2000`.
 # ```
 # ````
 # 
@@ -64,12 +68,9 @@
 #     | <font size="11">𒌅</font> | TU | *tu* |
 #     | <font size="11">𒀭</font> | AN | *an* |
 #     | <font size="11">𒇻</font> | LU | *lu* |
-#     | <font size="11">𒌝</font> | UM |*um*|
 #     | <font size="11">𒈝</font> | LUM | *lum* |
-#     | <font size="11">𒁍</font> | BU | *bu* |
-#     | <font size="11">𒌈</font> | TUM | *tum* |
-#     | <font size="11">𒄠</font> | AM | *am* |
-# 
+#     | <font size="11">𒁍</font> | BU | *pu* |
+#  
 #     ```{admonition} Remember! 🧠
 #     :class: tip
 #     Cuneiform signs are polyvalent. They have many syllabic values: 
@@ -90,22 +91,33 @@
 #     | <font size="11">𒌋</font> | U | *a₆* |
 #     | <font size="11">𒄩</font> | HA | *a₇* |
 # 
+#     ````{admonition} Good-to-Know
+#     :class: tip
+#     Instead of the subscripts numbers ₂ and ₃ you will find in the litearture also transliteration of signs with **grave accent** and **acute accent**, for example á = a₂, à = 3 or šá = ša₂, šà = ša₃. Before the PCs scholars wrote on the type machine, in which is not possible to write subscripts, so they used accents. For the other number for example a₄ or ša₆ they had to write them by hand once the manuscript was ready.
+#     ````
+# 
 # 
 # - **Determinative**: It represents a semantic field and is placed before or after a logogram. In printed transliterations it is designated with superscript, but in the digital transliteration it appears in curly brackets.
+# 
+#     ````{margin}
+#     ``` {Note}
+#     Some signs have different readings as a logogram and as a determinative like **GIŠ** vs **ĝeš**. This has to do with the history of the Assyriology. 
+#     The reading **GIŠ** is old while the reading **ĝeš** is newer. As the understanding of the Sumerian language grows over time, we know today that Sumerian had a [voiced velar nasal](https://en.wikipedia.org/wiki/Voiced_velar_nasal) **ĝ** sometimes also writen with *ŋ* for example *ŋeš*. Nevertheless conventionally the logogram GIŠ is still transliterated as GIŠ in Akkadian texts, but in Sumerian texts **ĝeš** or **ŋeš**
+#     ````
 # 
 #     | Sign                          | Sign Name | Determinativ          | Semantic Field | Example                  |Translation |
 #     | -----                         | :-------: | :----------:          | :------------: | :-----:                   | :---------: |
 #     | <font size="11">𒀭</font>     | AN        | dingir (<sup>d</sup>)  | Deities       | <sup>d</sup>UTU           | (God) Šamaš |
 #     | <font size="11">𒄑</font>     | GIŠ       | ĝeš                    | Wood objects  | <sup>ĝeš</sup>TUKUL       | weapon |
 #     | <font size="11">𒋆</font>   | ŠIM       | šim                    | Plant names   | <sup>šim</sup>GIR₂        | myrtle |
-#     | <font size="11">𒆠</font>     | KI        | ki                     | City names    | KA.DINGIR.RA<sup>ki</sup> | Babylon | 
+#     | <font size="11">𒆠</font>     | KI        | ki                     | City names    | KA₂.DINGIR.RA<sup>ki</sup> | Babylon | 
 # 
 # 
 #     ```{admonition} Examples with cuneiforms
-#     - <font size="11">𒀭𒌓</font> =  <sup>d</sup>UTU
+#     - <font size="11">𒀭𒌓</font> =  <sup>d</sup>UTU 
 #     - <font size="11">𒄑𒆪</font> = <sup>ĝeš</sup>TUKUL 
 #     - <font size="11">𒋆𒄈</font> = <sup>šim</sup>GIR₂ 
-#     - <font size="11">𒆍𒀭𒊏𒆠</font> = KA.DINGIR.RA<sup>ki</sup>
+#     - <font size="11">𒆍𒀭𒊏𒆠</font> = KA₂.DINGIR.RA<sup>ki</sup>
 #     ```
 # 
 # It is important to note that most of the signs can have two types of functions and some even the three types:
@@ -130,7 +142,32 @@
 # | CVC | *lum* | <font size="11">𒈝</font>
 # | V | *a* | <font size="11">𒀀</font>
 # 
-# ## 
+# ## Orthography
+# Words can be written logographic as well as syllabic:
+# 
+# | Logogram | Cuneiform | Syllabic writing | Cuneiform |
+# | -------- | :--------: | :---------: | :----------: |
+# | E₂ | <font size="11">𒂍</font> | <font size="11">𒁉𒌅𒌝</font> | *bi-tu-um* |
+# | EN | <font size="11">𒂗</font> | <font size="11">𒁁𒇻𒌝</font> | *be-lu-um* |
+# | GAL | <font size="11">𒃲</font> | <font size="11">𒊏𒁍𒌝</font> | *ra-bu-um* |
+# 
+# The CVC syllables can be written with a CVC sig or with the combination of a CV and a VC sign:
+# 
+# | Akkadian word | Transliteration |  Translation |
+# | --------      | :--------:      |  :----------: |
+# | <font size="11">𒈜𒆏𒌈</font> | *nar-kab-tum* | chariot |
+# | <font size="11">𒈾𒅈𒅗𒀊𒌅𒌝</font> | *na-ar-ka-ab-tu-um* | chariot |
+# 
+# ## Transliteration vs Normalisation
+# For practical reasons, cuneiform writing is often translated into the alphabet writing. We distinguish between **transliteration** and **normalization**. 
+# 
+# - The **transliteration** reproduces all the signs of a word and connects them with a hyphen.
+# - The **normalization** is the reconstruction of the word.
+# 
+# | Akkadian word | Transliteration | Normalization | Translation |
+# | -------- | :--------: | :---------: | :----------: |
+# | <font size="11">𒀀𒇻𒌝</font> | *a-lu-um* | *ālum* | city |
+# | <font size="11">𒁁𒈝</font> | *be-lum* | *bēlum* | lord | 
 # 
 # ## Number of Signs
 # The cuneiform writing, considered from its beginning until the end of its use, has about 1000 signs. Nevertheless, at no period of time were they used in its entirety. It varied from period to period, genres, etc. Besides, the shape of the signs changed geographically as well as diachronically. 

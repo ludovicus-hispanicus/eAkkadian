@@ -9,5 +9,6 @@
 # - L0.3: [Akkadische Phoneme](akk-phon)
 # - L0.4: [Syllabification](syllab)
 # - L0.5: [Cuneiform Script](cuneif)
-# - L0.6: [Excercises: Reading and Writing](ex-intro)
+# - L0.6: [Vocabulary and Signs](voc-sig)
+# - L0.7: [Excercises: Reading and Writing](ex-intro)
 # 

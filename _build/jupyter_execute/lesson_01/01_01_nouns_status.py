@@ -7,14 +7,17 @@
 # 
 # (st-rt)=
 # ## Status Rectus
-# This is the the inflected (nominative, genitive, accusative) form of the noun, when it is not before the a noun in genitive. 
+# This is the inflected (nominative, genitive, accusative) form of the noun, when it is not before the a noun in genitive. 
 # 
-# | *Status rectus* | Translation | 
-# |---------------- | ----------- |
-# | *šarrum* (nom.) | king        |
-# | *ilam* (acc.)   | god         | 
-# | *ālim*  (gen.)  | city        | 
-# | *bēlum* (nom.)  | lord        | 
+# | *Status rectus* |  |Translation | 
+# |---------------- | ------- |----------- |
+# | *šarrum* (nom.) | *šar-um* | king       |
+# | *ilam* (acc.)   | *il-am*  | god        | 
+# | *ālim*  (gen.)  | *āl-im*  | city       | 
+# | *bēlum* (nom.)  | *bēl-um* | lord      | 
+# | *dannim* (nom.)  | *dan-im* | lord      | 
+# | *dannim* (nom.)  | *dan-im* | lord      | 
+# 
 # 
 # 
 # `````{admonition} Remember! 🧠 

@@ -28,8 +28,10 @@ parts:
       title: Cuneiform Script
     - file: introduction/00_05_syllabification
       title: Syllabification
-    - file: introduction/00_06_ex_enuma_eliš
-      title: Excercises & Vocabulary
+    - file: introduction/00_06_vocabulary_signs
+      title: Vocabulary and Signs
+    - file: introduction/00_07_exercises
+      title: Exercises
   - file: lesson_01/01_00_intro
     title: Lesson 1
     sections:

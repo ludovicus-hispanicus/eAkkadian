@@ -142,7 +142,7 @@
 # |**<** | develops, comes from |
 # |**\*** | reconstructed/unattested form |
 # |**\*\*** | ungrammatical form |
-# | **→** | see |
+# | **👉** | see |
 # 
 # ## Terminoloy in Hebrew
 # 
@@ -151,11 +151,11 @@
 # | Noun | **שם** |
 # | Substantive| **שם עצם** |
 # | Adjective (adj.) | **שם תואר** |
-# | Masculine (m) | **וכר** |
+# | Masculine (m) | **זכר** |
 # | Femenine (f)| **נקבה** |
 # | Dual (du.) | **זוגי** |
 # | Plural (pl.)| **רבים** |
-# | Case | יחסה |
+# | Case | **יחסה** |
 # | Nominative Case (nom.) | **יחסת הנומינטיב** |
 # | Accusative Case (acc.) | **יחסת המושא** |
 # | Genitive Case (gen.) | **יחסת השייכות** |
@@ -163,7 +163,7 @@
 # | Object | **מושא** |
 # | Adverb (adv.) | **תואר הפועל** |
 # | Declension | **הטיה** |
-# | Verb | פועל |
+# | Verb | **פועל** |
 # | Predicate | **נשוא** |
 # | Transitive verb (tr.) | **פועל יוצא** |
 # | Intransitive verb (intr.) | **פועל עומד** |
@@ -178,7 +178,7 @@
 # | Precative | **משאלה** |
 # | Participle (Part., Participium) | **בינוני** |
 # | Infinitive (Inf.) | **מקור** |
-# | Stem (Stamm in German) | **בניין:** |
+# | Stem (Stamm in German) | **בניין** |
 # | Root | **שורש** |
 # | Ventive | **ונטיב** |
 # | Active | **פעיל** |
@@ -200,4 +200,4 @@
 # | Conditional sentence | **משפט תנאי** |
 # | Determinative | **מגדיר** |
 # | Sumerian | **שומרית** |
-# | Sumerogram; logogram | **שומרוגרמה, לוגוגרמה** |
+# | Sumerogram, logogram | **שומרוגרמה, לוגוגרמה** |

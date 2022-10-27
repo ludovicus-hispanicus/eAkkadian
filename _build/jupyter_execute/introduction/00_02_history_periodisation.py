@@ -2,11 +2,10 @@
 # coding: utf-8
 
 # (hist-per)=
-# # L0.2: History and Periodisation
 # ```{margin} Grammar references
-# GoA xxiii-xxv; ABG §2-4
+# GoA xxiii-xxv
 # ```
-# 
+# # L0.2: History and Periodisation
 # The earliest attestations consist of personal names in Sumerian documents from ca. 2600 BCE. The firsts documents written in Akkadian  dates from ca. 2350 BCE and the last from 75 CE (Kouwenberg {cite:year}`kouwenberg_akkadian_2010`, 10). Probably around the middle of the first millenium it was already extinct as a spoken language.
 # 
 # The native designation of the language was *akkadû* i.e. *akkadītu* “Akkadian”. It is also used to refer to its dialect like "Babylonian" or "Assyrian". The name derives from the city of the empire's capital [Akkad](https://en.wikipedia.org/wiki/Akkad_(city)) (2400-2200 BCE), which is situated near to [Samarra](https://goo.gl/maps/6Acv17T7a1Mb2qF69) (Sommerfeld {cite:year}`sommerfeld_old_2021`, 514). 

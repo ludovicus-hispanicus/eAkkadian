@@ -2,6 +2,9 @@
 # coding: utf-8
 
 # (akk-phon)=
+# ```{margin} Grammar references
+# GoA 1.1
+# ```
 # # L0.3: Phonems in Akkadian
 # Akkadian is a reconstructed language, so it is impossible to determine how phonemes were pronounced exactly. In this sense, pronunciation is a scholar’s convention derived from other Semitic languages, cuneiform orthographie and transliteration of Akkadian into other writing systems.
 # 
@@ -28,7 +31,7 @@
 # | /*d*/    | [d] [Voiced dental plosive](https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_plosives) | ד
 # | /*w*/    | [β̞ ] [Voiced bilabial fricative](https://en.wikipedia.org/wiki/Voiced_bilabial_fricative) | ו 
 # | /*z*/    | [ð] [Voiced dental fricative](https://en.wikipedia.org/wiki/Voiced_dental_fricative) | ז   
-# | /*ḫ*/    | [x] [Voiceless velar fricative](https://en.wikipedia.org/wiki/Voiceless_velar_fricative) | ח
+# | /*h* or /*ḫ*/    | [x] [Voiceless velar fricative](https://en.wikipedia.org/wiki/Voiceless_velar_fricative) | ח
 # | /*ṭ*/    | [tʼ] [dental ejective stops](https://en.wikipedia.org/wiki/Dental_and_alveolar_ejective_stops) | ט
 # | /*j*/ or /*y*/ | [j] [Voiced palatal approximant](https://en.wikipedia.org/wiki/Voiced_palatal_approximant) | י  
 # | /*k*/    | [k] [Voiceless velar plosive](https://en.wikipedia.org/wiki/Voiceless_velar_plosive) | כ
