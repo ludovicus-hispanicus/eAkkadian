@@ -111,7 +111,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # 
 # ````{admonition} What could it be❓
 # :class: tip
-# <font size="11">𒂍𒃲</font>jupyter-book build
+# <font size="11">𒂍𒃲</font>
 # 
 # Think on the word in ancient Hebrew for palace or temple
 # ````

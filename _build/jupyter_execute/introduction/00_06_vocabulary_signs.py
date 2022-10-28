@@ -75,6 +75,8 @@
 # | <font size="11">𒀀</font>  | A	             | -             | *mû*        | water         |
 # | <font size="11">𒂗</font> | EN                | -             | *bēlum*      | lord        |
 # | <font size="11">𒃲</font> | GAL 	            | -             | *rabûm*      | *groß*        | 
+# | <font size="11">𒄑𒆪</font> | <sup>ĝeš</sup>TUKUL | -         | *tukultu*      | *weapon*        | 
+# 
 # 
 # (intro-comp)=
 # ## D. Composites
