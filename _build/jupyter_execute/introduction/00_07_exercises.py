@@ -6,7 +6,7 @@
 # In this excercise we will read first seven lines of the Akkadian poem of creation *Enūma Eliš* "When on High" and compare it with the first two verses of Genesis 1 and then practice some cuneiform signs.
 # 
 # ## A. Reading *Enūma Elīš*
-# There is an audio record by [Victor Hurowitz](https://soundcloud.com/soas-university-of-london/the-epic-of-creation-part-of-tablet-i-read-by-victor-hurowitz?in=soas-university-of-london%2Fsets%2Fbabylonian-and-assyrian-poetry) 
+# Hear this audio record by [Victor Hurowitz](https://soundcloud.com/soas-university-of-london/the-epic-of-creation-part-of-tablet-i-read-by-victor-hurowitz?in=soas-university-of-london%2Fsets%2Fbabylonian-and-assyrian-poetry) and try to follow the text.
 
 # In[1]:
 
@@ -64,7 +64,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - *umu*
 # 
 # ## C. Writing in Cuneiform
-# Write the words of the exercise C in cuneiform, sometimes more than one option, and then transliterate them:
+# Write the words in exercise B using the cuneiform signs, sometimes more than one option, and then transliterate them:
 # 
 # ````{admonition} Example
 # :class: tip
@@ -122,8 +122,9 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # 
 # ````{admonition} Tips
 # :class: tip
-# - <font size="11">𒁹𒀭𒊹𒁀𒉌𒌉𒍑</font> = <sup>m</sup>Assurbanipal
-# - <font size="11">𒎙</font> = A logogram for king	
+# - <font size="11">𒁹𒀭𒊹𒁀𒉌𒌉𒍑</font> = <sup>m</sup>Assurbanipal.
+# - <font size="11">𒎙</font> = A logogram for king.
+# - <font size="11">𒆗𒉡</font> = *dannu* = strong.	
 # ````
 # 
 # 

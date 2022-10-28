@@ -148,7 +148,7 @@
 # |**\*\*** | ungrammatical form |
 # | **👉** | see |
 # 
-# ## Terminoloy in Hebrew
+# ## Terminology in Hebrew
 # 
 # |English | Hebrew |
 # |------- | -----: |
