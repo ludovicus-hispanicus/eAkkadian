@@ -11,7 +11,7 @@
 # - Logograms: CAPITAL
 # - Determinativ: <sup>superscript</sup>
 # 
-# ## Abbreviations for Grammars
+# ## Grammars
 # - **GAG**
 #   
 #   Wolfram von Soden. *Grundriss der akkadischen Grammatik*. Number 33 in Analecta Orientalia. Pontificium Institutum Biblicum, Roma, 3 edition, {cite:year}`GAG`.
@@ -23,7 +23,7 @@
 # 
 #   Michael P. Streck. *Altbabylonisches Lehrbuch*. Number 23 in Porta Linguarum Orientalium. Harrassowitz Verlag, Wiesbaden, vierte, überarbeitete auflage, revidierte ausgabe edition, {cite:year}`ABG`.
 # 
-# ## Abbreviations for Dicctionaries
+# ## Dicctionaries
 # - **AHw**  
 #   
 #   Wolfram von Soden. Akkadisches Handwörterbuch. Unter Benutzung des lexikalischen Nachlasses von Bruno Meissner \(1868–1947\). Harrassowitz, Wiesbaden, {cite:year}`AHw`.
@@ -36,7 +36,7 @@
 #   
 #   Jeremy Black, Andrew George, and Nicholas Postgate, editors. A concise dictionary of Akkadian. Number 5 in SANTAG. Harrassowitz, Wiesbaden, 2., corr. printing edition, {cite:year}`CDA`.
 # 
-# ## Abreviations for sign lists
+# ## Sign lists
 # - **Labat**
 #   
 #   René Labat. *Manuel d'épigraphie akkadienne*. Geuthner, Paris, nouv. éd., rev. et corr., 5. ed. edition, 1976.ABAT {cite:year}`labat`.  
@@ -45,7 +45,11 @@
 #   
 #   Rykle Borger. *Mesopotamisches Zeichenlexikon*. Number 305 in Alter Orient und Altes Testament. Ugarit-Verlag, Münster, 2., revidierte und aktualisierte auflage edition, {cite:year}`MZL`.
 # 
-# ## Other Abbreviations
+# ## Bible Versions
+# - **BHS**
+# - **KJV**
+# 
+# ## Other Abbreviations and Conventions
 # 
 # | Abbreviation | Meaning |
 # | ------------ | ------- |

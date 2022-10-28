@@ -35,6 +35,7 @@
 # ## Types of Signs
 # We can find three types of functions: 
 # 
+# (cunei-logo)=
 # - **Logograms**: It represents one or many words. Ocasionally it is also called Sumerogram. In most cases designated by capitals in the transliteration.
 # 
 #     | Sign | Logogram | Akkadian | Translation |
@@ -102,7 +103,7 @@
 #     ````{margin}
 #     ``` {Note}
 #     Some signs have different readings as a logogram and as a determinative like **GIŠ** vs **ĝeš**. This has to do with the history of the Assyriology. 
-#     The reading **GIŠ** is old while the reading **ĝeš** is newer. As the understanding of the Sumerian language grows over time, we know today that Sumerian had a [voiced velar nasal](https://en.wikipedia.org/wiki/Voiced_velar_nasal) **ĝ** sometimes also writen with *ŋ* for example *ŋeš*. Nevertheless conventionally the logogram GIŠ is still transliterated as GIŠ in Akkadian texts, but in Sumerian texts **ĝeš** or **ŋeš**
+#     The reading **GIŠ** is old while the reading **ĝeš** is newer. As the understanding of the Sumerian language grows over time, we know today that Sumerian had a [voiced velar nasal](https://en.wikipedia.org/wiki/Voiced_velar_nasal) **ĝ** sometimes also writen with *ŋ* for example *ŋeš*. Nevertheless conventionally the logogram GIŠ is still transliterated as GIŠ in Akkadian texts, but **ĝeš** or **ŋeš** in Sumerian texts and determinatives as well.
 #     ````
 # 
 #     | Sign                          | Sign Name | Determinativ          | Semantic Field | Example                  |Translation |

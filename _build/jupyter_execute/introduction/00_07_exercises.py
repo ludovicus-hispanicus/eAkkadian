@@ -2,10 +2,10 @@
 # coding: utf-8
 
 # (ex-intro)=
-# # Excercise
+# # L0.7: Exercises
 # In this excercise we will read first seven lines of the Akkadian poem of creation *Enūma Eliš* "When on High" and compare it with the first two verses of Genesis 1 and then practice some cuneiform signs.
 # 
-# ## Reading *Enūma Elīš*
+# ## A. Reading *Enūma Elīš*
 # There is an audio record by [Victor Hurowitz](https://soundcloud.com/soas-university-of-london/the-epic-of-creation-part-of-tablet-i-read-by-victor-hurowitz?in=soas-university-of-london%2Fsets%2Fbabylonian-and-assyrian-poetry) 
 
 # In[1]:
@@ -33,10 +33,56 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # | 6	*gipāra lā kiṣṣurū ṣuṣâ lā šēʾū*    | No lea was packed together, no canebrake matted close.  | סְבַףְַַ–קְנָה לא נִרְאֶה גמָא לא נודע |
 # | 7	*enūma ilū lā šūpû manāma*          | When no gods at all had been brought forth, | בְּעֶת אֶלִים לא נוצרו גַּם אֶחָד |
 # 
-# ## Cuneiform reading
-# Give the logographic value of the following signs
 # 
-# - <font size="11">𒌓</font>	
+# 
+# ## B. Syllabification
+# Syllabify the following words and translate them:
+# 
+# ````{admonition} Example
+# :class: tip
+# *enzum* = *en-zum* = goat
+# - For Syllabification 👉[L0.5](syllab)
+# - For the Akkadian words 👉[L0.6:A](intro-vocab)
+# ````
+# - *qaqqadum*
+# - *šarratum*
+# - *amtum*
+# - *šarrum*
+# - *bītum*
+# - *wardum*
+# - *ilum*
+# - *šarrum*
+# - *iltum*
+# - *peṣû*
+# - *u*
+# - *abum*
+# - *mārtum*
+# - *mārum*
+# - *bēlum*
+# - *šarratum*
+# - *tukultu*
+# - *umu*
+# 
+# ## C. Writing in Cuneiform
+# Write the words of the exercise C in cuneiform, sometimes more than one option, and then transliterate them:
+# 
+# ````{admonition} Example
+# :class: tip
+# *enzum* = <font size="11">𒂗𒍪𒌝</font> = *en-zu-um* = goat
+# - For writing in cuneiform 👉[L0.4](cuneif) 
+# - For the sign list 👉[L0.6:C](intro-signs) 
+# ````
+# 
+# ## D. Logograms
+# Write the logographic value of the following signs and translate:
+# 
+# ````{admonition} Example
+# :class: tip
+# - <font size="11">𒌓</font> = UTU = *šamaš* = sun (god)
+# - For Logograms in Cueniform 👉[L0.4](cuneif)
+# - For examples of Akkadian Logograms 👉[L0.6:c](intro-logo)
+# ````
+# 
 # - <font size="11">𒌓</font>	
 # - <font size="11">𒌓</font>	
 # - <font size="11">𒆳</font>	
@@ -47,26 +93,38 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - <font size="11">𒂗</font>
 # - <font size="11">𒃲</font>	
 # 
-# Example and reference
+# ## E. Writing with Logograms
+# Transliterate, normalize and translate the following words:
 # 
-# Write this words in cuneiform, sometimes more than one option, and then transliterate them:
-# - *abum*
-# - *ālum*
-# - *amtum*
-# - *bēlum*
-# - *bītum*
-# - *hurāṣum*
-# - *ilum*
-# - *iltum*
-# - *kaspum*
-# - *u*
-# - *mārtum*
-# - *mārum*
-# - *qaqqadum*
-# - *ṣābum*
-# - *šarratum*
-# - *šarrum*
-# - *wardum*
+# ````{admonition} Example
+# :class: tip
+# <font size="11">𒃲𒌑</font> = GAL-*u₂* = *rabû(m)*
+# - For Logograms in Cueniform 👉[L0.4](cuneif)
+# - For the **m** in parenthesis **(m)** see 👉[mimation](mim-nun)	
+# ````
+# - <font size="11">𒂍𒌑</font>
+# - <font size="11">𒂗𒌑</font>
+# - <font size="11">𒄑𒆪𒌑</font>
+# - <font size="11">𒀭𒌓</font>
 # 
 # 
-# Writing with Logograms
+# 
+# ````{admonition} What could it be❓
+# :class: tip
+# <font size="11">𒂍𒃲</font>jupyter-book build
+# 
+# Think on the word in ancient Hebrew for palace or temple
+# ````
+# 
+# ## F. Translating Sentences
+# The Assyrian kings present themselves as:
+# <font size="11">𒁹𒀭𒊹𒁀𒉌𒌉𒍑𒎙𒃲𒎙𒆗𒉡</font>
+# 
+# ````{admonition} Tips
+# :class: tip
+# - <font size="11">𒁹𒀭𒊹𒁀𒉌𒌉𒍑</font> = <sup>m</sup>Assurbanipal
+# - <font size="11">𒎙</font> = A logogram for king	
+# ````
+# 
+# 
+# 

@@ -33,6 +33,7 @@
 # | pl.    |  fem.  | nom. | *šarrātum*      | *dannātum* |
 # |        |        | gen./acc. | *šarrātim* | *dannātum* |
 # 
+# (mim-nun)=
 # `````{admonition} Mimmation vs. Nunnation 🧑‍🏫
 # :class: tip
 # The endings for the singular in the *status rectus* contains the element *-m* and is called [*mimation*](https://en.wikipedia.org/wiki/Mimation). It begins to desappear already in the old Babylonian period, later on completely. For more details see ABG §46; GoA 24.4.There is also the ending *-n* for the dual called [*nunation*](https://en.wikipedia.org/wiki/Nunation). 
