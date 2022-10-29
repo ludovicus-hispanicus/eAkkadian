@@ -20,7 +20,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ׃ וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל־פְּנֵי תְהֹום וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם׃
 # 
 # **KJV**
-# In the beginning God created the heavens and the earth. Now the earth was without shape and empty, and darkness was over the surface of the watery deep, but the Spirit of God was moving over the surface of the water.
+# In the beginning God created the heavens and the earth. Now the earth was without shape and empty, and darkness was over the surface of the watery deep, but the Spirit of God was moving over the surface of the water. 
 # ```
 # 
 # | Normalisation | Translation | Hebrew |
@@ -41,10 +41,16 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # ````{admonition} Example
 # :class: tip
 # *enzum* = *en-zum* = goat
-# - For Syllabification 👉[L0.5](syllab)
+# - For syllabification 👉[L0.5](syllab)
 # - For the Akkadian words 👉[L0.6:A](intro-vocab)
 # ````
 # - *qaqqadum*
+# 	
+#   ```{admonition} Answer
+#   :class: dropdown
+#   *qaq-qa-dum* = head
+#   ```
+# 
 # - *šarratum*
 # - *amtum*
 # - *šarrum*
@@ -72,6 +78,11 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - For writing in cuneiform 👉[L0.4](cuneif) 
 # - For the sign list 👉[L0.6:C](intro-signs) 
 # ````
+# - *qaqqadum*
+#   ```{admonition} Answer
+#   :class: dropdown
+#   <font size="11">𒆕𒋡𒁺𒌝 ; 𒋡𒀝𒋡𒁺𒌝</font> *qaq-qa-dum*; *qa-aq-qa-du-um = head
+#   ```
 # 
 # ## D. Logograms
 # Write the logographic value of the following signs and translate:
@@ -80,10 +91,15 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # :class: tip
 # - <font size="11">𒌓</font> = UTU = *šamaš* = sun (god)
 # - For Logograms in Cueniform 👉[L0.4](cuneif)
-# - For examples of Akkadian Logograms 👉[L0.6:c](intro-logo)
+# - For examples of Akkadian Logograms 👉[L0.6:C](intro-logo)
 # ````
 # 
 # - <font size="11">𒌓</font>	
+#   ```{admonition} Answer
+#   :class: dropdown
+#   U₄ = *ūmu* = day
+#   ```
+# 
 # - <font size="11">𒌓</font>	
 # - <font size="11">𒆳</font>	
 # - <font size="11">𒀭</font>	
@@ -100,7 +116,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # :class: tip
 # <font size="11">𒃲𒌑</font> = GAL-*u₂* = *rabû(m)*
 # - For Logograms in Cueniform 👉[L0.4](cuneif)
-# - For the **m** in parenthesis **(m)** see 👉[mimation](mim-nun)	
+# - For the **m** in parenthesis *(m)* see 👉[mimation](mim-nun)	
 # ````
 # - <font size="11">𒂍𒌑</font>
 # - <font size="11">𒂗𒌑</font>
@@ -122,9 +138,9 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # 
 # ````{admonition} Tips
 # :class: tip
-# - <font size="11">𒁹𒀭𒊹𒁀𒉌𒌉𒍑</font> = <sup>m</sup>Assurbanipal.
-# - <font size="11">𒎙</font> = A logogram for king.
-# - <font size="11">𒆗𒉡</font> = *dannu* = strong.	
+# - <font size="11">𒁹𒀭𒊹𒁀𒉌𒌉𒍑</font> = <sup>m</sup>A>.ŠAR₂-ba-ni.IBILA = Assurbanipal.
+# - <font size="11">𒎙</font> = MAN = *šarrum* = king.
+# - <font size="11">𒆗𒉡</font> = *dan-nu* = mighty.	
 # ````
 # 
 # 

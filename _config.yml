@@ -1,6 +1,6 @@
 # Book settings
 title: "eAkkadian"  # The title of the book. Will be placed in the left navbar.
-author: Shai Gordin, Luis Sáenz and Morris Alper  # The author of the book
+author: Shai Gordin, Luis Sáenz & Morris Alper  # The author of the book
 execute:
   execute_notebooks: force
 
@@ -11,11 +11,29 @@ sphinx:
   config:
     bibtex_reference_style: author_year
 
+#######################################################################################
+# Launch button settings
 # Information about where the book exists on the web
 repository:
   url: https://github.com/DigitalPasts/eAkkadian/  # Online location of your book
   branch : main  # Which branch of the repository should be used when creating links (optional)
-html:
-  use_repository_button: true
-  use_issues_button: true
 
+#######################################################################################
+# HTML-specific settings
+html:
+  use_repository_button: true # Whether to add a link to your repository button
+  use_issues_button: true # Whether to add an "open an issue" button
+  google_analytics_id: G-PW78G45323 # A GA id that can be used to track book views.
+  home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
+  comments:
+    hypothesis: true
+
+#######################################################################################
+# LaTeX-specific settings
+latex:
+  latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
+#######################################################################################
+# Parse and render settings
+parse:
+  myst_all_links_external: false
+ 
