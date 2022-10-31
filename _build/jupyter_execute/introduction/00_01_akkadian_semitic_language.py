@@ -8,7 +8,7 @@
 # GoA xxi-xxiii.
 # ```
 # 
-# Akkadian is the oldest known Semitic language and only after Sumerian the second oldest language in the Ancient Near East. It belongs to the east branch together with Eblaite. By contrast the west brach has three main subgroups central semitic, South Arabian and Ehtiopian, in which modern Arabic, Aramaic and Hebrew are located.
+# Akkadian is the oldest known Semitic language, and after Sumerian it is the second oldest language in the Ancient Near East. It belongs to the East Semitic branch together with Eblaite. By contrast, the West Semitic brach has three main subgroups: Central Semitic, South Arabian and Ehtiopian, in which, for example, modern Arabic, Aramaic and Hebrew are located.
 # 
 # ```{figure} ../images/introduction_fig_01_genetic_classification_semitic_languages.png
 # ---

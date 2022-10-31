@@ -9,13 +9,13 @@
 # ## Status Rectus
 # This is the inflected (nominative, genitive, accusative, plural, gender, etc.) form of the noun, when it is not before the a noun in genitive. 
 # 
-# |Akkadian         | Cuneiform                       | Transliteration | Translation | 
-# |---------------- | :-----------------------------: | :-------------: | :---------: |
-# | *šarrum* (nom.) | <font size="11">𒊬𒊒𒌝</font> | *šar-rum*       | king       |
-# | *ilam* (acc.)   | <font size="11">𒀭𒄠</font>      | AN-*am*        | god        | 
-# | *ālim*  (gen.)  | <font size="11">𒌷𒅎</font>     | URU-*i*        | city       | 
-# | *bēlum* (nom.)  | <font size="11">𒂗𒌝</font>     | EN-*um*        | lord      | 
-# | *dannim* (gen.) | <font size="11">𒆗𒉌𒅎</font>    | *dan-ni-im*    | mighty      |
+# |Akkadian         | Translation | 
+# |---------------- | :---------: |
+# | *šarrum* (nom.) | king       |
+# | *ilam* (acc.)   | god        | 
+# | *ālim*  (gen.)  | city       | 
+# | *bēlum* (nom.)  | lord      | 
+# | *dannim* (gen.) | mighty      |
 # 
 # `````{admonition} Remember! 🧠 
 # :class: tip
