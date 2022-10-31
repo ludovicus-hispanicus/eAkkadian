@@ -111,6 +111,7 @@
 # |**Perf.**| Perfect |
 # |**pl.**| plural |
 # |**PN** | personal name |
+# |**pos.suf.** | possessive suffix |
 # |**Prec.**| Precative |
 # |**Prep.**| preposition |
 # |**Pres.** | Present |

@@ -26,21 +26,22 @@
 # In this chapter we will study the nouns, adjectives and pronouns. They all share the characteristic of being inflected.
 # 
 # ### Nouns
-# Nouns in Akkadian are inflected according to:
+# [Nouns](01_02_nominal_inflection) in Akkadian are inflected according to:
 # 
-# - **State**: *status rectus*, *status constructus* and *status absolutus*. ↑[L1.1](state)
-# - **Grammatical Gender**: masculine and feminine. ↑[L1.2](noun-gender)
-# - **Grammatical Case**: nominative, genitive, accusative and locative and terminative. ↑[L1.3](casus)
-# - **Grammatical number**: singular, dual and plural. ↑[L1.4](numerus)
+# - [**State**](01_01_nouns_status): *status rectus*, *status constructus* and *status absolutus*. 
+# - **Grammatical Gender**: masculine and feminine. 
+# - **Grammatical Case**: nominative, genitive, accusative and locative and terminative. 
+# - **Grammatical number**: singular, dual and plural.
 # 
 # ### Adjectives
-# Adjectives are inflected according to:
-# - **Grammatical Gender**: masculine and feminine. ↑[L1.2](adj-gender)
-# - **Grammatical Case**: nominative, genitive, accusative and terminative. ↑[L1.3](casus)
-# - **Grammatical number**: singular and plural. ↑[L1.4](numerus)
+# [Adjectives](01_02_nominal_inflection) are inflected according to:
+# - **Grammatical Gender**: masculine and feminine. 
+# - **Grammatical Case**: nominative, genitive, accusative and terminative. 
+# - **Grammatical number**: singular and plural. 
 # 
 # ### Pronouns
-# Pronouns are inflected according to:
-# - **Grammatical Gender**: masculine and feminine. ↑L1.6
-# - **Grammatical Case**: nominative, genitive, accusative. ↑L1.6
-# - **Grammatical number**: singular and plural. ↑L1.6
+# [Pronouns](01_05_pronouns_01) are inflected according to:
+# - **Grammatical Gender**: masculine and feminine. 
+# - **Grammatical Case**: nominative, genitive, accusative.
+# - **Grammatical number**: singular and plural.
+# - **Grammatical persion**: 1st, 2nd and 3rd person.
