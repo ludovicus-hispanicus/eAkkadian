@@ -59,7 +59,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - *ilum*
 # - *šarrum*
 # - *iltum*
-# - *peṣû*
+# - *peṣûm*
 # - *u*
 # - *abum*
 # - *mārtum*

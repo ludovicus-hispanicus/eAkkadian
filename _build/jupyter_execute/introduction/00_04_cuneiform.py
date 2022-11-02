@@ -159,7 +159,7 @@
 # | <font size="11">𒈜𒆏𒌈</font> | *nar-kab-tum* | chariot |
 # | <font size="11">𒈾𒅈𒅗𒀊𒌅𒌝</font> | *na-ar-ka-ab-tu-um* | chariot |
 # 
-# ## Transliteration vs Normalisation
+# ## Transliteration vs Normalization
 # For practical reasons, cuneiform writing is often translated into the alphabet writing. We distinguish between **transliteration** and **normalization**. 
 # 
 # - The **transliteration** reproduces all the signs of a word and connects them with a hyphen.

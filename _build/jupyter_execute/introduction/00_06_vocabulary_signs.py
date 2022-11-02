@@ -51,13 +51,13 @@
 # | <font size="11">𒅈</font>  | *ar*
 # | <font size="11">𒈾</font>  | *na*
 # | <font size="11">𒅗</font>  | *ka*
-# | <font size="11">𒉿</font>  | *pi*, *wa*
+# | <font size="11">𒉿</font>  | *pi, pe*, *wa, we, wi, wu*
 # | <font size="11">𒍮</font>  | *ṣu*
 # | <font size="11">𒋡</font>  | *qa*
 # | <font size="11">𒁺</font>  | *du*
 # | <font size="11">𒊏</font>  | *ra*    
 # | <font size="11">𒊬</font>  | *šar*
-# | <font size="11">𒀸</font>   | *rum*
+# | <font size="11">𒀸</font>   | *aš,rum*
 # | <font size="11">𒆪</font>  | *ku*
 # | <font size="11">𒌌</font>  | *ul*
 # | <font size="11">𒈬</font>  | *mu*

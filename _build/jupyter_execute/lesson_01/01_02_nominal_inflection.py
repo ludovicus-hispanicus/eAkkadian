@@ -90,7 +90,7 @@
 # For more information 👉 GoA 28.2 and 28.3.
 # ```
 # 
-# (noun-gender)=
+# (gender)=
 # ## Grammatical Gender
 # There are two grammatical genders: masculine and feminine.
 # 

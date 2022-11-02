@@ -8,78 +8,57 @@
 # (l1-vocab)=
 # ## A. Vocabulary
 # 
-# | Akkadian word | Translation | Hebrew  |
-# | ------------  | :---------: | :-----: |
-# | *abum*        | father      |         | 
-# | *ālum*        | city        |         |
-# | *amtum*       | female slave  |       |
-# | *bēlum*       | lord        |         |
-# | *bītum*       | house       |         |
-# | *ilum*        | god         |         |
-# | *iltum*       | goddess     |         |
-# | *u*           | and         |         |
-# | *mātum*       | country     |         |
-# | *mārtum*      | daughter    |         |
-# | *mārum*       | son         |         |
-# | *narkabtum*   | chariot     |         |
-# | *peṣû*        | white       |         |
-# | *qaqqadum*    | head        |         |
-# | *rabûm*       | big (adj.)  |         |       
-# | *šarratum*    | queen       |         |
-# | *šarrum*      | king        |         |
-# | *tukultu*     | weapon      |         |
-# | *ūmu*         | day         |         |
-# | *wardum*      | male slave  |         |
+# | Akkadian word | Translation |
+# | ------------  | :---------: |
+# | *aššatum*     | wife        |
+# | *emūqum* (du. *emūqān*, pl.masc. *emūqū* and fem. *emūqātum*) | stregth, power, force, abulity, armed forces |
+# | *išdum* (du. *išdān*; pl. *išdātum*) | base, foundation        | 
+# | *kaspum*      | silver      |
+# | *libbum*      | heart, mind, wish, inside, center, midst | 
+# | *nārum*       | river         |
+# | *ṣābum*       | army, gang, troops |
+# | *šīpātum*     | king        |
+# | *ṭuppum * (masc. and fem.; pl. *ṭuppu* and *ṭuppātum*)     | (clay) tablet, document, letter |
+# | *ummum* (fem.) | mother     | 
+# | *uznum*       | ear, wisdom |
+# | *ana*        | to, toward, unto, for |
+# | *ina*        | in, into, at, among, with (objects) | 
+# | *ištu*       | from, out of, away from |
+# | *itti*       | with (persons, deities), in the company of |
 # 
 # (l1-signs)=
 # ## B. Signs
 # | Sign                      | Logographic value |
 # | ------------------------- | :---------------: |
-# | <font size="11">𒀀</font>  | *a*               |
-# | <font size="11">𒄠</font> | *am*                |
-# | <font size="11">𒁁</font>  | *be*
-# | <font size="11">𒁉</font>  | *bi*
-# | <font size="11">𒁍</font>  | *bu*
-# | <font size="11">𒌝</font> | *um*
-# | <font size="11">𒇻</font>  | *lu*
-# | <font size="11">𒌈</font>  | *tum*
-# | <font size="11">𒄿</font>  | *i*
-# | <font size="11">𒌅</font> | *tu*
-# | <font size="11">𒌋</font>    | *u*
-# | <font size="11">𒌑</font>    | *u₂*
-# | <font size="11">𒈠</font>   | *ma*
-# | <font size="11">𒅈</font>  | *ar*
-# | <font size="11">𒈾</font>  | *na*
-# | <font size="11">𒅗</font>  | *ka*
-# | <font size="11">𒉿</font>  | *pi*, *wa*
-# | <font size="11">𒍮</font>  | *ṣu*
-# | <font size="11">𒋡</font>  | *qa*
-# | <font size="11">𒁺</font>  | *du*
-# | <font size="11">𒊏</font>  | *ra*    
-# | <font size="11">𒊬</font>  | *šar*
-# | <font size="11">𒀸</font>   | *rum*
-# | <font size="11">𒆪</font>  | *ku*
-# | <font size="11">𒌌</font>  | *ul*
-# | <font size="11">𒈬</font>  | *mu*
+# | <font size="11">𒉡</font>  | *nu*               |
+# | <font size="11">𒂊</font> | *e*                |
+# | <font size="11">𒎌</font>  | *meš*
+# | <font size="11">𒀊</font>  | *ab*
+# | <font size="11">𒋫</font> | *ta*
+# | <font size="11">𒄭</font>  | *hi*
+# | <font size="11">𒄴</font>  | *ah, uh*
+# | <font size="11">𒅇</font>  | *u₃*
+# | <font size="11">𒋢</font>  | *su*
+# | <font size="11">𒂖</font>  | *el*
+# | <font size="11">𒄩</font>  | *ha*
+# | <font size="11">𒊓</font>  | *sa*
+# | <font size="11">𒋗</font>  | *šu*
+# | <font size="11">𒈪</font>  | *mi*
+# | <font size="11">𒁲</font>  | *di*
+# | <font size="11">𒅅</font>  | *𒅅*
+# | <font size="11">𒀜</font>  | *ad, at*
 # 
 # (l1-logo)=
 # ## C. Logograms
 # | Sign                      | Logographic value | Determinativ | Akkadian     | Meaning      |
 # | ------------------------- | :---------------: | :----------: | :----------: | :----------: |
-# | <font size="11">𒌓</font>  | UTU               | -            | *šamaš*      | Sun, Sun god |
-# | <font size="11">𒌓</font>  | U₄	             | -            | *ūmu*        | day          |
-# | <font size="11">𒌓</font>  | BABBAR            | -            | *peṣû*       | white        |
-# | <font size="11">𒆳</font>  | KUR               | <sup>kur</sup> | *mātu*     | country      |
-# | <font size="11">𒀭</font> | AN	            | <sup>d</sup>  | *ilum*      | god          |
-# | <font size="11">𒄑</font> | GIŠ	            | <sup>ĝeš</sup> | *iṣu*      | wood          |
-# | <font size="11">𒀀</font>  | A	             | -             | *mû*        | water         |
-# | <font size="11">𒂗</font> | EN                | -             | *bēlum*      | lord        |
-# | <font size="11">𒃲</font> | GAL 	            | -             | *rabûm*      | *groß*        | 
-# | <font size="11">𒄑𒆪</font> | <sup>ĝeš</sup>TUKUL | -         | *tukultu*      | *weapon*        | 
-# 
-# 
+# | <font size="11">𒉡</font>  | NU                | -            | *ūl, lā*     | negation |
+# | <font size="11">𒎌</font> | MEŠ	            | <sup>meš</sup> |            | Plural determinative after nouns |
+# | <font size="11">𒎌</font> | UDU	            |              | *immerum*    | sheep |
+#  
 # (l1-comp)=
 # ## D. Composites
 # | Signs                             | Logographic value          | Meaning           |
 # | -------------------------         | :------------------------: | :---------------: |
-# | <font size="11">𒆍𒀭𒊏𒆠</font>  | KA₂.DINGIR.RA<sup>ki</sup> | (city of) Babylon |
+# | <font size="11">𒂍𒃲</font>  | E₂.GAL                          | *ekallum* = palace |
+# | <font size="11">𒆳𒀸𒋩𒆠</font>  | <sup>kur</sup>*aš-šur*<sup>ki</sup> | (city of) Aššur |

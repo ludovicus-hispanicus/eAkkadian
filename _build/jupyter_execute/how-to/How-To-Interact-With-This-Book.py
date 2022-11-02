@@ -41,9 +41,10 @@
 # Otherwise the browser will use the [default font](https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)), which is actually design according to the Old Babylonian ductus.  
 # 
 # ## **Š** **Ṣ** **Ĝ** Special Characters
-# For the special characters you may install [WinCompose](http://wincompose.info/). Once installed download {download}`this list <../extra_material/.XCompose.txt>` and add it to in ```C:\Users\[username]```.
+# For the special characters there are two options you may install [WinCompose](http://wincompose.info/). Once installed download {download}`this list <../extra_material/.XCompose.txt>` and add it to in ```C:\Users\[username]```.
 # The combinations for the special characters are:
 # 
+# - [key] + a + l = ʾ 
 # - [key] + ^ + g = ĝ 
 # - [key] + ^ + G = Ĝ
 # - [key] + c + s = š
