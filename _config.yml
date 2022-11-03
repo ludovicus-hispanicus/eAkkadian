@@ -1,6 +1,6 @@
 # Book settings
 title: "eAkkadian"  # The title of the book. Will be placed in the left navbar.
-author: Shai Gordin, Luis Sáenz & Morris Alper  # The author of the book
+author: Shai Gordin & Luis Sáenz # The author of the book
 execute:
   execute_notebooks: force
 

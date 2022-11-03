@@ -70,7 +70,7 @@
 # | <font size="11">𒌓</font>  | U₄	             | -            | *ūmu*        | day          |
 # | <font size="11">𒌓</font>  | BABBAR            | -            | *peṣû*       | white        |
 # | <font size="11">𒆳</font>  | KUR               | <sup>kur</sup> | *mātu*     | country      |
-# | <font size="11">𒀭</font> | AN	            | <sup>d</sup>  | *ilum*      | god          |
+# | <font size="11">𒀭</font> | DINGIR            | <sup>d</sup>  | *ilum*      | god          |
 # | <font size="11">𒄑</font> | GIŠ	            | <sup>ĝeš</sup> | *iṣu*      | wood          |
 # | <font size="11">𒀀</font>  | A	             | -             | *mû*        | water         |
 # | <font size="11">𒂗</font> | EN                | -             | *bēlum*      | lord        |

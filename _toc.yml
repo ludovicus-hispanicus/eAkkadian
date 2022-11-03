@@ -47,8 +47,8 @@ parts:
       title: Pronouns Part 1
     - file: lesson_01/01_06_verbless_sentences
       title: Verbless Sentences
-    - file: lesson_01/01_07_excercises
-      title: Excercises
+    - file: lesson_01/01_07_exercises
+      title: Exercises
     - file: lesson_01/01_08_vocab_signs
       title: Vocabulary and Signs 
     - file: lesson_01/01_09_assignment
