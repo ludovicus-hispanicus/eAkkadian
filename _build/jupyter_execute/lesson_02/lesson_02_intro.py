@@ -9,7 +9,7 @@
 # | *Hammurapi šar Babilim*    | Hammurapi is the king of Babilon |
 # | *šarrum gitmālum anāku*    | I am the perfect king |
 # 
-# , most of them three consonants. They have an internal vowel pattern 
+# 
 # - Stems
 # - G-Stem
 #     - Present

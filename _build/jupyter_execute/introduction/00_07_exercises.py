@@ -48,7 +48,7 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # 	
 #   ```{admonition} Answer
 #   :class: dropdown
-#   *qaq-qa-dum* = head
+#   *qaq/qa/dum* = head
 #   ```
 # 
 # - *šarratum*
@@ -66,10 +66,15 @@ IPython.display.Audio(r"C:\Users\luiss\introduction_to_akkadian\audio\enuma-elis
 # - *mārum*
 # - *bēlum*
 # - *šarratum*
-# - *tukultu*
-# - *umu*
+# - *tukultum*
+# - *ūmum*
 # 
 # ## C. Writing in Cuneiform
+# 
+# ```{warning}
+# For Neo-Assyrian sings you may install a Neo-Assyrian font. 👉[Cuneiform font](cunei-font)
+# ```
+# 
 # Write the words in exercise B using the cuneiform signs, sometimes more than one option, and then transliterate them:
 # 
 # ````{admonition} Example

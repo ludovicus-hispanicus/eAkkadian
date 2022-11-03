@@ -12,18 +12,20 @@
 # - A syllable can only have one vowel.
 # - A syllable may not begin or end with two consonants.
 # 
-#   | Akkadian word    | Transliteration      | Translation   |
+#   | Akkadian word    | Syllabification      | Translation   |
 #   | --------         | :--------:           | :----------:  |
-#   | *balāṭum*        | *ba-la-ṭu-um*        | to live       |
-#   | *narkabtum*      | *nar-kab-tum*        | chariot       |
+#   | *balāṭum*        | *ba/la/ṭum* | to live       |
+#   | *narkabtum*      | *nar/kab/tum* | chariot       |
 # 
 # - A syllable may not begin with a vowel:
 #   - Exception 1: At the beginning of a word 👉*elûm*.
 #   - Exception 2: Two succesive vowels 👉*kīam*.
-#     | Akkadian word    | Transliteration      | Translation   |
+#     | Akkadian word    | Syllabification      | Translation   |
 #     | --------         | :--------:           | :----------:  |
-#     | *elûm*           | *e-lum*              | upper         |
-#     | *kīam* or *kiʾam* | *ki-am* or *ki-ʾam*  | so, thus      |
-#     
+#     | *elûm*           | *e/lum*              | upper         |
+#     | *kīam*, *kiʾam* or *kâm* | *ki/am*, *ki/ʾam*, *kam*  | so, thus      |
+#     ```{note}
+#     For *kīam* there is also the writing *kâm*. 
+#     ```
 #   
 #   

@@ -33,6 +33,11 @@
 # 
 # (intro-signs)=
 # ## B. Signs
+# 
+# ```{warning}
+# For Neo-Assyrian sings you may install a Neo-Assyrian font. 👉[Cuneiform font](cunei-font)
+# ```
+# 
 # | Sign                      | Logographic value |
 # | ------------------------- | :---------------: |
 # | <font size="11">𒀀</font>  | *a*               |

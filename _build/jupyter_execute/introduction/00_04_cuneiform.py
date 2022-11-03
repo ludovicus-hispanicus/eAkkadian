@@ -25,6 +25,10 @@
 # ## Cuneiform Signs
 # Each sign can consists on following elements:
 # 
+# ```{warning}
+# If you want to see Neo-Assyrian signs you may want to install a Neo-Assyrian font 👉
+# 
+# 
 # | Element | Wedge | 
 # | -------- | -------- | 
 # | Horizontal wedge | <font size="11">𒀸</font> |

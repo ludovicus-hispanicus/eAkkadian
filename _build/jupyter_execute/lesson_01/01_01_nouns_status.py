@@ -19,7 +19,7 @@
 # 
 # `````{admonition} Remember! 🧠 
 # :class: tip
-# From now on the *status rectus* won't be mentioned, because this status is the most common status. 
+# From now on the *status rectus* won't be mentioned, because this status is the most one. 
 # `````
 # 
 # (st-ct)=
@@ -37,7 +37,7 @@
 # 
 # | *Status absolutus* | *Status rectus* | Translation |
 # |------------------- | --------------- | ----------- |
-# | *zikar*            | *zikarum*       | viril       |
+# | *zikar*            | *zikarum*       | virile, manly       |
 # | *šarrat*           | *šarratum*      | queen       |
 # | *šinniš*           | *šinništum*     | woman       |
 # 

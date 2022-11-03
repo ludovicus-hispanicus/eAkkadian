@@ -28,6 +28,7 @@
 # To work with this .ipynb file, you will need to have Jupyter installed and running on your own computer.
 # ````
 # 
+# (cunei-font)=
 # ## **𒀀** Cuneiform Font 
 # In this course we will mainly use the Neo-Assyrian script. In order to visualize it, you may want to download [Assurbanipal](https://www.hethport.uni-wuerzburg.de/cuneifont/) under the link "Neo-Assyrian Font" and install it. Once installed add it to your browser:
 # 
@@ -63,5 +64,7 @@
 # At the moment it only runs on Windows.
 # ```
 # This input method can also be used for special charachters.
+# 
+# ## Hypothesis
 # 
 # 

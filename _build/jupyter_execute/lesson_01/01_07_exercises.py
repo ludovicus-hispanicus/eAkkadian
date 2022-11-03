@@ -5,6 +5,10 @@
 # 
 # ## A. Translate and analyse the following words
 # 
+# ```{warning}
+# For Neo-Assyrian sings you may install a Neo-Assyrian font. 👉[Cuneiform font](cunei-font)
+# ```
+# 
 # ```{admonition} Example
 # <font size="11">𒊬𒊒𒌝</font>
 #   
