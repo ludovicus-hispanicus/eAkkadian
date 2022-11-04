@@ -32,6 +32,8 @@ parts:
       title: Vocabulary and Signs
     - file: introduction/00_07_exercises
       title: Exercises
+    - file: introduction/00_08_assignment
+      title: Assignment
   - file: lesson_01/01_00_intro
     title: Lesson 1
     sections:
@@ -39,19 +41,21 @@ parts:
       title: Status
     - file: lesson_01/01_02_nominal_inflection
       title: Nominal Inflection
-    - file: lesson_01/01_03_status-constructus
+    - file: lesson_01/01_03_det-pron-sha
+      title: The Determinative Pronoun ša
+    - file: lesson_01/01_04_status-constructus
       title: Status Constructus - Part 1
-    - file: lesson_01/01_04_vowel-contraction
+    - file: lesson_01/01_05_vowel-contraction
       title: Vowel Contraction
-    - file: lesson_01/01_05_pronouns_01
+    - file: lesson_01/01_06_pronouns_01
       title: Pronouns Part 1
-    - file: lesson_01/01_06_verbless_sentences
+    - file: lesson_01/01_07_verbless_sentences
       title: Verbless Sentences
-    - file: lesson_01/01_07_exercises
+    - file: lesson_01/01_08_exercises
       title: Exercises
-    - file: lesson_01/01_08_vocab_signs
+    - file: lesson_01/01_09_vocab_signs
       title: Vocabulary and Signs 
-    - file: lesson_01/01_09_assignment
+    - file: lesson_01/01_10_assignment
       title: Assignment      
   - file: lesson_02/lesson_02_intro
     title: Lesson 2

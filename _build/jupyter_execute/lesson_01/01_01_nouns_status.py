@@ -42,6 +42,7 @@
 # | *šinniš*           | *šinništum*     | woman       |
 # 
 # ```{note}
-# The word *zikar* und *šinniš* are often used in the idiomatic expressions <font size="11">𒍑𒌋𒊩</font> *zikar u šinniš* "male and female".
+# The word *zikar* und *šinniš* are often used in the idiomatic expressions like
+# -  <font size="11">𒍑𒌋𒊩</font> *zikar u šinniš* "male and female".
 # ```
 # 

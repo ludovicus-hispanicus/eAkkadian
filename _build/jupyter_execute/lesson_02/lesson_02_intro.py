@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # L2.1: Stems
-# In the Akkadian language, as in all Semitic languages, most words consist of a **root** also called **stem**. A root is a sequence of consonants in which a patter of internal vowels are used to modify it, additionally affixes, consonant doubling can also be employed to modify it, for example:
+# In the Akkadian language, as in all Semitic languages, most words consist of a **root** also called **stem**. A root is a sequence of consonants in which a patter of internal vowels are used to modify it. Additionally prefixes, infixes, suffixes and consonant doubling can also be employed to modify it, for example:
 # 
 # | Verbless Sentence          | Translation           |
 # | -------------------------- | --------------------- |

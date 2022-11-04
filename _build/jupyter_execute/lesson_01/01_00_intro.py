@@ -40,7 +40,7 @@
 # - **Grammatical number**: singular and plural. 
 # 
 # ### Pronouns
-# [Pronouns](01_05_pronouns_01) are inflected according to:
+# [Pronouns](01_06_pronouns_01) are inflected according to:
 # - **Grammatical Gender**: masculine and feminine. 
 # - **Grammatical Case**: nominative, genitive, accusative.
 # - **Grammatical number**: singular and plural.

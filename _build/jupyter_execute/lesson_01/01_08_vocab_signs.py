@@ -9,7 +9,7 @@
 # ## A. Vocabulary
 # 
 # | Akkadian word | Translation |
-# | ------------  | :---------: |
+# | ------------  | ---------: |
 # | *aššatum*     | wife        |
 # | *emūqum* (du. *emūqān*, pl.masc. *emūqū* and fem. *emūqātum*) | stregth, power, force, abulity, armed forces |
 # | *išdum* (du. *išdān*; pl. *išdātum*) | base, foundation        | 
@@ -45,7 +45,7 @@
 # | <font size="11">𒋗</font>  | *šu*
 # | <font size="11">𒈪</font>  | *mi*
 # | <font size="11">𒁲</font>  | *di*
-# | <font size="11">𒅅</font>  | *𒅅*
+# | <font size="11">𒅅</font>  | *ig*
 # | <font size="11">𒀜</font>  | *ad, at*
 # 
 # (l1-logo)=

@@ -34,7 +34,7 @@
 # | 3m      | *šū*    | He             | 3m     | *šunu*   | they           | 
 # | 3f      | *šī*    | She            | 1f     | *šina*   | they           | 
 # 
-# 
+# They are placed at the end of the sentence
 # 
 # 
 # 

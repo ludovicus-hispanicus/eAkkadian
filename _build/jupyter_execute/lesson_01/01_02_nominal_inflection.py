@@ -6,7 +6,7 @@
 # ````
 # 
 # (nom-inflec)=
-# # Nominal Inflection
+# # L1.2 Nominal Inflection
 # Nouns and adjectves are congruence i.e. the match up in case, gender and number:
 # 
 # ```{note}
@@ -28,8 +28,8 @@
 # - The **nominative** indicates the subject in verbal and nominal sentences. It has the following endings:
 #   - sg. *-um*
 #   - du. *-ān*
-#   - n.pl. *-ū* 
-#   - n.f.pl. *-um* 
+#   - m.pl. *-ū* 
+#   - f.pl. *-um* 
 #   - adj.pl. *-um* 
 # 
 # 
@@ -37,8 +37,8 @@
 #   | ---------   | -------   | -------   | ----------- |
 #   | sg.         | *-um*     | *šarr-um*  | king        |
 #   | du.         | *-ān*     | *in-ān*    | (both) eyes |
-#   | n.pl.       | *-ū*      | *il-ū*     | gods        |
-#   | n.f.pl.     | *-um*     | *šarrāt-um* | queens    |
+#   | m.pl.       | *-ū*      | *il-ū*     | gods        |
+#   | f.pl.       | *-um*     | *šarrāt-um* | queens    |
 #   | adj.pl.     | *-um*     | *ṭabūt-um*  | good      |
 # 
 # - The **genitive** indicates possession. It is used after a prepostition and accompanies the *status constructus*. It has the following endings:
@@ -102,7 +102,7 @@
 #   - sg./du. *-t-* or *-at-*
 #   - pl. *-āt-*  
 # 
-#   ```{admonitions} Good-to-Know
+#   ```{admonition} Good-to-Know
 #   :class: tip
 #   The form of the feminine is actually *-at-* but the short vowel *a* is elided:
 #   - *šubtu* < *šub-at-u 
@@ -124,7 +124,7 @@
 # |--------- | ----------- |
 # | *arhum*  | cow         |
 # | *šēpum*  | foot        |
-# | *ummun*  | mother      |
+# | *ummum*  | mother      |
 # | *enzum*  | she-goat    |
 # | *nārum*  | river       |
 # 
@@ -157,8 +157,8 @@
 # | sg.    | nom.      | *šarr-um*   | *dann-um*     |  
 # |        | gen.      | *šarr-im*   | *dann-im*     |  
 # |        | acc.      | *šarr-am*   | *dann-am*     |    
-# | dual   | nom.      | *šarr-ān*   | *dann-ūt-u*   |    
-# |        | gen./acc. | *šarr-īn*   | *dann-ūt-i*   |        
+# | dual   | nom.      | *šarr-ān*   | *dann-ūt-um*   |    
+# |        | gen./acc. | *šarr-īn*   | *dann-ūt-im*   |        
 # | pl.    | nom.      | *šarr-ū*    | *dann-ūt-um*  |   
 # |        | gen./acc. | *šarr-ī*    | *dann-ūt-im*  |  
 # 

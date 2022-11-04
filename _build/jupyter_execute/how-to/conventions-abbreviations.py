@@ -110,6 +110,7 @@
 # |**pass.**| passive |
 # |**Perf.**| Perfect |
 # |**pl.**| plural |
+# |**pl.tant** | [plurale tantum](https://en.wikipedia.org/wiki/Plurale_tantum)
 # |**PN** | personal name |
 # |**pos.suf.** | possessive suffix |
 # |**Prec.**| Precative |

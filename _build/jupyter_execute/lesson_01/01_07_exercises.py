@@ -28,7 +28,7 @@
 # - **Normalisation**: *ilam*
 # - **Translation**: god
 # - **Status**: *status rectus*
-# - **number**: singular
+# - **Number**: singular
 # - **Case**: accusative
 # ```
 # 
@@ -40,7 +40,7 @@
 # - **Normalisation**: *ālim*
 # - **Translation**: city
 # - **Status**: *status rectus*
-# - **number**: singular
+# - **Number**: singular
 # - **Case**: genitive
 # ``` 
 # 
@@ -52,7 +52,7 @@
 # - **Normalisation**: *bēlū*
 # - **Translation**: lords
 # - **Status**: *status rectus*
-# - **number**: plural
+# - **Number**: plural
 # - **Case**: nominative
 # ``` 
 # 
@@ -69,7 +69,7 @@
 # - **Normalisation**: *šarrum dannum*
 # - **Translation**: mighty king
 # - **Status**: *status rectus*
-# - **number**: singular
+# - **Number**: singular
 # - **Case**: nominative
 # ``` 
 # 
@@ -125,7 +125,7 @@
 # *amtum*
 # ```{admonition} Solution
 # :class: dropdown  
-# - *amātum*
+# - *amātum* = female slave
 # ```
 # 
 # *mārtum*
@@ -154,35 +154,35 @@
 # 
 # ## E. Write in Akkadian
 # ```{admonition} Example
-# The servant of the queen = *wardū šarratim*
+# The servants of the queen = *wardū šarratim*
 # ```
 # The lord's eyes
 # ```{admonition} Solution
 # :class: dropdown  
-# - *inī bēlīm*
+# *inā bēlim*
 # ```
 # 
 # The wife of the lord
 # ```{admonition} Solution
 # :class: dropdown  
-# - *aššat bēlīm*
+# *aššat bēlim*
 # ```
 # 
 # The head of the man
 # ```{admonition} Solution
 # :class: dropdown  
-# - *qaqqad awīlim*
+# *qaqqad awīlim*
 # ```
 # The weapon of the king
 # ```{admonition} Solution
 # :class: dropdown  
-# - *tukulti šarrim*
+# *tukulti šarrim*
 # ```
 # 
 # The god of the city
 # ```{admonition} Solution
 # :class: dropdown  
-# - *il ālim*
+# *il ālim*
 # ```
 # ## F. write in Cuneiform
 # Write in cuneiform the phrases in exercise E.
@@ -235,59 +235,59 @@
 # 
 # ## G. write in Akkadian
 # ```{admonition} Example
-# You are king = *šarru attā*
+# You are king = *šarrum attā*
 # ```
 # 
 # You are the father of the gods
 # ```{admonition} Solution
 # :class: dropdown  
-# - *abi ilī attā*
+# *abi ilī attā*
 # ```
 # 
 # The weapon was in the house
 # ```{admonition} Tip
 # :class: tip  
-# - in = *ina* + dative
+# in = *ina* + dative
 # ```
 # 
 # ```{admonition} Solution
 # :class: dropdown  
-# - *tukultu ina bītim*
+# *kakkum ina bītim*
 # ```
 # 
 # You are the sons of the female slaves
 # ```{admonition} Solution
 # :class: dropdown  
-# - *mārū imātim atunnu*
+# *mārū amātim atunnu*
 # ```
 # 
 # You are the daughter of the male slaves
 # ```{admonition} Solution
 # :class: dropdown  
-# - *marāt wardī atinna*
+# *marāt wardī atinna*
 # ```
 # 
 # We are the king's slaves
 # ```{admonition} Solution
 # :class: dropdown  
-# - *wardī šarrim nīnu*
+# *wardī šarrim nīnu*
 # ```
 # 
 # Ninhursag is queen of the goddesses; she is queen of the goddesses
 # ```{admonition} Solution
 # :class: dropdown  
-# - *Ninhursag šarrat ilātim, šarrat ilātim šī*
+# *Ninhursag šarrat ilātim, šarrat ilātim šī*
 # ```
 # 
 # I am the mighty king, the great king, king of the universe
 # ```{admonition} Tip
 # :class: tip  
-# - universe, totality = *kiššatum* = <font size="11">𒋙</font>
+# <font size="11">𒋙</font> = ŠU₂ = *kiššatum* = Universe, totality
 # ```
 # 
 # ```{admonition} Solution
 # :class: dropdown  
-# - *šarrum dannum, šarrum rabûm, šar kiššatim anāku*
+# *šarrum dannum, šarrum rabûm, šar kiššatim anāku*
 # ```
 # 
 # 
