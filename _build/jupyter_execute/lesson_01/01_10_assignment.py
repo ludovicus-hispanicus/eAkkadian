@@ -70,7 +70,7 @@
 # Write in normalized Akkadian
 # 
 # ```{admonition} Example
-# *You are the mother of the gods* = *ummum ša ilī atti*
+# You are the mother of the gods = *ummum ša ilī atti*
 # ```
 # 1. The gold was in the house; it was in the house.
 # 2. You are the sons of the female slaves; you are the daughters of the male slaves.
@@ -84,14 +84,14 @@
 # *ummum ša ilī atti* = *You are the mother of the gods* 
 # ```
 # 
-# 1. amāt bēlim anāku u attina.
-# 2. bēlum ša ālim anāku.
-# 3. amātum ina nārim; ina nārim šina.
-# 4. tuppi ša mār bēlim; ša mārim ša bēlim šū.
-# 5. ilū ina libbim ša ālim; ina libbim ša ālim šunu.
-# 6. wardū šarratim nīnu.
-# 7. emūqu ša šarrim ina ālim.
-# 8. šipātum ša wardim.
+# 1. *amāt bēlim anāku u attina*.
+# 2. *bēlum ša ālim anāku*.
+# 3. *amātum ina nārim; ina nārim šina*.
+# 4. *tuppi ša mār bēlim; ša mārim ša bēlim šū*.
+# 5. *ilū ina libbim ša ālim; ina libbim ša ālim šunu*.
+# 6. *wardū šarratim nīnu*.
+# 7. *emūqu ša šarrim ina ālim*.
+# 8. *šipātum ša wardim*.
 # 
 # ## E. Reading 
 # Give the transliteration, normalization and translation of the following words:
