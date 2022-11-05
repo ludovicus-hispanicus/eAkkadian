@@ -4,7 +4,7 @@
 # # L1.10 Assignment
 # 
 # ## A. Nominal Inflection - 1
-# Analyse and translate the following phrases into Akkadian:
+# Analyse and translate the following phrases into English:
 # 
 # ```{warning}
 # For Neo-Assyrian sings you may install a Neo-Assyrian font. 👉[Cuneiform font](cunei-font)
@@ -70,7 +70,7 @@
 # Write in normalized Akkadian
 # 
 # ```{admonition} Example
-# *You are the mother of the gods* = *ummun ša ilī atti*
+# *You are the mother of the gods* = *ummum ša ilī atti*
 # ```
 # 1. The gold was in the house; it was in the house.
 # 2. You are the sons of the female slaves; you are the daughters of the male slaves.
@@ -81,7 +81,7 @@
 # 
 # Translate the following sentences:
 # ```{admonition} Example
-# *ummun ša ilī atti* = *You are the mother of the gods* 
+# *ummum ša ilī atti* = *You are the mother of the gods* 
 # ```
 # 
 # 1. amāt bēlim anāku u attina.
