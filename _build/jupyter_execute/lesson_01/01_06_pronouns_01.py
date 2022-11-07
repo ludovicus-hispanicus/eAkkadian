@@ -25,7 +25,6 @@
 # - **Grammatical Person**: 1st, 2nd and 3rd.
 # - **Grammatical number**: singular and plural.
 # 
-# 
 # | Singual | Nom.    | Translation    | Plural | Nom.     | Translation    | 
 # |-------- | :-----: | -------------: |------- | :------: | -------------: |  
 # | 1c      | *anāku* | I              | 1f     | *nīnu*   | we             | 

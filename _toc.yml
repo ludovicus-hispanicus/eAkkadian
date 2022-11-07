@@ -57,8 +57,15 @@ parts:
       title: Vocabulary and Signs 
     - file: lesson_01/01_10_assignment
       title: Assignment      
-  - file: lesson_02/lesson_02_intro
+  - file: lesson_02/02_00_intro
     title: Lesson 2
+    sections:
+    - file: lesson_02/02_01_semantic-root
+      title: Semantic root
+    - file: lesson_02/02_02_verbal-system
+      title: Verbal System
+    - file: lesson_02/02_03_G-stem
+      title: The G-Stem
   - file: lesson_03/lesson_03_intro
     title: Lesson 3
   - file: lesson_04/lesson_04_intro
