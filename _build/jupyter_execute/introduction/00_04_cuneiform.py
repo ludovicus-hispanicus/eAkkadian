@@ -27,7 +27,7 @@
 # 
 # ```{warning}
 # If you want to see Neo-Assyrian signs you may want to install a Neo-Assyrian font 👉
-# 
+# ```
 # 
 # | Element | Wedge | 
 # | -------- | -------- | 
@@ -47,7 +47,7 @@
 #     | <font size="11">𒌓</font> | UTU | *šamaš* |sun
 #     | <font size="11">𒆳</font> | KUR | *mātu* | country
 #     | <font size="11">𒀭</font> | DINGIR | *ilu* | god 
-#     | <font size="11">𒆪</font> | TUKUL | *tukultu* | weapon 
+#     | <font size="11">𒆪</font> | TUKUL | *kakku* | weapon 
 # 
 #     ```{admonition} Remember! 🧠
 #     :class: tip
@@ -100,7 +100,6 @@
 #     :class: tip
 #     Instead of the subscripts numbers ₂ and ₃ you will find in the litearture also transliteration of signs with **grave accent** and **acute accent**, for example á = a₂, à = 3 or šá = ša₂, šà = ša₃. Before the PCs scholars wrote on the type machine, in which is not possible to write subscripts, so they used accents. For the other number for example a₄ or ša₆ they had to write them by hand once the manuscript was ready.
 #     ````
-# 
 # 
 # - **Determinative**: It represents a semantic field and is placed before or after a logogram. In printed transliterations it is designated with superscript, but in the digital transliteration it appears in curly brackets.
 # 
