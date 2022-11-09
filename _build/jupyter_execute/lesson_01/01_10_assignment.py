@@ -64,7 +64,7 @@
 # 4. *šarrat šarratim*
 # 5. *Šar-kalī-šarri* (name of a King)
 # 6. *šar māt Šumerim u Akkadîm* (Sumer and Akkad)
-# 7. *šarrum dannum šar Lullubim*
+# 7. *šarrum dannum šar lullubim*
 # 
 # ## D. Pronouns and Verbless Sentences
 # Write in normalized Akkadian

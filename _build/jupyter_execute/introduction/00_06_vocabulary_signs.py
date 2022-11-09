@@ -22,7 +22,7 @@
 # | *mārtum*      | daughter    |         |
 # | *mārum*       | son         |         |
 # | *narkabtum*   | chariot     |         |
-# | *peṣû*        | white       |         |
+# | *peṣûm*       | white       |         |
 # | *qaqqadum*    | head        |         |
 # | *rabûm*       | big (adj.)  |         |       
 # | *šarratum*    | queen       |         |

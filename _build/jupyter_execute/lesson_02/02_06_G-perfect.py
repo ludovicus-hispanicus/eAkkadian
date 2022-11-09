@@ -42,14 +42,14 @@
 # 
 # |         | *ṣabātum*      | Translation  | 
 # | ------- | -------------- | -------- | 
-# | 3s.c.   | *iš**ta**kan*    | she/he/it seized | 
-# | 2s.m.   | *taš**ta**kan*   | you (ms) seized |
-# | 2s.f.   | *taš**ta**kan*  | you (fs) seized |
-# | 1s.c.   | *aš**ta**kan*    | I seized |
-# | 3pl.m.  | *iš**ta**knū*   | They (m) seized | 
-# | 3pl.f.  | *iš**ta**knā*   | They (f) seized |
-# | 2pl.c.  | *taš**ta**knā*  | You (pl) seized |
-# | 1pl.c.  | *niš**ta**kan*   | we seized |
+# | 3s.c.   | *iš**ta**kan*    | she/he/it placed | 
+# | 2s.m.   | *taš**ta**kan*   | you (ms) placed |
+# | 2s.f.   | *taš**ta**kan*  | you (fs) placed |
+# | 1s.c.   | *aš**ta**kan*    | I placed |
+# | 3pl.m.  | *iš**ta**knū*   | They (m) placed | 
+# | 3pl.f.  | *iš**ta**knā*   | They (f) placed |
+# | 2pl.c.  | *taš**ta**knā*  | You (pl) placed |
+# | 1pl.c.  | *niš**ta**kan*   | we placed |
 # 
 # ### Theme vowel **i**
 # 

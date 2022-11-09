@@ -72,6 +72,18 @@ parts:
       title: The G Durative
     - file: lesson_02/02_06_G-perfect
       title: The G Perfect
+    - file: lesson_02/02_07_G-imperative
+      title: The G Imperative
+    - file: lesson_02/02_08_G-stative
+      title: The G Stative
+    - file: lesson_02/02_09_modality
+      title: Modality
+    - file: lesson_02/02_10_exercises
+      title: Exercises
+    - file: lesson_02/02_11_vocab-signs
+      title: Vocabulary & Signs
+    - file: lesson_02/02_12_assignment
+      title: Assignment
   - file: lesson_03/lesson_03_intro
     title: Lesson 3
   - file: lesson_04/lesson_04_intro

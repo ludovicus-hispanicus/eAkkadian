@@ -9,11 +9,11 @@
 # ## A. Vocabulary
 # 
 # | Akkadian word | Translation |
-# | ------------  | ---------: |
+# | ------------  | --------- |
 # | *ana*        | to, toward, unto, for |
 # | *aššatum*     | wife        |
 # | *damqum*, f. *damiqtum* | gut
-# | ekallum*      | palce
+# | ekallum*      | palace
 # | *emūqum* (du. *emūqān*, pl.masc. *emūqū* and fem. *emūqātum*) | stregth, power, force, abulity, armed forces |
 # | *gitmālum*    | perfect
 # | *ezzum*, fm *ezzetum* | furious, angry
