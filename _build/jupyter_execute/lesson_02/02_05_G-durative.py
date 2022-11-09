@@ -12,7 +12,7 @@
 # ```
 # 
 # ## Personal Affixes
-# The personal affixes for the durative are the same as the those of the G preterite. 😌
+# The personal affixes for the durative are the same as the those of the G preterite. 😌 
 # 
 # |         | G-Stem                      | Example  | 
 # | ------- | --------------------------- | -------- | 

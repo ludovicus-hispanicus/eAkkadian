@@ -55,11 +55,11 @@
 # | 3pl.m.  | *išr**i**qū*   | They (m) stole | 
 # | 3pl.f.  | *išr**i**qā*   | They (f) stole |
 # | 2pl.c.  | *tašr**i**qā*  | You (pl) stole |
-# | 1pl.c.  | *nišr**i**q*   | we stole |
+# | 1pl.c.  | *nišr**i**q*   | we stole  |
 # 
 # ### Theme vowel **u**
 # 
-# |         | *šakānu*       | Translation  | 
+# |         | *šakānum*       | Translation  | 
 # | ------- | -------------- | -------- | 
 # | 3s.c.   | *išk**u**n*    | she/he/it placed | 
 # | 2s.m.   | *tašk**u**n*   | you (ms) placed |

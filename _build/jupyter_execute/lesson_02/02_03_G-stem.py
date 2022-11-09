@@ -16,7 +16,7 @@
 # The infinitive is morphologically a noun and is inflected as such. 
 # 
 # ```{important}
-#  ***parās***-form
+#  ***parās***-form 
 # ``` 
 # 
 # This is also the citation form of a verb not only today but already in antiquity. That means that all other stems are subsumed after the G-stem

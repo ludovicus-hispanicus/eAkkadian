@@ -289,4 +289,26 @@
 # - *tahtaliq* = you have gone lost. 
 # ```
 # 
+# - *aštapar* 
+# ```{admonition} Solution
+# :class: dropdown   
+# I have sent.
+# ```
 # 
+# - *iṣṣabat* 
+# ```{admonition} Solution
+# :class: dropdown  
+# She/he has seized.
+# ```
+# 
+# - *šumma mārum abāšu imtahaṣ, rittašu inakkisū* (*abāšu* <*abum*+šu = his; *rittašu* <*rittum* = hand + *šu* = his) 
+# ```{admonition} Solution
+# :class: dropdown  
+# If a sohn has beaten his father, they will cut his hand.
+# ```
+# 
+# - *šumma muškēnum lēt muškēnim imtahaṣ, ešeret šiqil kaspam išaqqal (*muškēnum* = citizen; *lētum* = cheek; *ešret šiqil* = ten schekels: *šaqālum* = to pay)  
+# ```{admonition} Solution
+# :class: dropdown  
+# If a citizen has slapped the cheek of (another) citizen, he will pay 10 schekels. 
+# ```

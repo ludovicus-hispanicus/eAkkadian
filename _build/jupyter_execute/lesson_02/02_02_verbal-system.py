@@ -9,7 +9,7 @@
 # ```
 # 
 # ## Non-Finite forms
-# Non-finite forms are nominal forms and as such declinable. There are three of them:
+# Non-finite forms are nominal forms and as such declinable. There are three of them: 
 # 
 # - Infinitive
 # - Participle
