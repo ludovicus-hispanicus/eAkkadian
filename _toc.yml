@@ -66,6 +66,12 @@ parts:
       title: Verbal System
     - file: lesson_02/02_03_G-stem
       title: The G-Stem
+    - file: lesson_02/02_04_G-preterite
+      title: The G Preterite
+    - file: lesson_02/02_05_G-durative
+      title: The G Durative
+    - file: lesson_02/02_06_G-perfect
+      title: The G Perfect
   - file: lesson_03/lesson_03_intro
     title: Lesson 3
   - file: lesson_04/lesson_04_intro
