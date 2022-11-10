@@ -29,7 +29,7 @@
 # | Infinitive      | Translation |
 # | --------------- | -----------  |
 # | *mahāṣum*       | to strike     |
-# | *damāqum*       | to be/tobecome good |
+# | *damāqum*       | to be/to become good |
 # | *ṣabātum*       | to seize, arrest, capture |  
 # 
 # (G_part)=
@@ -62,7 +62,7 @@
 # | *mahāṣum*       | to beat, strike | *māhiṣum*   | the one who beats | beater                  |
 # | *zanānu*        | to provision, provide (for, with) | *zāninu* | the one who provides | the provider |   
 # 
-# It can also accommpany a noun. In that case it is translated into English with the ending **"-ing"**
+# It can also accommpany a noun. In that case it is translated into English with the ending **"-ing"**, also known as the gerund.
 # 
 # | Infinitive      | Translation   | Noun + Particple | Translation |
 # | --------------- | ------------- | ---------------- | ---------------- |
@@ -91,5 +91,5 @@
 # 
 # | Infinitive      | Translation   | Verbal Adjective | Translation    |
 # | --------------- | ------------- | -------------    | -------------  |
-# | *mahāṣum*       | to beat, strike | *mahṣum*       | geschalgen     |
+# | *mahāṣum*       | to beat, strike | *mahṣum*       | beaten         |
 # | *šarāqum*       | to steal      | *šarqum*         | stolen         |   

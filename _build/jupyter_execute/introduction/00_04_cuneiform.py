@@ -118,10 +118,10 @@
 # 
 # 
 #     ```{admonition} Examples with cuneiforms
-#     - <font size="11">𒀭𒌓</font> =  <sup>d</sup>UTU 
-#     - <font size="11">𒄑𒆪</font> = <sup>ĝeš</sup>TUKUL 
-#     - <font size="11">𒋆𒄈</font> = <sup>šim</sup>GIR₂ 
-#     - <font size="11">𒆍𒀭𒊏𒆠</font> = KA₂.DINGIR.RA<sup>ki</sup>
+#     - <font size="11">𒀭𒌓</font> =  <sup>d</sup>UTU = (God) Šamaš
+#     - <font size="11">𒄑𒆪</font> = <sup>ĝeš</sup>TUKUL = weapon
+#     - <font size="11">𒋆𒄈</font> = <sup>šim</sup>GIR₂ = myrtle
+#     - <font size="11">𒆍𒀭𒊏𒆠</font> = KA₂.DINGIR.RA<sup>ki</sup> = Babylon
 #     ```
 # 
 # It is important to note that most of the signs can have two types of functions and some even the three types:

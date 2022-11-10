@@ -8,33 +8,33 @@
 # 
 # ```{admonition} Example
 # :class: tip
-# - *damāqu* = *D-M-Q*
+# - *damāqum* = *D-M-Q*
 # ```
 # 
-# - *danānu*
+# - *danānum*
 # ```{admonition} Solution
 # :class: dropdown  
 # *D-N-N*
 # ```
 # 
-# - *halāqu*
+# - *halāqum*
 # ```{admonition} Solution
 # :class: dropdown  
 # *H-L-Q*
 # ```
 # 
-# - *kašādu*
+# - *kašādum*
 # ```{admonition} Solution
 # :class: dropdown  
 # *K-Š-D*
 # ```
 # 
-# - *mahāṣu*
+# - *mahāṣum*
 # ```{admonition} Solution
 # :class: dropdown  
 # *M-H-Ṣ*
 # ```
-# - *qātum*
+# - *qātum* (hand)
 # ```{admonition} Solution
 # :class: dropdown  
 # *Q-T*
@@ -86,7 +86,7 @@
 # - *šahluhtum*
 # ```{admonition} Solution
 # :class: dropdown  
-# *Ṣ-B-T*
+# *H-L-Q*
 # ```
 # 
 # ## The G Stem 
@@ -138,7 +138,7 @@
 # *ihliq*
 # ```
 # 
-# - I conquered (*kašādum* a/u-class)
+# - I conquered/arrived (*kašādum* a/u-class)
 # ```{admonition} Solution
 # :class: dropdown  
 # *akšud*
@@ -171,12 +171,12 @@
 # - *huraṣum u kaspum ša wardī ihliqū*
 # ```{admonition} Solution
 # :class: dropdown  
-# The gold and silver of the (male) slave hot lost.
+# The gold and silver of the (male) slaves got lost.
 # ```
 # - *ilum īnīn ša mutim imhaṣ*
 # ```{admonition} Solution
 # :class: dropdown  
-# A god struck the husband's eye
+# A/The god struck the husband's eyes
 # ```
 # 
 # - *bīt awīlim idmiq*
@@ -185,13 +185,13 @@
 # The man's house(hold) improved.
 # ```
 # 
-# - *narātum ša mātātim iprisā*
+# - *narātum ša mātātim irpišā*
 # ```{admonition} Solution
 # :class: dropdown  
 # The rivers of the lands grew wide.
 # ```
 # 
-# - *aššatum u mārū ša bēlim imraṣūhuraṣum u kaspum ša wardī ihliqū*
+# - *aššatum u mārū ša bēlim imraṣū*
 # ```{admonition} Solution
 # :class: dropdown  
 # The lord’s wife and children fell ill.
@@ -207,6 +207,7 @@
 # ```{admonition} Solution
 # :class: dropdown  
 # When a man beat (preterite) the daughter of (another) man.
+# 👏🏽 Congrats! You just translated a sentence from the Codex Hammurapi.
 # ```
 # 
 # ## The G Durative
@@ -270,7 +271,7 @@
 # He shouts out.
 # ```
 # 
-# - *aššassu ul iṣabbatū* (*aššassu* <*aššat*+šu* = his wife; *ul* = negation  ) 
+# - *aššassu ul iṣabbatū* (*aššassu* <*aššat*+*šu* = his wife; *ul* = negation  ) 
 # ```{admonition} Solution
 # :class: dropdown  
 # They will not seize his wife.
@@ -286,7 +287,7 @@
 # Write in Akkadian
 # ```{admonition} Example
 # :class: tip
-# - *tahtaliq* = you have gone lost. 
+# - *tahtaliq* = you (masc.) have gone lost. 
 # ```
 # 
 # - *aštapar* 
@@ -296,18 +297,25 @@
 # ```
 # 
 # - *iṣṣabat* 
+# ```{admonition} Tip
+# :class: dropdown  
+# ![It's a trap](../images/itsatrap.jpg)
+# ```
+# 
 # ```{admonition} Solution
 # :class: dropdown  
 # She/he has seized.
 # ```
 # 
-# - *šumma mārum abāšu imtahaṣ, rittašu inakkisū* (*abāšu* <*abum*+šu = his; *rittašu* <*rittum* = hand + *šu* = his) 
-# ```{admonition} Solution
-# :class: dropdown  
-# If a sohn has beaten his father, they will cut his hand.
-# ```
+# - *šumma mārum abāšu imtahaṣ, rittašu inakkisū* 
+#     
+#   (*abāšu* <*abum*+šu = his; *rittašu* <*rittum* = hand + *šu* = his) 
+#   ```{admonition} Solution
+#   :class: dropdown  
+#   If a sohn has beaten his father, they will cut his hand.
+#   ```
 # 
-# - *šumma muškēnum lēt muškēnim imtahaṣ, ešeret šiqil kaspam išaqqal (*muškēnum* = citizen; *lētum* = cheek; *ešret šiqil* = ten schekels: *šaqālum* = to pay)  
+# - *šumma muškēnum lēt muškēnim imtahaṣ, ešeret šiqil kaspam išaqqal* (*muškēnum* = citizen; *lētum* = cheek; *ešret šiqil* = ten schekels: *šaqālum* = to pay)  
 # ```{admonition} Solution
 # :class: dropdown  
 # If a citizen has slapped the cheek of (another) citizen, he will pay 10 schekels. 

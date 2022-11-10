@@ -2,10 +2,10 @@
 # coding: utf-8
 
 # # L2.6: The G Perfect
-# The perfect is tense that often corresponds roughly to the English present perfect. It designates actions that have just been completed or the effects of which continue into the present. The perfect is formed with infixed *-ta-*.
+# The perfect is a tense that often corresponds roughly to the English present perfect. It designates actions that have just been completed or the effects of which continue into the present. The perfect is formed with infixed *-ta-*.
 # 
 # ```{important}
-# Pattern: Prefix + ***R₁ta-R₂vR₃*** (+ suffix)
+# Pattern: Prefix + ***R₁taR₂vR₃*** (+ suffix)
 # ```
 # ## Personal Affixes
 # The personal affixes for the perfect are the same as the those of the G preterite. 😌
@@ -25,14 +25,13 @@
 # ```{warning}
 # Note that the short vowels between **R₂** and **R₃** are not present. That is because short unstressed vowels between two consonants are often elided (👉*parsum*), unless a long vowel stands before the preceding consonant (👉 *pārisum*). This is also known as **vowel syncope**: 
 # 
-# - *parsum* (<\**par**i**sum*) = Verbaladjective.
+# - *parsum* (<\**par**i**sum*) = Verbal adjective.
 # - *pār**i**sum* (remains unchanged) = Particple. 
 # 
 # If the short vowel in question precedes an ***r***, it will be sometimes be protected and wont be elide:
 # - *šikarum* = "beer"
 # - *laberum* = "old" 
 # - *zakirum* and *zikrum* = "man" both are attested
-# - *taptarsā* = G perfect 2pl.c.
 # ```
 # 
 # ## Theme vowels
@@ -57,11 +56,11 @@
 # | ------- | -------------- | -------- | 
 # | 3s.c.   | *iš**ta**riq*    | She/he/it has stolen | 
 # | 2s.m.   | *taš**ta**riq*   | You (ms) have stolen |
-# | 2s.f.   | *taš**ta**riqī*  | You (fs) have stolen |
+# | 2s.f.   | *taš**ta**rqī*  | You (fs) have stolen |
 # | 1s.c.   | *aš**ta**riq*    | I have stolen |
-# | 3pl.m.  | *iš**ta**riqū*   | They (m) have stolen | 
-# | 3pl.f.  | *iš**ta**riqā*   | They (f) have stolen |
-# | 2pl.c.  | *taš**ta**riqā*  | You (pl) have stolen |
+# | 3pl.m.  | *iš**ta**rqū*   | They (m) have stolen | 
+# | 3pl.f.  | *iš**ta**rqā*   | They (f) have stolen |
+# | 2pl.c.  | *taš**ta**rqā*  | You (pl) have stolen |
 # | 1pl.c.  | *niš**ta**riq*   | We have stolen |
 # 
 # ### Theme vowel **u**
@@ -70,11 +69,11 @@
 # | ------- | -------------- | -------- | 
 # | 3s.c.   | *im**ta**qut*    | She/he/it has fallen | 
 # | 2s.m.   | *tam**ta**qut*   | You (ms) have fallen |
-# | 2s.f.   | *tam**ta**qutī*  | You (fs) have fallen |
+# | 2s.f.   | *tam**ta**qtī*  | You (fs) have fallen |
 # | 1s.c.   | *am**ta**qut*    | I have fallen |
-# | 3pl.m.  | *im**ta**qutū*   | They (m) have fallen | 
-# | 3pl.f.  | *im**ta**qutī*   | They (f) have fallen |
-# | 2pl.c.  | *tam**ta**qutā*  | You (pl) have fallen |
+# | 3pl.m.  | *im**ta**qtū*   | They (m) have fallen | 
+# | 3pl.f.  | *im**ta**qtī*   | They (f) have fallen |
+# | 2pl.c.  | *tam**ta**qtā*  | You (pl) have fallen |
 # | 1pl.c.  | *nim**ta**qut*   | We have fallen |
 # 
 # 

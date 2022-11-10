@@ -55,7 +55,7 @@
 # 
 # | Infinitive      | Translation   | Preterite        | Durative       |
 # | --------------- | ------------- | -------------    | -------------  |
-# | *damāqum*       | to be/become good | *imdiq*      | *idammiq*      |
+# | *damāqum*       | to be/become good | *idmiq*      | *idammiq*      |
 # | *halāqu*        | to be/become fugitive | *ihliq*  | *ihalliq*      |
 # | *pašāṭu*        | to erase      | *ipšiṭ*          | *ipaššiṭ*      |
 # 

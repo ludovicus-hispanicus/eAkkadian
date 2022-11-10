@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # L2.2: Verbal System
-# This is an introduction to verbal system. The intention is to offer an overview of all possible forms and derivations of the verb. 
+# This is an introduction to the verbal system. The intention is to offer an overview of all possible forms and derivations of the verb. 
 # 
 # ```{admonition} Don't panic! 😨 
 # You don't need to memorize all forms now 🤯. We will learn them step by step in the following lessons 😌.
@@ -17,8 +17,8 @@
 # 
 # | Non-Finite Form | Pattern       | Akkadian Word  | Translation    | Hebrew  |
 # | --------------- | ----------- | ------------ | ------------ | ------ |  
-# | Infinitve       | *parāsum*     | *mahāṣum*      | to strike      | 
-# | Participle      | *pārisum*     | *šāriqum*      | the one that steal |
+# | Infinitive       | *parāsum*     | *mahāṣum*      | to strike      | 
+# | Participle      | *pārisum*     | *šāriqum*      | thief (lit. "the one who steals") |
 # | Verbal Adjective | *parsum*     | *marṣum*       | sick           | 
 # 
 # ## Finite Forms
@@ -26,26 +26,26 @@
 # 
 # | Finite Form     | Pattern       | Translation    | Hebrew         | 
 # | --------------- | ----------- | ------------- | ------------- |  
-# | Durative        | *iparras*     | he decides     |                | 
 # | Preterite       | *iprus*       | he decided     |                |
+# | Durative        | *iparras*     | he decides     |                | 
 # | Perfect         | *iptaras*     | he has decided |                 | 
 # | Imperative      | *purus*       | decide!        |                | 
 # | Precative       | *liprus*      | may he decide  |                |
 # | Vetitive        | *ayy-iprus*   | may you not decide |             | 
 # 
 # ## Stative
-# It is still a matter of dicussion if the stativ is a nominal or a finite form. Nevertheless there is agreement that it arose from a nominal sentence. It describes a state in constrast to the tenses that describe processes, actions, results, etc.
+# It is still a matter of dicussion if the stative is a nominal or a finite form. Nevertheless there is agreement that it arose from a nominal sentence. It describes a state in contrast to the tenses that describe processes, actions, results, etc.
 # 
-# | Pattern       | Translation    | Hebrew         | 
+# | Pattern       | Translation    | Translation    | 
 # | ----------- | ------------ | ------------- |  
 # | paris         | *damiq*        | He is good     |
 # |               | *mariṣ*        | He is sick    |  
 # |               | *šakin*        | It is placed   |
-# |               | *šalmin*       | He is well
+# |               | *šalim*       | He is well
 # 
 # ```{admonition} Good-to-know 🤓
 # :class: tip
-# The usage of the stative makes Akkadian the most archaic Semitic language. It separates the west Semitic family form the east family. The Hebrew verb system is partly developped from the stative. 
+# The usage of the stative makes Akkadian the most archaic Semitic language. It separates the west Semitic family form the east family. The Hebrew verb system is partly developed from the stative. 
 # ```
 # 
 # ## Stems
@@ -54,7 +54,7 @@
 # | Stem Designation  | Form              | Explanation                   | 
 # | ----------------  | --------------- | ---------------------------- | 
 # | *G*               | No changes        | Base meaning. Citation form   | 
-# | *D*               | Length of *R₂*    | Causative, pluralic           | 
+# | *D*               | Doubling of *R₂*    | Causative, pluralic           | 
 # | *Š*               | Prefix *š(a)/šu*  | Causative                     | 
 # | *N*               | Präfix *n(a)*     | Passive                       | 
 # | *Gt/Dt/Št*        | Infix *t(a)* together with the element of the main stem | Iterative                   | 
@@ -65,7 +65,7 @@
 # | *Nt*           | Prefix *n* + Infix *ta* | Likw Gt | 
 # 
 # 
-# Each one of these stem has a different function and are inflected for the same finite and non-finite forms as well as stative.  
+# Each one of these stems has a different function and are inflected for the same finite and non-finite forms as well as stative.  
 # 
 # ```{note}
 # Each one of these stem has its own inflected for the finite and non-finite forms as well as stative.  
@@ -90,7 +90,7 @@
 # Verbs of motion.
 #   
 # | G-stem Infinitive | Translation       | 
-# | ---------------- | ----------------: | 
+# | ----------------  | ---------------- | 
 # | *nahāsum*         | to recede | 
 # | *wašābum*         | to sit down, to dwell | 
 # | *maqātum*         | to fall | 
@@ -99,7 +99,7 @@
 # Verbs that describes a state.
 #   
 # | G-stem Infinitive | Translation       | 
-# | :---------------- | ----------------: | 
+# | :---------------- | ---------------- | 
 # | *damāqum*         | to be or to become good | 
 # | *marāṣum*         | to be or to become sick | 
 # | *rapāšum*         | to be or to become wide | 
@@ -110,7 +110,7 @@
 # | G-stem Infinitve  | Translation     | Example | Translation |
 # | ---------------- | --------------- | ----- | ----------- |
 # | *kašādum* act.-tr. | to reach  | *ālam akšud* | I reached the city | 
-# | *kašādum* act.-intr. | to arrive | *mūšu ikaššad* | The night falls |
+# | *kašādum* act.-intr. | to arrive | *mūšum ikaššad* | The night falls |
 #     
 # The Stem can also change the category:
 # 

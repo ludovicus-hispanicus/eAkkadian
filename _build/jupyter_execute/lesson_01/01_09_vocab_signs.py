@@ -71,7 +71,7 @@
 # | ------------------------- | :---------------: | :----------: | :----------: | :----------: |
 # | <font size="11">𒉡</font>  | NU                | -            | *ūl, lā*     | negation |
 # | <font size="11">𒎌</font> | MEŠ	            | <sup>meš</sup> |            | Plural determinative after nouns |
-# | <font size="11">𒎌</font> | UDU	            |              | *immerum*    | sheep |
+# | <font size="11">𒇻</font> | UDU	            |              | *immerum*    | sheep |
 #  
 # (l1-comp)=
 # ## D. Composites

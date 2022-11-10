@@ -14,13 +14,13 @@
 # |         | G-Stem                      | Example  | 
 # | ------- | --------------------------- | -------- | 
 # | 3s.c.   | *i-*                        | *iprus*  | 
-# | 2s.m.   | *ta-*, *(te-)*              | *taprus* |
-# | 2s.f.   | *ta-*, *(te-)* ... *-ī*     | *taprusī*|
-# | 1s.c.   | *a-*, (*e-*)                | *aprus*  |
-# | 3pl.m.  | *i-* ... *-ū*               | *iprusū* | 
-# | 3pl.f.  | *i-* ... *-ā*               | *iprusā* |
-# | 2pl.c.  | *ta-*, *(te-*) ... *-ā*     | *taprusā*|
-# | 1pl.c.  | *ni-*, *(ne-)*              | *niprus* | 
+# | 2s.m.   | *ta-*,                      | *taprus* |
+# | 2s.f.   | *ta-*[root]*-ī*             | *taprusī*|
+# | 1s.c.   | *a-*                        | *aprus*  |
+# | 3pl.m.  | *i-*[root]*-ū*              | *iprusū* | 
+# | 3pl.f.  | *i-*[root]*-ā*              | *iprusā* |
+# | 2pl.c.  | *ta-*[root]*-ā*             | *taprusā*|
+# | 1pl.c.  | *ni-*                       | *niprus* | 
 # 
 # ```{admonition} Don't panic! 😱
 # You don't have to learn new personal affixes for every stem. The G-Stem personal affixes are used in G, Gt, Gtn, N, Nt, Ntn stems in all tenses. Only the root pattern changes. The stems D, Dt, Dtn, Š, ŠT, Štn have all the same personal affixes and the imperative has its own prefixes. That means you only have to lear 3 types of personal affixes. 😌.
@@ -81,8 +81,8 @@
 # | Usage         | Example       | Translation    |
 # | ------------- | ------------- | -------------  | 
 # | Emphasis      | *atta tašriq* | It was you (ms) who stole |
-# | Many subjects | *anāku u atta niṣbat | You and I (we) seized |
+# | Many subjects | *anāku u atta niṣbat* | You and I (we) seized |
 # 
 # ```{note}
-# In this case the independent personal pronoun stans at the beginning of the sentence and not at the end like in the the verbless sentences.
+# In this case the independent personal pronoun stands at the beginning of the sentence and not at the end like in the the verbless sentences.
 # ```
