@@ -78,14 +78,13 @@
 # The verbal adjective describes **attributes** or **states**:
 # 
 # ```{important} 
-# ***pars***-form
+# ***paris***-form with ending ***parsum***.
 # ```
-# 
-# The pattern is ***parsu***. 
+#  
 # | Infinitive      | Translation   | Verbal Adjective | Translation    |
 # | --------------- | ------------- | -------------    | -------------  |
-# | *damāqum*       | to be/become good | *damqum*         | good           |
-# | *danānum*       | to be/become strong | *dannunm*  | strong         |
+# | *damāqum*       | to be/become good | *damqum*     | good           |
+# | *danānum*       | to be/become strong | *dannum*   | strong         |
 # 
 # Active-transitive Verbs will always have a passive meaning:
 # 
@@ -93,3 +92,16 @@
 # | --------------- | ------------- | -------------    | -------------  |
 # | *mahāṣum*       | to beat, strike | *mahṣum*       | beaten         |
 # | *šarāqum*       | to steal      | *šarqum*         | stolen         |   
+# 
+# (vowel-sync)=
+# ```{warnnig}
+# Note that the short vowel between **R₂** and **R₃** are not present. That is because short unstressed vowels between two consonants are often elided (👉*parsum*), unless a long vowel stands before the preceding consonant (👉 *pārisum*). This is also known as **vowel syncope**: 
+# 
+# - *parsum* (<\**par**i**sum*) = Verbal adjective.
+# - *pār**i**sum* (remains unchanged) = Particple. 
+# 
+# If the short vowel in question precedes an ***r***, it will be sometimes be protected and wont be elide:
+# - *šikarum* = "beer"
+# - *laberum* = "old" 
+# - *zakirum* and *zikrum* = "man" both are attested
+# ```

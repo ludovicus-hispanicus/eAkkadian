@@ -23,15 +23,7 @@
 # 
 # 
 # ```{warning}
-# Note that the short vowels between **R₂** and **R₃** are not present. That is because short unstressed vowels between two consonants are often elided (👉*parsum*), unless a long vowel stands before the preceding consonant (👉 *pārisum*). This is also known as **vowel syncope**: 
-# 
-# - *parsum* (<\**par**i**sum*) = Verbal adjective.
-# - *pār**i**sum* (remains unchanged) = Particple. 
-# 
-# If the short vowel in question precedes an ***r***, it will be sometimes be protected and wont be elide:
-# - *šikarum* = "beer"
-# - *laberum* = "old" 
-# - *zakirum* and *zikrum* = "man" both are attested
+# Note that the short vowels between **R₂** and **R₃** are not present. That is because of the [**vowel syncope**](vowel-sync): 
 # ```
 # 
 # ## Theme vowels

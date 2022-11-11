@@ -9,11 +9,12 @@
 # ## A. Vocabulary
 # 
 # | Akkadian word | Translation | Hebrew  |
-# | ------------  | :---------: | :-----: |
+# | ------------  | ---------   | :-----: |
 # | *abum*        | father      |         | 
 # | *ālum*        | city        |         |
 # | *amtum*       | female slave  |       |
 # | *bēlum*       | lord        |         |
+# | *bēltum*      | lady        |         |
 # | *bītum*       | house       |         |
 # | *ilum*        | god         |         |
 # | *iltum*       | goddess     |         |
@@ -24,12 +25,12 @@
 # | *narkabtum*   | chariot     |         |
 # | *peṣûm*       | white       |         |
 # | *qaqqadum*    | head        |         |
-# | *rabûm*       | big (adj.)  |         |       
+# | *rabûm*, fem. *rabītum* | big (adj.)  |         |       
 # | *šarratum*    | queen       |         |
 # | *šarrum*      | king        |         |
-# | *tukultu*     | trust       |         |
-# | *kukku*       | weapon      |         |
-# | *ūmu*         | day         |         |
+# | *tukultum*    | trust       |         |
+# | *kakkum*      | weapon      |         |
+# | *ūmum*        | day         |         |
 # | *wardum*      | male slave  |         |
 # 
 # (intro-signs)=
@@ -67,6 +68,7 @@
 # | <font size="11">𒆪</font>  | *ku*
 # | <font size="11">𒌌</font>  | *ul*
 # | <font size="11">𒈬</font>  | *mu*
+# | <font size="11">𒌓</font>  | *ud, ut, uṭ*
 # 
 # (intro-logo)=
 # ## C. Logograms

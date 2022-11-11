@@ -13,7 +13,7 @@
 # | *ana*        | to, toward, unto, for |
 # | *aššatum*     | wife        |
 # | *damqum*, f. *damiqtum* | gut
-# | ekallum*      | palace
+# | *ekallum*     | palace
 # | *emūqum* (du. *emūqān*, pl.masc. *emūqū* and fem. *emūqātum*) | stregth, power, force, abulity, armed forces |
 # | *gitmālum*    | perfect
 # | *ezzum*, fm *ezzetum* | furious, angry
@@ -28,14 +28,14 @@
 # | *libbum*      | heart, mind, wish, inside, center, midst | 
 # | *mû* (pl. tant.) | water
 # | *nārum*       | river         |
-# | *rubûm* f. *rabītum* |
+# | *rubûm*       | prince
 # | *ṣābum*       | army, gang, troops |
 # | *šadûm*       | Mountain
-# | *šamûm* (šamā-) pl. tant.      | Sky
+# | *šamûm* (*šamā*-) pl. tant.      | sky
 # | *šīpātum* pl.tant.    | wool, fleece        |
 # | *šubtu*       | seat dwelling
-# | *ṭuppum * (masc. and fem.; pl. *ṭuppu* and *ṭuppātum*)     | (clay) tablet, document, letter |
-# | *ummum* (fem.) | mother     | 
+# | *ṭuppum* (masc. and fem.; pl. *ṭuppū* and *ṭuppātum*)     | (clay) tablet, document, letter |
+# | *ummum* (fem.), pl. *ummātum* | mother     | 
 # | *uznum*       | ear, wisdom |
 # 
 # 
@@ -44,13 +44,13 @@
 # 
 # (l1-signs)=
 # ## B. Signs
-# | Sign                      | Logographic value |
+# | Sign                      | phonetic value |
 # | ------------------------- | :---------------: |
 # | <font size="11">𒉡</font>  | *nu*               |
 # | <font size="11">𒂊</font> | *e*                |
 # | <font size="11">𒎌</font>  | *meš*
 # | <font size="11">𒀊</font>  | *ab*
-# | <font size="11">𒋫</font> | *ta*
+# | <font size="11">𒋫</font> | *ta*, *ṭa*
 # | <font size="11">𒄭</font>  | *hi*
 # | <font size="11">𒄴</font>  | *ah, uh*
 # | <font size="11">𒅇</font>  | *u₃*
