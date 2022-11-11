@@ -15,8 +15,9 @@
 # ### Infinitive
 # The infinitive is morphologically a noun and is inflected as such. 
 # 
-# ```{important}
-#  ***parās***-form 
+# ```{admonition} Nominal Form
+# :class: tip
+# ***parās***
 # ``` 
 # 
 # This is also the citation form of a verb not only today but already in antiquity. That means that all other stems are subsumed after the G-stem
@@ -36,8 +37,9 @@
 # ### Participle
 # It is similar to an adjective and as such it has masculine and feminine forms with singular and plural and cases. 
 # 
-# ```{important} 
-#  ***pāris***-form
+# ```{admonition} Nominal Form
+# :class: tip
+# ***pāris*** (masc.), ***pārist*** (fem.) 
 # ``` 
 # 
 # It always has an active meaning:
@@ -77,8 +79,13 @@
 # ### Verbal Adjective
 # The verbal adjective describes **attributes** or **states**:
 # 
-# ```{important} 
-# ***paris***-form with ending ***parsum***.
+# ```{admonition} Nominal Form
+# :class: tip 
+# - ***paras*** (masc.), ***parast*** (fem.);  
+# - ***paris*** (masc.), ***parist*** (fem.); 
+# - ***parus*** (masc.), ***parust*** (fem.). 
+# 
+# The masculines forms with ending ***parsum***.
 # ```
 #  
 # | Infinitive      | Translation   | Verbal Adjective | Translation    |
@@ -94,14 +101,14 @@
 # | *šarāqum*       | to steal      | *šarqum*         | stolen         |   
 # 
 # (vowel-sync)=
-# ```{warnnig}
-# Note that the short vowel between **R₂** and **R₃** are not present. That is because short unstressed vowels between two consonants are often elided (👉*parsum*), unless a long vowel stands before the preceding consonant (👉 *pārisum*). This is also known as **vowel syncope**: 
+# ```{warning}
+# Note that the short vowel ***i*** between **R₂** and **R₃** are not present. That is because short unstressed vowels between two consonants are often elided (👉*parsum*), unless a long vowel stands before the preceding consonant (👉 *pārisum*). This is also known as **vowel syncope**: 
 # 
 # - *parsum* (<\**par**i**sum*) = Verbal adjective.
 # - *pār**i**sum* (remains unchanged) = Particple. 
 # 
 # If the short vowel in question precedes an ***r***, it will be sometimes be protected and wont be elide:
-# - *šikarum* = "beer"
-# - *laberum* = "old" 
-# - *zakirum* and *zikrum* = "man" both are attested
+# - *šikarum* = "beer".
+# - *laberum* = "old". 
+# - *zakirum* and *zikrum* = "man" both are attested.
 # ```

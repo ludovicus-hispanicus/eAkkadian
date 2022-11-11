@@ -23,7 +23,7 @@
 # 
 # 
 # ```{warning}
-# Note that the short vowels between **R₂** and **R₃** are not present. That is because of the [**vowel syncope**](vowel-sync): 
+# Note that the short vowel ***a*** between **R₂** and **R₃** is not present in those forms with a long vowel after the short one. That is because of the [**vowel syncope**](vowel-sync).
 # ```
 # 
 # ## Theme vowels
