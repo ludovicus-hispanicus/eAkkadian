@@ -49,7 +49,7 @@
 # | <font size="11">𒉡</font>  | *nu*               |
 # | <font size="11">𒂊</font> | *e*                |
 # | <font size="11">𒎌</font>  | *meš*
-# | <font size="11">𒀊</font>  | *ab*
+# | <font size="11">𒀊</font>  | *ab, ap*
 # | <font size="11">𒋫</font> | *ta*, *ṭa*
 # | <font size="11">𒄭</font>  | *hi*
 # | <font size="11">𒄴</font>  | *ah, uh*
