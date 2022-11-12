@@ -48,9 +48,9 @@
 # :class: tip
 # *ta-ap-qi₂-id* = *tapqid* "you entrusted"
 # ```
-# 1. *ip-qí-id
-# 2. *i-pa-qí-id*
-# 3. *a-pa-qí-id*
+# 1. *ip-qi₂-id*
+# 2. *i-pa-qi₂-id*
+# 3. *a-pa-qi₂-id*
 # 4. *ni-pa-aq-qid*
 # 5. *pa-qi₂-id bi-tim*
 # 6. *pa-qi-dam*
@@ -62,7 +62,7 @@
 # 12. *i-ra-ag-gu-um*
 # 13. *ṣab-tu-um*
 # 14. *bi-tum na-ad-nu-um*
-# 15. *šum-ma warad a-wi-lim le-e-et mār a-wi-lim im-ta-haṣ, u₂-zu-un-šu i-na-ak-ki-su (uzun-šu = his ear)
+# 15. *šum-ma warad a-wi-lim le-e-et mār a-wi-lim im-ta-haṣ, u₂-zu-un-šu i-na-ak-ki-su* (*uzun-šu* = his ear)
 # 
 # ## Transliterate and translate
 # 1. <font size="11">𒀊𒇻𒌝</font>
@@ -72,7 +72,7 @@
 # 5. <font size="11">𒇻𒎌</font>
 # 6. <font size="11">𒀀𒇻𒌝</font>
 # 7. <font size="11">𒀭𒎌</font>
-# 8. <font size="11">𒄿𒁀𒇻𒌓𒄭</font>
+# 8. <font size="11">𒄿𒁀𒇻𒌓</font>
 # 9. <font size="11">𒀭𒂗</font>
 # 10. <font size="11">𒀭𒌓</font>
 # 11. <font size="11">𒀸𒀸</font>

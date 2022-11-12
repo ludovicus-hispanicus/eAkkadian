@@ -6,7 +6,7 @@
 # ## Vocabulary - Verbs
 # | Verbs          | Translation |
 # | ------------   | ----------- |
-# | *damāqum* (u)  | to live |
+# | *balāṭu* (u)  | to live |
 # | *damāqum* (i)  | to be/become good, improve, prosper |
 # | *danānum* (i)  | to be/become strong |
 # | *halāqum* (i)  | to dissappear, go missing, get lost |
@@ -26,7 +26,7 @@
 # | Nouns          | Translation |
 # | ------------   | ----------- |
 # | *Akkadûm*      | land of Akkad  |
-# | *ahum*         | brother     |
+# | *ahum*, *ahhū* | brother     |
 # | *aplum*        | heir, son |
 # | *arnum*        | guilt, fault, penalty, sin    |
 # | *ašlum*        | rush, rope  |
@@ -73,4 +73,5 @@
 # | <font size="11">𒍪</font>  | ZU        | *zu, su₂, ṣu₂*  |
 # | <font size="11">𒋢</font>  | SU        | *su*            | KUŠ = *maskum* "skin", <sup>kuš</sup> = determinative before leather obejcts.
 # | <font size="11">𒁴</font>  | DIM       | *dim, tim*      |
+# | <font size="11">𒂗</font>  | EN        | *en*,            | EN = *bēlu*; *Bēl* = Name of the god Marduk, written <sup>d</sup>EN
 # 
