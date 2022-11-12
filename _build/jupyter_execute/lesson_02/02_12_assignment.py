@@ -75,8 +75,9 @@
 # 8. <font size="11">𒄿𒁀𒇻𒌓</font>
 # 9. <font size="11">𒀭𒂗</font>
 # 10. <font size="11">𒀭𒌓</font>
-# 11. <font size="11">𒀸𒀸</font>
-# 12. <font size="11">𒋫𒀊𒆠𒀉</font>
+# 11. <font size="11">𒀸𒀸</font> (use two different phonetic values)
+# 12. <font size="11">𒆠</font> (see exercise no. 11)
+# 14. <font size="11">𒋫𒀊𒆠𒀉</font>
 # 
 # 
 #     
