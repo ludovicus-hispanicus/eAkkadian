@@ -24,7 +24,7 @@
 # 
 # (st-ct)=
 # ## Status Constructus
-# This is the form of a noun before another one in genitiv and before a possessive suffix. This is found in all semitic languages. For more details about the status constructus 👉[L1.6: Status Constructus](01_03_status-constructus.ipynb) 
+# This is the form of a noun before another one in genitiv and before a possessive suffix. This is found in all semitic languages. For more details about the status constructus 👉[L1.6: Status Constructus](01_04_status-constructus.ipynb) 
 # 
 # | *Status rectus* | *Status constructus* + Genitiv/Pos.Suf. | Translation        | 
 # | --------------- | :---------------------------------------: | :----------------: |  
