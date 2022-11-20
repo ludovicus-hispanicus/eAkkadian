@@ -26,7 +26,7 @@
 # 14. *wardu ša šarrim nīnu*
 # 15. *abī abīja šū*
 # 
-# ## C. form a phrase with the morphological elements and translate:
+# ## C. Form a phrase with the morphological elements and translate:
 # 
 # ```{admonition} Example 
 # *ana* + *bēlum* + 1 sing. poss. = *ana belīja* "for my lady"
@@ -39,7 +39,7 @@
 # 5. *šarrum* + 3 plu. masc. poss.
 # 6. *šarrātum* + 3 plu. fem. poss. 
 # 
-# ## D. Translate into Akkadisch the following phrases:
+# ## D. Translate in English the following phrases:
 # 1. *ṣābum šarrāqam ina kakkim imhaṣ-ma kasap tamkārim ana ekallim išpur*
 #    ```{admonition} Tip
 #    :class: tip
