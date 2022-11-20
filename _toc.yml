@@ -29,7 +29,7 @@ parts:
     - file: introduction/00_05_syllabification
       title: Syllabification
     - file: introduction/00_06_vocabulary_signs
-      title: Vocabulary and Signs
+      title: Vocabulary & Signs
     - file: introduction/00_07_exercises
       title: Exercises
     - file: introduction/00_08_assignment
@@ -54,7 +54,7 @@ parts:
     - file: lesson_01/01_08_exercises
       title: Exercises
     - file: lesson_01/01_09_vocab_signs
-      title: Vocabulary and Signs 
+      title: Vocabulary & Signs 
     - file: lesson_01/01_10_assignment
       title: Assignment      
   - file: lesson_02/02_00_intro

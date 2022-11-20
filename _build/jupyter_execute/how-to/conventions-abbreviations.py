@@ -105,6 +105,7 @@
 # |**OB** | Old Babylonian |
 # |**obl.**| oblique (case) |
 # |**obv.**| obverse |
+# |**occas.**| occasionally |
 # |**p.**| page |
 # |**Parad.**| Paradigm |
 # |**pass.**| passive |
