@@ -60,7 +60,7 @@
 # | ------------------------- | ----------- | -------------- | -------- |
 # | <font size="11">𒋗</font>  | ŠU₂       |   *šu*          | ŠU = *qātu* "hand". With the dual sign <font size="11">􀁠</font> = *qātā*<sup>II</sup> oder qātu<sup>II</sup>
 # | <font size="11">𒄥</font> | GUR        |   *gur*         | 
-# | <font size="11">𒋛</font>  | SI         |    *si, se*    |
+# | <font size="11">𒋛</font>  | SI         |    *si, se*    | SI = *qarnum* "horn"
 # | <font size="11">𒊒</font>  | RU        | *ru*            | 
 # | <font size="11">𒌒</font>  | UB        | *ub, up*       | 
 # | <font size="11">𒊓</font>  | SA        | *sa*            | 

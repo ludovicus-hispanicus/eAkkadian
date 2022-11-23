@@ -22,7 +22,7 @@
 # 
 # (pron-suff_gen)=
 # ## Ponominal Suffixes in Genitive
-# | Singular       | Gen.      | Translation  | 
+# |               | Gen.      | Translation  | 
 # |--------       | ------    |--------      |  
 # | 1 sing. com.  | *-ī, -ja, -ʾa* | my
 # | 2 sing. masc. | *-ka*     | your            
@@ -80,7 +80,7 @@
 # 
 # (pron-suff_dat)=
 # ## Ponominal Suffixes in Dative
-# | Singual       | Gen.      | Translation  | 
+# |               | Gen.      | Translation  | 
 # |--------       | ------    |--------      |  
 # | 1 sing. com.  | *-am, -m, -nim* | to my
 # | 2 sing. masc. | *-kum*     | to you            
@@ -93,9 +93,25 @@
 # | 3 plu. masc.  | *-šunūšim*   | to them  
 # | 3 plu. fem.   | *-šināšim*   | to them 
 # 
+# ``` {note}
+# The 1 masc. com. has three different forms:here are three different forms for the fist person singular. They are used in specific context.
+# 
+# - The form ***-am*** is used with **3 com. sing.**, **2 masc. sing.**, **1 com. sing.** and **1 com. plu.**:  
+#     
+#   Example: *imqut* "he fell" → *imqut + am* = *imqutam*.
+# 
+# - The form ***-m*** is used with the **2 fem. sing.**: 
+#   
+#   Example: *tamqutī* "you fell" → *tamqutī + m* = *tamqutīm*.
+# 
+# - The form ***-nim*** is used with the **3 masc. plu**, **3 fem. plu.**, **2 com. plu.**: 
+#   
+#   Example: *imqutū* "you fell" → *imqutū + nim* = *imqutūnim*.
+# ```
+# 
 # (pron-suff_akk)=
 # ## Ponominal Suffixes in Akkusative
-# | Singual       | Gen.      | Translation  | 
+# |               | Gen.      | Translation  | 
 # |--------       | ------    |--------      |  
 # | 1 sing. com.  | *-ni*     | me
 # | 2 sing. masc. | *-ka*     | you            

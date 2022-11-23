@@ -89,14 +89,14 @@ parts:
       title: Pronominal Suffixes on Prepositions
     - file: lesson_03/03_04_pron-suff_verb
       title: Pronominal Suffixes on Verbs
-    - file: lesson_03/03_05_demons_adjec
+    - file: lesson_03/03_05_denom_adjec
       title: Denominative Adjectives
-    - file: lesson_03/03_06_denom_adjec
-      title: Demonstrative Adjectives
+    - file: lesson_03/03_06_demons_adjec_pron
+      title: Demonstrative Adjectives and Pronouns
     - file: lesson_03/03_07_adverb_noun_um
-      title: Locative-Adverbial
+      title: Locative-Adverbiative
     - file: lesson_03/03_08_adverb_noun_ish
-      title: Terminativ-Adverbial
+      title: Terminativ-Adverbiative
     - file: lesson_03/03_09_exercises
       title: Exercises
     - file: lesson_03/03_10_vocab-signs
