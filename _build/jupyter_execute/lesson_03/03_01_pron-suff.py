@@ -117,7 +117,7 @@
 # | 2 sing. masc. | *-ka*     | you            
 # | 2 sing. fem.  | *-ki*     | you            
 # | 3 sing. masc. | *-šu*     | him             
-# | 3 sing. fem.  | *-ša*     | her            
+# | 3 sing. fem.  | *-ši*     | her            
 # | 1 plu. com.   | *-niʾati, nêti* | us
 # | 2 plu. masc.  | *-kunūti*   | you 
 # | 2 plu. fem.   | *-kināti*   | you
