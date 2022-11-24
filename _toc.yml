@@ -4,7 +4,7 @@ parts:
 - caption: How To
   chapters:
   - file: how-to/How-To-Interact-With-This-Book
-    title: Interact on This Book
+    title: Interact with This Book
   - file: how-to/how-to-use-print-literature
     title: Use Print Literature 
   - file: how-to/conventions-abbreviations

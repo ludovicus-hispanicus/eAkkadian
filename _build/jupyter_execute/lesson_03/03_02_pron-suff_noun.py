@@ -28,7 +28,7 @@
 # |                 |                      | *bēl(a)ka*   | *bēl(a)ka*   | *bēlika*
 # |                 |                      | *bēl(a)ki*   | *bēl(a)ki*   | *bēliki*
 # |                 |                      | *bēl(a)šu*   | *bēl(a)šu*   | *bēlišu*          
-# |                 |                     | *bēl(a)ši*   | *bēl(a)ši*   | *bēliši*
+# |                 |                     | *bēl(a)ša*   | *bēl(a)ša*   | *bēliša*
 # |                 |                    | *bēl(a)ni*   | *bēl(a)ni*   | *bēlini*
 # |                 |                   | *bēl(a)kunu* | *bēl(a)kunu* | *bēlikunu*
 # |                 |                  | *bēl(a)kina* | *bēl(a)kina* | *bēlikina*
@@ -44,7 +44,7 @@
 # | *ahum*          |                      | *abūka*   | *abāka*   | *abīka*
 # | *emum*          |                      | *abūki*   | *abāki*   | *abīki*
 # |                 |                      | *abūšu*   | *abāšu*   | *abīšu*          
-# |                 |                     | *abūši*   | *abāši*   | *abīši*
+# |                 |                     | *abūša*   | *abāša*   | *abīša*
 # |                 |                    | *abūni*   | *abāni*   | *abīni*
 # |                 |                   | *abūkunu* | *abākunu* | *abīkunu*
 # |                 |                  | *abūkina* | *abākina* | *abīkina*
@@ -59,7 +59,7 @@
 # |                   |                     | *šarrūka*   | *šarrīka*   | 
 # |                   |                     | *šarrūki*   | *šarrīki*   | 
 # |                   |                    | *šarrūšu*   | *šarrīšu*   |          
-# |                   |                    | *šarrūši*   | *šarrīši*   |
+# |                   |                    | *šarrūša*   | *šarrīša*   |
 # |                   |                    | *šarrūni*   | *šarrīni*   |
 # |                   |                    | *šarrūkunu* | *šarrīkunu* |
 # |                   |                     | *šarrūkina* | *šarrīkina* |
@@ -75,7 +75,7 @@
 # |                 |                      | *šarratka*   | *šarratka*   | *šarratika*
 # |                 |                      | *šarratki*   | *šarratki*   | *šarratiki*
 # |                 |                      | *šarrassu*   | *šarrassu*   | *šarratišu*          
-# |                 |                      | *šarrassi*   | *šarrassi*   | *šarratiši*
+# |                 |                      | *šarrassa*   | *šarrassa*   | *šarratiša*
 # |                 |                      | *šarratni*   | *šarratni*   | *šarratini*
 # |                 |                      | *šarratkunu* | *šarratkunu* | *šarratikunu*
 # |                 |                      | *šarratkina* | *šarratkina* | *šarratikina*
@@ -95,7 +95,7 @@
 # |                   |                     | *šarrātūka*   | *šarrātīka*   | 
 # |                   |                     | *šarrātūki*   | *šarrātīki*   | 
 # |                   |                    | *šarrātūšu*   | *šarrātīšu*   |          
-# |                   |                    | *šarrātūši*   | *šarrātīši*   |
+# |                   |                    | *šarrātūša*   | *šarrātīša*   |
 # |                   |                    | *šarrātūni*   | *šarrātīni*   |
 # |                   |                    | *šarrātūkunu* | *šarrātīkunu* |
 # |                   |                     | *šarrātūkina* | *šarrātīkina* |
