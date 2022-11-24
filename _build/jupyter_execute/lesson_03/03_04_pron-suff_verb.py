@@ -58,7 +58,7 @@
 # | 3 sing. fem.  | *išpur(aš)šim*        | *tašpurī(š)šim*   | *išpurū(niš)šim*   | He/You/They sent to her            
 # | 2 sing. masc. | *išpur(ak)kum*        |                   | *išpurū(nik)kum*   | He/You/They sent to you          
 # | 2 sing. fem.  | *išpur(ak)kim*        |                   | *išpurū(nik)kim*   | He/You/They sent to you            
-# | 1 sing. com.  | *ašpuram*             | *tašpurīm*        | *išpurūnim*        | He/You/They sent to me
+# | 1 sing. com.  | *išpuram*             | *tašpurīm*        | *išpurūnim*        | He/You/They sent to me
 # | 3 plu. masc.  | *išpur(aš)šunūšim*    | *tašpurī(š)šunūšim*   | *išpurū(niš)šunūšum*  | He/You/They sent to them 
 # | 3 plu. fem.   | *išpur(aš)šināšim*    | *tašpurī(š)šināšim*   | *išpurū(niš)šināšum*   | He/You/They sent to them
 # | 2 plu. masc.  | *išpur(ak)kunūšim*    |                   | *išpurū(nik)kunūšim*      | He/You/They sent to you
@@ -75,7 +75,7 @@
 # | 3 sing. fem.  | *išpur(aš)ši*        | *tašpurī(š)ši*       | *išpurū(niš)ši*          | He/You/They sent her            
 # | 2 sing. masc. | *išpur(ak)ka*        |                      | *išpurū(nik)ka*          | He/You/They sent you          
 # | 2 sing. fem.  | *išpur(ak)ki*        |                      | *išpurū(nik)ki*          | He/You/They sent you            
-# | 1 sing. com.  | *ašpuranni*           | *tašpurīnni*        | *išpurūninni*            | He/You/They sent me
+# | 1 sing. com.  | *išpuranni*           | *tašpurīnni*        | *išpurūninni*            | He/You/They sent me
 # | 3 plu. masc.  | *išpur(aš)šunūti*    | *tašpurī(š)šunūti*   | *išpurū(niš)šunūti*      | He/You/They sent them 
 # | 3 plu. fem.   | *išpur(aš)šinati*    | *tašpurī(š)šināti*   | *išpurū(niš)šināti*      | He/You/They sent them
 # | 2 plu. masc.  | *išpur(ak)kunūti*    |                      | *išpurū(nik)kunūti*     | He/You/They sent you
