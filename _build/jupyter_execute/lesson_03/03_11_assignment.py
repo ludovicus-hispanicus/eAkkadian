@@ -93,7 +93,7 @@
 # 4. *šumma awīlum balum bēl kirîm ina kiri awīlim iṣam ikkis, 1/2 mana kaspam išaqqal* CH §59
 #    ```{admonition} Tip
 #    :class: tip
-#    *balum* "ohne", *ikkis* = *nakāsu*, *mana* "mina" (status absolutus)
+#    *balum* "ohne", *ikkis* = *nakāsu*, *mana* "mina" (status absolutus).
 #    ```
 # 
 # ## G. From the Codex Hammurapi (CH)

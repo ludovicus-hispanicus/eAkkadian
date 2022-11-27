@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # L2.0: Introduction
-# In this chapter we will study the weak verbs. First we introduce the topic of weak verbs and explain what is a weak verb. After that 
+# In this chapter we will study the weak verbs. First we explain what is a weak verb. After that we study the verbs with weak fisrt radical and third weak radicals. At the end
 # 
 # - L4.1: [Weak Verbs](04_01_weak_verbs)
 # - L4.2. [Verbs I-*n*](04_02_1_n_verbs)
