@@ -29,14 +29,14 @@
 # 
 # ```{admonition} Good-to-know 🤓
 # :class: tip
-# After the old Babylonian the akkusative begins to replace the dative. 
+# After the old Babylonian the accusative begins to replace the dative. 
 # ```
 # 
 # ## The Ventiv
 # The pronominal suffix of the 1st. singular *-am*, *-m*, *-nim* can be used to enlarge the forms with suffixes. It expresses originally the directional idea "to me", but it is understood in the widest meaning of an action in direction of the speaker. This is called **ventiv**. It occurs chiefly with verbs of movement and of sending, often corresponds to English "here" versus "there". 
 # 
 # ```{admonition} Example
-# *wabālu* "tragen" + ventive = to bring to a destination.
+# *wabālu* "to carry, bring" + ventive = to bring to a destination.
 # - *ubbal* "he bings" ⇔ *ubbal-am* "he brings to a destination".
 # *alāku* "gehen" + ventive = to go to a destination.
 # - *illik* "he went" ⇔ *illik-am* "he went to a destination" = "he came". 
@@ -44,7 +44,7 @@
 # 
 # Nevertheless this distinction is not always possible or necessary, because sometimes the ventive seems to be used rather for emphasising. The dative and accusative suffixes are placed after the ventive forms. 
 # 
-# ```{important} Assimilation
+# ```{important}
 # The consonant *-m* is assimilated to the next consonant.
 # - *-am* + *kum* → *akkum*
 # - *-am* + *ni* → *anni*
@@ -52,7 +52,7 @@
 # ```
 # 
 # ## Verbs with Pronominal Suffixes in Dative
-# | Suffix        | 3 masc. sing (*-am*)  | 2 fem. sing. (*-m*) | 3 masc. plu. (*-nim*) | Translation  | 
+# | Suffix        | Verb + (ventiv *-am*) + 3 masc. sing | Verb + (ventiv *-m*) + 2 fem. sing. | Verb + (ventiv *-nim*) + 3 masc. plu. | Translation  | 
 # |--------       | ------                | ----------------- |--------           | ------------ | 
 # | 3 sing. masc. | *išpur(aš)šum*        | *tašpurī(š)šum*   | *išpurū(niš)šum*  | He/You/They sent to him             
 # | 3 sing. fem.  | *išpur(aš)šim*        | *tašpurī(š)šim*   | *išpurū(niš)šim*   | He/You/They sent to her            
@@ -69,7 +69,7 @@
 # When the verb in plural ends with a wowel the form *-nim* is used.
 # ```
 # ## Verbs with Pronominal Suffixes in Accusative
-# | Suffix        | 3 masc. sing (*-am*)  | 2 fem. sing. (*-m*) | 3 masc. plu. (*-nim*)   | Translation  | 
+# | Suffix        |  Verb + (ventiv *-am*) + 3 masc. sing  | Verb + (ventiv *-m*) + 2 fem. sing. | Verb + (ventiv *-nim*) + 3 masc. plu. | Translation  | 
 # |--------       | ------               |--------              | ------------            | ------------ |  
 # | 3 sing. masc. | *išpur(aš)šu*        | *tašpurī(š)šu*       | *išpurū(niš)šu*         | He/You/They sent him             
 # | 3 sing. fem.  | *išpur(aš)ši*        | *tašpurī(š)ši*       | *išpurū(niš)ši*          | He/You/They sent her            

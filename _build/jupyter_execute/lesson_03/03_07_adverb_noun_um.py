@@ -26,7 +26,7 @@
 # - When it is used with another noun the second is in genitive:
 #   ```{admonition} Example
 #   - *šaptukki* "on your lip" (= *ina šaptīki*).
-#   - *qerbuššu* "in its midst" (= ina qerbīšu*).
+#   - *qerbuššu* "in its midst" (= *ina qerbīšu*).
 #   - *šepūʾa "at my foot".
 # 
 # - Sometimes it is preceded by the morpheme *-ān*:

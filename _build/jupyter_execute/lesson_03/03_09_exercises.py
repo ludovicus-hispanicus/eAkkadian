@@ -29,7 +29,7 @@
 # 5. *tašapparā* + *nim* + *ni*
 #    ```{admonition} Solution
 #    :class: dropdown  
-#    *aṭrudkušši* "I have sent her to you"
+#    *tašapparāninni* "You sent me"
 #    ```
 # 
 # ## B. Pronominal Suffixe & Ventive - II

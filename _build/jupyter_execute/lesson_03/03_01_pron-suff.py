@@ -56,7 +56,7 @@
 # 
 #   ```{admonition} Good-to-know
 #   :class: tip
-#   The suffix ***-ia*** is normally written with the sign <font size="11pt">𒅀</font>.
+#   The suffix ***-ja*** is normally written with the sign <font size="11pt">𒅀</font> 0 ia.
 # 
 #   For example:
 # 
@@ -80,7 +80,7 @@
 # 
 # (pron-suff_dat)=
 # ## Ponominal Suffixes in Dative
-# |               | Gen.      | Translation  | 
+# |               | Dative    | Translation  | 
 # |--------       | ------    |--------      |  
 # | 1 sing. com.  | *-am, -m, -nim* | to my
 # | 2 sing. masc. | *-kum*     | to you            
@@ -110,8 +110,8 @@
 # ```
 # 
 # (pron-suff_akk)=
-# ## Ponominal Suffixes in Akkusative
-# |               | Gen.      | Translation  | 
+# ## Ponominal Suffixes in Accusative
+# |               | Accusative | Translation  | 
 # |--------       | ------    |--------      |  
 # | 1 sing. com.  | *-ni*     | me
 # | 2 sing. masc. | *-ka*     | you            

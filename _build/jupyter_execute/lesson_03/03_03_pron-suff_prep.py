@@ -14,7 +14,7 @@
 # | 2 sing. masc. | *elīka*           | on you            
 # | 2 sing. fem.  | *elīki*           | on you            
 # | 3 sing. masc. | *elīšu*           | on his             
-# | 3 sing. fem.  | *elīši*           | on her            
+# | 3 sing. fem.  | *elīša*           | on her            
 # | 1 plu. com.   | *elīni*           | on us
 # | 2 plu. masc.  | *elīkunu*         | on you 
 # | 2 plu. fem.   | *elīkina*         | on you
