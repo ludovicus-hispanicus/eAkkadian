@@ -76,7 +76,7 @@
 # 
 # ## F. From the Codex Hammurapi (CH)
 # Give the translation and grammatical analysis
-# ```{admonotion} Example 
+# ```{admonition} Example 
 # *šumma eṣemti awīlim ištebir eṣemtašu išebbirū* = *šumma* "when" = conjunction, *eṣemti awīlim* "bones of a man" = status constructus + genitive; ištebir "has broken" = šebēru G Perfect 3pms , eṣemtašu "his bones" = status constructus + poss.suff. 3pms, *išebbirū* "they will brake = *šebēru* G Durative 3pmpl
 # ```
 # 1. *šumma wardum ana bēlīšu ul bēlī attā iqtabi* (...) *bēlšu uzunšu inakkis* CH §282
