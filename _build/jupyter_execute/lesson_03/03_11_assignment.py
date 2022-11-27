@@ -60,7 +60,7 @@
 # 8. *ilī dannūtim tapaqqid*
 # 9. *ilī dannūtim tapqid*
 # 
-# ## Transliterate and translate
+# ## E. Transliterate and translate
 # 1. <font size="11">𒄩𒄠𒈬𒊏𒉿𒊬𒊒𒌝</font>
 # 2. <font size="11">𒄩𒄠𒈬𒊏𒉿𒊬𒊒𒌝𒈗𒈠𒁴</font>
 # 3. <font size="11">𒄿𒁀𒀠𒇻𒌓, 𒅁𒇻𒌓</font>
@@ -74,5 +74,41 @@
 # 11. <font size="11">𒄿𒍝𒁀𒀜, 𒅁𒊒𒊻</font>
 # 12. <font size="11">𒄿𒉺𒅈𒊏𒊍, 𒅁𒊒𒊻</font>
 # 
+# ## F. From the Codex Hammurapi (CH)
+# Give the translation and grammatical analysis
+# ```{admonotion} Example 
+# *šumma eṣemti awīlim ištebir eṣemtašu išebbirū* = *šumma* "when" = conjunction, *eṣemti awīlim* "bones of a man" = status constructus + genitive; ištebir "has broken" = šebēru G Perfect 3pms , eṣemtašu "his bones" = status constructus + poss.suff. 3pms, *išebbirū* "they will brake = *šebēru* G Durative 3pmpl
+# ```
+# 1. *šumma wardum ana bēlīšu ul bēlī attā iqtabi* (...) *bēlšu uzunšu inakkis* CH §282
+#    ```{admonition} Tip
+#    :class: tip
+#    *iqtabi* "he has said" (*qabû* = say G perfect 3ms)
+#    ```
+# 2. *šumma awīlum makkūr ilim u ekallim, awīlum šū iddâk* (...) CH §6
+#    ```{admonition} Tip
+#    :class: tip
+#    *iddak* "he/she will be killed
+#    ```
+# 3. *šumma awīlum mār awīlim ṣehram ištariq, iddak* CH § 14
+# 4. *šumma awīlum balum bēl kirîm ina kiri awīlim iṣam ikkis, 1/2 mana kaspam išaqqal* CH §59
+#    ```{admonition} Tip
+#    :class: tip
+#    *balum* "ohne", *ikkis* = *nakāsu*, *mana* "mina" (status absolutus)
+#    ```
 # 
+# ## G. From the Codex Hammurapi (CH)
+# Transliterate normalize and translate CH § 195
 # 
+# <font size="11">𒋳𒈠𒌉𒀀𒁉𒋗</font>
+# 
+# <font size="11">𒅎𒋫𒄩𒊍</font>
+# 
+# <font size="11">𒊑𒀉𒋫𒋗</font>
+# 
+# <font size="11">𒄿𒈾𒀝𒆠𒋢</font>
+# 
+#    ```{admonition} Tip
+#    :class: tip
+#    - <font size="11">𒋳</font> = *šum*
+#    - <font size="11">𒌉</font> = DUMU = *māru*
+#    ```
