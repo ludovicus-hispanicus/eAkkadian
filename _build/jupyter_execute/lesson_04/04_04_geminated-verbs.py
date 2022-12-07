@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L4.2. Geminated Verbs
+# # L4.4: Geminated Verbs
 # These verbs have a reduplicated second radical, geminated, and become a triconsonantical root. The Akkadian language has absorved these verbs into the triconsoantical system, so that they behave like strong verbs. 
 # 
 # ```{admonition} Good-to-Know 🤓

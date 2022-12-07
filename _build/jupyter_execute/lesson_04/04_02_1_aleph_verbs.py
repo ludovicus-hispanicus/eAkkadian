@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # I-*ʾ* Verbs
+# # L4.2: I-*ʾ* Verbs
 # These verbs are classified as strongs verbs, but they exihibt phonetic peculiarities. They are divided acocording to the origin of the "א":
 # 
 # ```{admonition} The Laryngeal

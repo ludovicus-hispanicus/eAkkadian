@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L4.3. I-*w* Verbs
+# # L4.6: I-*w* Verbs
 # These verbs are expanded from a biconsonantical to a triconsonantical root with the addition of *w(a)*-. It is necessary to distinguish between fientic verbs and stative verbs. The fientic verbs are originally biconsonantical roots:
 # 
 # ```{admonition} Example
@@ -22,7 +22,7 @@
 # ## I-*w* Fientic Verbs
 # The fientic verbs show some weak forms:
 # 
-# 1. The diphthon *aw* and *iw* of the prefixes become *ū*:
+# 1. The diphthong *aw* and *iw* of the prefixes become *ū*:
 # 
 #     ```{admonition} Example
 #     - *ūšib* "I sat down* < \**awšib*

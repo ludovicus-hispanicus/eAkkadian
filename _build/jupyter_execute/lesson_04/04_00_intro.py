@@ -5,7 +5,7 @@
 # In this chapter we will study some peculiarities of the strong verbs, weak verbs and the subjunctive. First we explain what is a weak verb. After that we will learn about the verbs with a weak first radical and third weak radicals. At the end we will see the subjunctive and how to make sobordinate sentences.
 # 
 # - L4.1: [Peculiarities Among Strong Verbs](04_01_peculiarities-strong-verb)
-# - L4.2. [1_ʾ_Verbs](04_02_1_aleph_verbs)
+# - L4.2. [Verbs I-*ʾ*](04_02_1_aleph_verbs)
 # - L4.3. [Weak Verbs](04_03_weak_verbs)
 # - L4.2. [Geminated Verbs](04_04_geminated-verbs)
 # - L4.3. [Verbs I-*n*](04_05_1_n_verbs)

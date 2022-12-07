@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L4.1 Weak Verbs 
+# # L4.3: Weak Verbs 
 # A weak verb is a verb whose root consists of only two consonants and one vowel, it is also called a biconsonantical base. We can find the following types:
 # 
 # 1. They can have a long vowel between the two consonants, so called **hollow roots** or **Verbs II-weak**, or after the second radical, so called **final weak verbs** or **Verbs III-weak**:

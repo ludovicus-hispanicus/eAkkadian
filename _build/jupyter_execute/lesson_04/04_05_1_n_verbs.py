@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L4.2. I-*n* Verbs
+# # L4.5: I-*n* Verbs
 # These verbs follow the conjugation of the strong verb. The root augment *n(a)* of these verbs expresses a direction:
 # 
 # ```{admonition} Example

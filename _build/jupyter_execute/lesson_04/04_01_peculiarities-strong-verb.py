@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Peculiarities Among Strong Verbs
+# # L4.1: Peculiarities Among Strong Verbs
 # 
-# ## Peculiarites if the Strong Verbal Roots
-# Because of phonetioc factors some verbs exhibit forms that deviate from the model.
+# ## Peculiarites of the Strong Verbal Roots
+# Because of phonetic factors some verbs exhibit forms that deviate from the model.
 # 
 # ### Changes in Vowels
 # The *a* can shift to *e* before or after *r*. The *a* in the neighboring syllable is also affected.
