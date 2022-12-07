@@ -12,7 +12,7 @@
 # 
 # 1. *uzunka*
 # 2. *itti bēltīša*
-# 3. *ašassu*
+# 3. *aššassu*
 # 4. *ana belīšu*
 # 5. *bēlessa*
 # 6. *ina libbīšu*
@@ -55,7 +55,7 @@
 # 3. *šarrum ālam nakram iṣbat* 
 # 4. *šarrum ālam nakram iṣṣabat*  
 # 5. *kaspam ina ekallim ašqul*
-# 6. *kaspam ina ekallin ištariq*
+# 6. *kaspam ina ekallim ištariq*
 # 7. *šipram taštaprī*
 # 8. *ilī dannūtim tapaqqid*
 # 9. *ilī dannūtim tapqid*

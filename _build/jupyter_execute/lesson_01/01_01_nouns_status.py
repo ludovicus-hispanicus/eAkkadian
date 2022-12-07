@@ -39,10 +39,10 @@
 # |------------------- | --------------- | ----------- |
 # | *zikar*            | *zikarum*       | virile, manly       |
 # | *šarrat*           | *šarratum*      | queen       |
-# | *šinniš*           | *šinništum*     | woman       |
+# | *sinniš*           | *sinništum*     | woman       |
 # 
 # ```{note}
-# The word *zikar* und *šinniš* are often used in the idiomatic expressions like
-# -  <font size="11">𒍑𒌋𒊩</font> *zikar u šinniš* "male and female".
+# The word *zikar* und *sinniš* are often used in the idiomatic expressions like
+# -  <font size="11">𒍑𒌋𒊩</font> *zikar u sinniš* "male and female".
 # ```
 # 

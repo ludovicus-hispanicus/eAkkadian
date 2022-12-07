@@ -34,3 +34,10 @@
 # ```{note}
 # Five radical roots are very rare. 
 # ```
+
+# $R\overset{5}$
+
+# $P^{R₁}$
+# $A_{moses}$
+
+# 

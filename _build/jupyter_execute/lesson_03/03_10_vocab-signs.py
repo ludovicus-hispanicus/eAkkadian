@@ -28,9 +28,9 @@
 # | *mūšum*, *mūšū* plu. |                        | night 
 # | *narûm*         |                             | stele
 # | *rittum*        | *rittu, rittašu*            | hand
+# | *sinništum*     | *sinništi, sinništašu*      | woman
 # | *ṣērum*         |                             | back, upperside; steppe, open country
 # | *šiqil*         | *šiqil*                     | shekel
-# | *šinništum*     | *šinništi, šinništašu*      | woman
 # | *šiprum*        | *šipir*                     | sending, mission; work
 # | *tamkārum*      | *tamkār*                    | merchant, businessman
 # | *ṭēmum*         | *tēm*                       | (fore)thought, plan(ning); understanding; instruction

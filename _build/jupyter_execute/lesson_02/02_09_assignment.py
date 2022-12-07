@@ -56,7 +56,7 @@
 # 6. *pa-qi-dam*
 # 7. *pa-aq-da-tim*
 # 8. *i-ma-ah-ha-aṣ*
-# 9. *ina ma-ha-ṣi₂-im
+# 9. *ina ma-ha-ṣi₂-im*
 # 10. *i-šar-ri-qu₂*
 # 11. *aš₂-ri-iq*
 # 12. *i-ra-ag-gu-um*
