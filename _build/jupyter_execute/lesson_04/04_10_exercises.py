@@ -7,7 +7,7 @@
 # 1. *qātā ilim rabîm awīlam ibniā 
 #    
 #    ```{admonition} Solution
-#    ;class: dropdown
+#    :class: dropdown
 #    The  great god's hands created the man
 #    ```
 # 
@@ -20,7 +20,7 @@
 # 
 # 3. *mārū bēlim aššātim īhuzū-ma bītātim rabiātim īpušū*
 #     ```{admonition} Solution
-#    ;class: dropdown
+#    :class: dropdown
 #    The lord's sons married wives and constructed large houses.
 #    ```
 # 
@@ -38,16 +38,14 @@
 #    I left much silver of the lord’s in a foreign land, and so I have not gone to the lord’s city.
 #    ```
 # 
-# 7.  mātum ina emūqī šarrim rabîm īšir-ma mātam ul nīzib.
-# 
+# 6.  mātum ina emūqī šarrim rabîm īšir-ma mātam ul nīzib.
 # 
 #    ```{admonition} Solution
 #    :class: dropdown
 #    Since the land prospered by the strength of the great king, we did not leave the land.
 #    ```
 # 
-# 8.  ūmū marsim īrikū-ma ibluṭ-ma ana bīt ilim īrum-ma ihdu.
-# 
+# 7.  ūmū marsim īrikū-ma ibluṭ-ma ana bīt ilim īrum-ma ihdu.
 # 
 #    ```{admonition} Solution
 #    :class: dropdown
@@ -57,7 +55,6 @@
 # ## Normalize and translate
 # 
 # 1. qa₂-ra-dum šu-u₂ i-na bi-tim u₂-ši-ib ha-ra-nam it-ti-ni u₂-ul il-li-ik.
-# 
 # 
 #    ```{admonition} Solution
 #    :class: dropdown
