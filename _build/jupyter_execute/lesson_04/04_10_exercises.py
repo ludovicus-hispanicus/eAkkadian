@@ -38,7 +38,6 @@
 #    I left much silver of the lord’s in a foreign land, and so I have not gone to the lord’s city.
 #    ```
 # 
-# to the lord’s cit
 # 7.  mātum ina emūqī šarrim rabîm īšir-ma mātam ul nīzib.
 # 
 # 
@@ -68,6 +67,28 @@
 #    ```
 # 
 # 2. šar-ra-am ma-ru šar-ri-im i-na e-kal-lim i-ne₂-ru.
-# 3. hu-ra-sû-um wa-at-ru-um a-na e-ka-al-li-im i-ru-um-ma hura-
-# 4. hu-ra-ṣu₂-um wa-at-ru-um a-na e-ka-al-li-im i-ru-um-ma hu-ra-ṣu₂-um i-mi-id-ma li-ib-bi šar-ri-im i-ṭi-ib.
-# 5. al-pu ma-du-tum ša ru-be-em i-mu-tu al-pi₂ mi-tu-tim it-ti-ni ú-ul i-ša-am.
+# 
+#    ```{admonition} Solution
+#    :class: dropdown
+#    šarram mārū šarrim ina ekallim inērū. 
+#    
+#    The king’s sons slew the king in the palace..
+#    ```
+# 
+# 3. hu-ra-ṣu₂-um wa-at-ru-um a-na e-ka-al-li-im i-ru-um-ma hu-ra-ṣu₂-um i-mi-id-ma li-ib-bi šar-ri-im i-ṭi-ib.
+# 
+#    ```{admonition} Solution
+#    :class: dropdown
+#    hurāṣum watrum ana ekallim irum-ma hurāṣum imīd-ma libbi šarrim iṭīb. 
+#    
+#    Excess gold entered the palace; because the gold increased, the king’s heart was satisfied.
+#    ```
+# 
+# 4. al-pu ma-du-tum ša ru-be-em i-mu-tu al-pi₂ mi-tu-tim it-ti-ni ú-ul i-ša-am.
+# 
+#    ```{admonition} Solution
+#    :class: dropdown
+#    alpū mādūtum ša rubêm imūtū alpī mītūtim ittīni ul išām. 
+#    
+#    Many of the prince’s oxen died; he did not buy the dead oxen from us.
+#    ```
