@@ -10,8 +10,8 @@
 # The *a* can shift to *e* before or after *r*. The *a* in the neighboring syllable is also affected.
 # 
 # ```{admonition} Example 
-# *qerēbum* "to approach"
-# *šebērum* "to smash"
+# - *qerēbum* "to approach"
+# - *šebērum* "to smash"
 # ```
 # 
 # ### Changes in Consonants

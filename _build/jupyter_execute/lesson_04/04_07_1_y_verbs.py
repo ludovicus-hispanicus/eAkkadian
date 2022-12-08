@@ -35,5 +35,5 @@
 # | G I-*y*       | *inniq*         | *itēniq*   | *īniq*       | *ēniqu*       | *enēqu*   | [*enqu*]         |
 # | G I-*w*       | *issim*         | *ītasim*   | *īsim*       | --            | *wasāmu*  | wasmu            |
 # 
-# - *enēqum* "to kiss"
+# - *enēqum* "to suckle"
 # - *wasāmum* "to be(come) fitting, suitable; seasonable"

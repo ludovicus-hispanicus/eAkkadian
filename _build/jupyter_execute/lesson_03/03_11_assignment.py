@@ -99,7 +99,7 @@
 # ## G. From the Codex Hammurapi (CH)
 # Transliterate normalize and translate CH § 195
 # 
-# <font size="11">𒋳𒈠𒌉𒀀𒁉𒋗</font>
+# <font size="11">𒋳𒈠𒌉𒀀𒁀𒋗</font>
 # 
 # <font size="11">𒅎𒋫𒄩𒊍</font>
 # 

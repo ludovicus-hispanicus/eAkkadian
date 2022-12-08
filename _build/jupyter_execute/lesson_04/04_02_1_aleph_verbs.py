@@ -10,14 +10,14 @@
 # - ʾ₁ = orig. aleph (א)
 # - ʾ₂ = orig. *h* (ה)
 # - ʾ₃ = orig. *ḥ* (ח, arab. ح [ḥā](https://en.wikipedia.org/wiki/Voiceless_pharyngeal_fricative))
-# - ʾ₄ = orig. *ʿ* ([ע] rab. ع [ʿayn](https://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative))
+# - ʾ₄ = orig. *ʿ* ([ע] arab. ع [ʿayn](https://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative))
 # - ʾ₅ = orig. *ġ* (arab. غ [ghayn](https://en.wikipedia.org/wiki/Voiced_velar_fricative))
 # ```
 # 
 # They are divided in two groups:
 # 
 # 1. ʾ₁ and less often ʾ₂ belong to the ***a*-class**
-# 2. ʾ₃, ʾ₄, ʾ₅ and few verbs with ʾ₂ belong to the *e*-class
+# 2. ʾ₃, ʾ₄, ʾ₅ and few verbs with ʾ₂ belong to the ***e*-class**
 # 
 # ## I-*ʾ* *a*-Class
 # 
@@ -32,14 +32,12 @@
 # 
 #     ```{admonition} Example
 #     - *ikkal* < \**iʾakkal* (G dur.) "he eats"
-#     - *nībut* < \**niʾbut* "we destroyed"
-#     - *ābut* < \**aʾbut* "I destroyed"
 #     ``` 
 # 
-# ```{warning} Verb *alākum*
+# ```{warning}
 # In the verb *alākum* "to go" the ʾ assimilates to the following consonant:
 # 
-# - *illik* < \**iʾllik*
+# - *illik* < \**iʾlik*
 # ```
 # 
 # ## I-*ʾ* *e*-Class
@@ -84,13 +82,13 @@
 # | -------       | --------------  | --------   | ---------    | ------------  | --------  | ---------------  | 
 # | G a-u         | *ihhaz*         | *ītahaz*   | *īhuz*       | *āhizum*      | *ahāzum*  | *ahzum*          |
 # | G a           | *ibbal*         | *ītabal*   | *ībal*       | *ābilum*      | *abālum*  | *ablum*          |
-# | G i           | *irrim*         | *īrarim*   | *īrim*       | *ārimum*      | *arāmum*  | *armum*          |
+# | G i           | *irrim*         | *ītarim*   | *īrim*       | *ārimum*      | *arāmum*  | *armum*          |
 # | G u           | *ikkuš*         | *ītakuš*   | *īkuš*       | *ākišum*      | *akāšum*  | --               |
 # 
 # - *ahāzum* "to seize"
-# - *abālum* "to dry"
-# - *arāmu* "to cover"
-# - akāšu* "to go"
+# - *abālum* "to dry up"
+# - *arāmum* "to cover"
+# - *akāšum* "to go"
 # 
 # ## Conjugation of the verbs I-*ʾ* *e*-Class
 # 
