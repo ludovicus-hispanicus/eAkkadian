@@ -17,8 +17,8 @@
 # | *erēbum* (u)   | *irrub*, *īrub*, \**ʾrb* | to cross over |
 # | *ešērum* (i)   | *iššir*, *īšir*, \**ʾšr* | to be/go well; be straight, fair |
 # | *nadānum* (i)  | *iddin*, *iddin*, \**ndn* | to give |
-# | *nakārum* (i)  | *inakkir*, *īkkir*, \**nkr* | to be(come) different; (e)strange(d); hostile |
-# | *naqārum* (u)  | *inaqqar*, *iqqur*, \**nqr* | to demolish; scratch |
+# | *nakārum* (i)  | *inakkir*, *īkkir*, \**nkr* | to be(come) different, (e)strange(d), hostile |
+# | *naqārum* (u)  | *inaqqar*, *iqqur*, \**nqr* | to demolish, scratch |
 # | *naṣārum* (a-u) | *inaqqar*, *iqqur*, \**nṣr* | einreißen, zerstören |
 # | *naṭālum* (a-u) | *ina︎ṭṭar*, *iṭṭur*, \**nṭr* | to look |
 # | *nawārum* (i)  | *ina︎wwar*, *iṭṭur*, \**nṭr* | to look |
@@ -30,5 +30,7 @@
 # ## Nouns
 # | Nouns          | Plural             | Status Constructus | Translation |
 # | ------------   | ------------------ | ------------------ | ----------- |
+# | *dannatum* fem.  | *dannātum*       | *dannat, dannassu* | fortress    |
+# | *qarrādum* masc. | *qarrādū, qarrādūtu* | *qarrād* *qarrassu* | hero, warrior |
 # | *šattum* fem.  | *šanātum*          | *šatti, šattašu*   | year        |
 # | *šuttum* oder *šunatum* fem. | *šunātum* | *šutti, šuttašu* | dream    |
