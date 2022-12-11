@@ -10,7 +10,7 @@
 # 
 # 1. *akalum ša bēlī u bēlētim imdiq u akalum ša wardī u amātim ul idmiq*
 # 2. *ṣāb šarrim harranam illikū*
-# 3. *ana ṣāb nakrim ina dannat nakrim īšerū-ma 
+# 3. *ana ṣāb nakrim ina dannat nakrim īšerū-ma*
 #     ``` {admonition} Tip
 #     :class: tip
 #     *ešēru* + *ana* "to charge"
@@ -24,7 +24,13 @@
 #     ```
 # 
 # ## Normalize and Translate
-# 1. *eṭ-la-am šu-a-ti il-qu₂-ma a-na bi-it i-li-im ub-lu
+#    ```{admonition} Example
+#    - *qa₂-ra-dum šu-u₂ i-na bi-tim u₂-ši-ib ha-ra-nam it-ti-ni u₂-ul il-li-ik* 
+#    - *qarrādum šū ina bītim ušib harrānam ittīni ul illik* 
+#    - That warrior remained in (his) house; he did not undertake the campaign with us.
+#    ```
+# 
+# 1. *eṭ-la-am šu-a-ti il-qu₂-ma a-na bi-it i-li-im ub-lu*
 # 2. *a-ka-lum i-na eq-le-tim i-ti-ir-ma ni-šu ma-dam i-ku-la*
 # 3. *a-na ma-tim it-ti um-ma-nim ni-tu-ur-ma i-na a-lim nu-ši-ib*
 # 4. *qa₂-ra-dum šu-u₂ i-na bi-tim u₂-ši-ib ha-ra-nam it-ti-ni ú-ul il-li-ik*
@@ -47,21 +53,21 @@
 # 10. <font size="11">𒍑𒁍</font>
 # 
 # ## Aus dem Kodex Hammurapi
-# 𒋳𒈠𒁶
+# <font size="11">𒋳𒈠𒁶</font>
 # 
-# 𒂍𒀀𒈾𒀀𒉿𒅆
+# <font size="11">𒂍𒀀𒈾𒀀𒉿𒅆</font>
 # 
-# 𒄿𒁍𒍑𒈠
+# <font size="11">𒄿𒁍𒍑𒈠</font>
 # 
-# 𒌑𒊭𒀝𒆠𒅋𒋳
+# <font size="11">𒌑𒊭𒀝𒆠𒅋𒋳</font>
 # 
-# 𒀀𒈾𒁹𒊬𒂍
+# <font size="11">𒀀𒈾𒁹𒊬𒂍</font>
 # 
-# 𒈫𒂆𒆬𒌓
+# <font size="11">𒈫𒂆𒆬𒌓</font>
 # 
-# 𒀀𒈾𒆠𒅖𒋾𒋗
+# <font size="11">𒀀𒈾𒆠𒅖𒋾𒋗</font>
 # 
-# 𒄿𒈾𒀜𒁲𒅖𒋳
+# <font size="11">𒄿𒈾𒀜𒁲𒅖𒋳</font>
 # 
 # ```{admonition} Tip
 # :class: tip
@@ -69,7 +75,7 @@
 # - *ušaklilšum* "it was to his satisfaction"
 # - <font size="11">𒊬</font> = SAR = square measure 
 # - ana 1 SAR E₂ = *ana 1 SAR bītim* "for each SAR of house"
-# - 𒂆 = GIN₂ = *šiqil* "shekel"
+# - <font size="11">𒂆</font> = GIN₂ = *šiqil* "shekel"
 # - *qištum* "compensation"
 # ``` 
 # 
