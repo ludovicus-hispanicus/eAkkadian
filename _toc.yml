@@ -122,16 +122,31 @@ parts:
       title: Verbs I-y
     - file: lesson_04/04_08_III_weak_verbs
       title: Verbs III-weak
-    - file: lesson_04/04_09_subordinator
-      title: Subordination
-    - file: lesson_04/04_10_exercises
+    - file: lesson_04/04_09_exercises
       title: Exercises
-    - file: lesson_04/04_11_vocab-signs
+    - file: lesson_04/04_10_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_04/04_12_assignment
+    - file: lesson_04/04_11_assignment
       title: Assignment
-  - file: lesson_05/lesson_05_intro
+  - file: lesson_05/05_00_intro
     title: Lesson 5
+    sections:
+    - file: lesson_05/05_01_II_weak_verbs
+      title: Verbs II-Weak
+    - file: lesson_05/05_02_double_weak
+      title: Double Weaks Verbs
+    - file: lesson_05/05_03_special_verbs
+      title: Special Verbs
+    - file: lesson_05/05_04_subordinator
+      title: Subordination
+    - file: lesson_05/05_05_ob_letters
+      title: Old Babylonian Letters
+    - file: lesson_05/05_06_exercises
+      title: Exercises
+    - file: lesson_05/05_07_vocab-signs
+      title: Vocabulary & Signs
+    - file: lesson_05/05_08_assignment
+      title: Assignment
   - file: lesson_06/lesson_06_intro
     title: Lesson 6
   - file: lesson_07/lesson_07_intro
