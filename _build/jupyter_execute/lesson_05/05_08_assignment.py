@@ -18,7 +18,8 @@
 # 11. <font size="11">𒄿𒍝𒊍 𒄿𒍪𒊻𒍪 𒄿𒍪𒍪</font>
 # 12. <font size="11">𒄿𒁲𒀀𒀊 𒄿𒁲𒅁</font>
 # 
-# ## B. Translate the following excerpt from the bilingual royal inscription of Samsu-Iluna (1685-1648 BCE). The first section is about Enlil's command to Šamaš to build several temples:
+# ## B. Translate the following excerpt from the bilingual royal inscription of Samsu-Iluna (1685-1648 BCE). 
+# The first section is about Enlil's command to Šamaš to build several temples:
 # 
 # 1. *i₃-nu* ᵈEN.LIL₂
 # 2. LUGAL *ša i₃-li₂*
