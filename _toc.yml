@@ -147,8 +147,25 @@ parts:
       title: Vocabulary & Signs
     - file: lesson_05/05_08_assignment
       title: Assignment
-  - file: lesson_06/lesson_06_intro
+  - file: lesson_06/06_00_intro
     title: Lesson 6
+    sections:
+    - file: lesson_06/06_01_stative
+      title: Stative 
+    - file: lesson_06/06_02_imperative 
+      title: Imperative
+    - file: lesson_06/06_03_precative
+      title: Precative
+    - file: lesson_06/06_04_vetitive
+      title: Vetitive
+    - file: lesson_06/06_05_prohibitive
+      title: Prohibitive
+    - file: lesson_06/06_06_exercises
+      title: Exercises
+    - file: lesson_06/06_07_vocabulary
+      title: Vocabulary
+    - file: lesson_06/06_08_assignment
+      title: Assignment
   - file: lesson_07/lesson_07_intro
     title: Lesson 7
   - file: lesson_08/08_00_intro

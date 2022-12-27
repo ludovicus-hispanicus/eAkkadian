@@ -107,7 +107,7 @@
 #   The form of the feminine is actually *-at-* but the short vowel *a* is elided:
 #   - *šubtu* < *šub-at-u 
 # 
-#   In the status constructus the *a* reappears. 👉[L1.3: Status constructus - Part 1](01_03_status-constructus)
+#   In the status constructus the *a* reappears. 👉[L1.3: Status constructus - Part 1](01_04_status-constructus)
 #   ```
 # 
 # | Gender | Number | Case      | Substantive |
