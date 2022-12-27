@@ -8,7 +8,7 @@
 # *mārū bēlim aššātim īhuzū-ma bītātim rabiātim īpušū* = The lord's sons married wives and constructed large houses.
 # ```
 # 
-# 1. *akalum ša bēlī u bēlētim imdiq u akalum ša wardī u amātim ul idmiq*
+# 1. *akalum ša bēlī u bēlētim idmiq u akalum ša wardī u amātim ul idmiq*
 # 2. *ṣāb šarrim harranam illikū*
 # 3. *ana ṣāb nakrim ina dannat nakrim īšerū-ma*
 #     ``` {admonition} Tip
