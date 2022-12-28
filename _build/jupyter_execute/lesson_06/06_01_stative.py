@@ -6,7 +6,9 @@
 # ```
 # 
 # # L6.1: Stative
-# It is still a matter of discussion if the stative is a verbal or a nominal form. It seems to have developped from a nominal sentence but at the same time it possesses personal endings like a verb. Thus in this coursebook it will be treated as a category on its own between verbs and nouns. The stative is used to describe states in constrast to the tenses, that reproduce dynamic actions, events, processes, etc.
+# It is still a matter of discussion if the stative is a verbal or a nominal form. It seems to have developped from a nominal sentence but at the same time it possesses personal endings and can have objects like a verb. Thus in this coursebook it will be treated as a category on its own between verbs and nouns. 
+# 
+# - The stative is used to describe timeless states in constrast to the tenses, that reproduce dynamic actions, events, processes, etc.
 # 
 # ```{admonition} Example
 # Stative: *ṭāb* "it is good"
@@ -27,8 +29,30 @@
 # | 2f      | *attina*                | *-ātina*                          | *-ētina*                          
 # | 1c      | *nīnu*                  | *-ānu*                            | *-ēnu*                          
 # 
-# The stative can be build from an adjective or a nonun:
+# ## Stative forms
+# The stative can be build from a verbal adjective and nouns:
 # 
-# ## Stative from an Adjective
+# ### Stative from a Verb
+# The ending of the stative are added to the verbal adjective:
 # 
+# |         | Verbaladjective | Ending    | Stative   | Translation   |
+# |-------- | --------------- |---------  | -------   | -----------   |
+# | 3m      | *paris*         | -ø        | *damiq*   | He is good    |
+# | 3f      | *paris*         | *-at*     | *damqat*  | She is good   |                            
+# | 2m      | *paris*         | *-āta*    | *damqāta* | You (masc.) are good  |                           
+# | 2f      | *paris*         | *-āti*    | *damqāti* | You (fem.) are good   |                           
+# | 1c      | *paris*         | *-āku*    | *damqāku* | I am good     |                              
+# | 3m      | *paris*         | *-ū*      | *damqū*   | They (masc.) are good |                               
+# | 3f      | *paris*         | *-ā*      | *damqā*   | They (fem.) are good  |                              
+# | 2m      | *paris*         | *-ātunu*  | *damqātunu* | You (masc.) are good |                          
+# | 2f      | *paris*         | *-ātina*  | *damqātina* | You (fem.) are good |                          
+# | 1c      | *paris*         | *-ānu*    | *damqānu* | We are good   |     
+# 
+# ### Meaning
+# The meaning This applies for state verbal roots as well as for fientic ones. In the latter the stative describes a states that result from the verb's action:  
+# 
+# ```{admonition} Example
+# Infinitive: *parāsu* "to divide"
+# Stative: *paris* "it is divided"
+# ```
 # 
