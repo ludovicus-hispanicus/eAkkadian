@@ -152,8 +152,8 @@ parts:
     sections:
     - file: lesson_06/06_01_stative
       title: Stative 
-    - file: lesson_06/06_02_imperative 
-      title: Imperative
+    - file: lesson_06/06_02_imperative-cohortative 
+      title: Imperative & Cohortative
     - file: lesson_06/06_03_precative
       title: Precative
     - file: lesson_06/06_04_vetitive
@@ -170,13 +170,6 @@ parts:
     title: Lesson 7
   - file: lesson_08/08_00_intro
     title: Lesson 8
-    sections:
-    - file: lesson_08/08_01_imperative
-      title: The Imperative
-    - file: lesson_08/08_02_stative
-      title: The Stative
-    - file: lesson_08/08_03_precative
-      title: Precative
   - file: lesson_09/lesson_09_intro
     title: Lesson 9
   - file: lesson_10/lesson_10_intro

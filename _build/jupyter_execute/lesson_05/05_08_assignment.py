@@ -38,6 +38,7 @@
 # 
 # ```{admonition} Tip
 # :class: tip
+# - *inu* "when"
 # - *in* = *ina*
 # - *ippalsu* = (< **palāsum*) "to look, gaze at"
 # - ZIMBIR<sup>ki</sup> = Sippar (a city)

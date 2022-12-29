@@ -87,22 +87,15 @@
 # - *qištum* "compensation"
 # ``` 
 # 
-# ## E. Aus dem Kodex Hammurapi
-# <font size="11">𒋳𒈠𒁶𒀀𒉿𒈝</font>
-# 
-# <font size="11">𒍢𒄴𒊏𒄠</font>
-# 
-# <font size="11">𒄿𒈾𒈨𒂊𒋗</font>
-# 
-# <font size="11">𒀀𒈾𒈠𒊒𒁴</font>
-# 
-# <font size="11">𒅋𒆠𒈠</font>
-# 
-# <font size="11">𒌫𒋫𒀊𒁉𒋗</font>
-# 
-# <font size="11">𒋻𒁉𒌈𒅆𒄿</font>
-# 
-# <font size="11">𒌑𒌌𒅁𒁀𒀝𒃼</font>
+# ## E. Codex Hammurapi §185
+# 1. <font size="11">𒋳𒈠𒀀𒉿𒈝</font>
+# 2. <font size="11">𒍢𒄴𒊏𒄠</font>
+# 3. <font size="11">𒄿𒈾𒈨𒂊𒋗</font>
+# 4. <font size="11">𒀀𒈾𒈠𒊒𒁴</font>
+# 5. <font size="11">𒅋𒆠𒈠</font>
+# 6. <font size="11">𒌫𒋫𒀊𒁉𒋗</font>
+# 7. <font size="11">𒋻𒁉𒌈𒅆𒄿</font>
+# 8. <font size="11">𒌑𒌌𒅁𒁀𒀝𒃼</font>
 # 
 # ```{admonition} Tip
 # :class: dropdown
