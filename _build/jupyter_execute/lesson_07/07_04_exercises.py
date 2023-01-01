@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L6.4: Vetitive
+# # L7.4: Exercises
 # 

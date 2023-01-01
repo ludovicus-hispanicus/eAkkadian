@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L6.6: Exercises
+# # L7.6: Assignment
