@@ -100,8 +100,8 @@
 # ```{admonition} Tip
 # :class: dropdown
 # :class: tip
-# - *ina mešû* "at birth" 
-# - *ana marūtim** "in adoption"
+# - *ina mêšu* "at birth" 
+# - *ana mārūtim* "in adoption"
 # - *urtabbīšu* "he has raised him" 
 # - *tarbītum* "adopted child"
 # - *šiqil* "shekel"
