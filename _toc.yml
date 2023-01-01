@@ -181,7 +181,6 @@ parts:
       title: Vocabulary
     - file: lesson_07/07_06_assignment
       title: Assignment
-
   - file: lesson_08/08_00_intro
     title: Lesson 8
   - file: lesson_09/lesson_09_intro
