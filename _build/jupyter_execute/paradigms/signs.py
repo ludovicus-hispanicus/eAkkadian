@@ -98,6 +98,7 @@
 # | 641	| <font size="11">𒅎</font> | IM             | *im, em*                  | IM = *ṭīdum* "clay", *šārum* "wind", ᵈIŠKUR = Adad (weather god)|
 # | 640	| <font size="11">𒄭𒁁</font> | KAM           | *kam, gam, qam₂*          | KAM after ordinals |
 # | 681	| <font size="11">𒈪</font> | MI             | *mi, me₂, ṣil₂*           |
+# | 686	| <font size="11">𒁶</font> | DIM₂           | *gim, gen₇*              | ŠIDIM = *itinnu* "builder" , GIM = *kīma* "like; when, as, that", DIM₂ = *banû* "build"
 # | 690	| <font size="11">𒉏</font> | NIM            | *nim, num*                |
 # | 693	| <font size="11">𒇴</font> | LAM            | *lam*                     |
 # | 695	| <font size="11">𒀫</font> | AMAR           | *ṣur*                     | ᵈAMAR.UTU = Marduk    |

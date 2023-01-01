@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L5.7: Vocabulary & Signs
+# # L5.7: Vocabulary
 # 
 # ## Verbs
 # | Verbs          | Dur., Pret. Root         |  Translation |

@@ -166,8 +166,22 @@ parts:
       title: Vocabulary
     - file: lesson_06/06_08_assignment
       title: Assignment
-  - file: lesson_07/lesson_07_intro
+  - file: lesson_07/07_00_intro
     title: Lesson 7
+    sections:
+    - file: lesson_07/07_01_d-stem
+      title: D-Stem 
+    - file: lesson_07/07_02_š-stem 
+      title: Š-Stem
+    - file: lesson_07/07_03_n-stem
+      title: N-Stem
+    - file: lesson_07/07_04_exercises
+      title: Excercises
+    - file: lesson_07/07_05_vocabulary
+      title: Vocabulary
+    - file: lesson_07/07_06_assignment
+      title: Assignment
+
   - file: lesson_08/08_00_intro
     title: Lesson 8
   - file: lesson_09/lesson_09_intro
