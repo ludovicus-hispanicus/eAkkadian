@@ -44,7 +44,7 @@
 # 
 #     |               | Š-Stem      | 
 #     | -------       | -------------- | 
-#     | Durative      | *u**š**pras*   | 
+#     | Durative      | *u**š**apras*   | 
 #     | Perfect       | *u**š**tapris*  | 
 #     | Preterite     | *u**š**apris*    | 
 #     | Imperative    | ***š**upris*   |  

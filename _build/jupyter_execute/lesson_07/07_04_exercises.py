@@ -7,18 +7,18 @@
 # Analyse and translate the following forms:
 # 
 # 1. *ulammid*
-# 2. *uballitūka*
+# 2. *uballiṭūka*
 # 3. *ugallabūki*
-# 4. *tuštebir*
+# 4. *tuštebbir*
 # 5. *šipram udammiqū*
 # 
 # Translate
-# 1. *<sup>md</sup>Anum-muballiṭ*
+# 1. <sup>md</sup>*Anum-muballiṭ*
 # 2. *bēlum muballiṭ Uruk šākin mê ana nišīšu*
 # 3. *anāku šarrum lā mušallim mātīšu*
 # 
 # Normalize and translate CH § 1
-# *šum-ma a-wi-lum a-wi-lam ú-ub-bi-ir-ma ne-er-tam e-li-šu id-di-ma la uk-ti-in-šu mu-ub-bi-ir-šu id-da-ak*
+# - *šum-ma a-wi-lum a-wi-lam ú-ub-bi-ir-ma ne-er-tam e-li-šu id-di-ma la uk-ti-in-šu mu-ub-bi-ir-šu id-da-ak*
 # 
 # ## Š-Stem
 # Analyse and translate the following forms:

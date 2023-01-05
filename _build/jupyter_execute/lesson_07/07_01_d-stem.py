@@ -12,8 +12,8 @@
 # 
 # 1. **Factitive** of adjectival verbs:
 #    ```{admonition} Example
-#    - *damāqum* "te be(come) good" → *dummuqum* = "to make good, improve"
-#    - *rapāšum* "to be(come) wide" → *ruppušum*
+#    - *damāqum* "te be(come) good" → *dummuqum* "to make good, improve"
+#    - *rapāšum* "to be(come) wide" → *ruppušum* "to widen"
 #    ```
 # 
 # 2. **Causative** of active-intransitive verbs:
@@ -24,12 +24,12 @@
 # 
 # 3. **Pluralic**, when there is a plurality of objects or subjects:
 #    ```{admonition} Example
-#    *naqāru* "to demolish; scratch" → *nuqqurum* = "demolish (many objects)" 
+#    *naqārum* "to demolish; scratch" → *nuqqurum* = "demolish (many objects)" 
 #    - G-stem: *ālšu anaqqar* "I will demolish his city"
 #    - D-stem: ālānīšunu unaqqar "I will demolish their cities"
 # 
-#    *našāqu* "to kiss" → *nuššuqu* "to kiss (many times)"
-#    - G-stem: *šēpīja* "he kissed my feet"
+#    *našāqum* "to kiss" → *nuššuqum* "to kiss (many times)"
+#    - G-stem: *šēpīja* iššiq* "he kissed my feet"
 #    - D-stem: *šēpīya unaššiqū* "they kissed my feet" 
 #    ```
 # 4. **Derivative**, i.e. verbs derived from a noun:
@@ -44,8 +44,8 @@
 # 5. **Lexical**, i.e. verbs whose basic form is the D-stem:
 #    ```{admonition} Example
 #    - *kullumum* "to show" 
-#    - *wuššurum* "to release"
 #    ``` 
+# 
 #    ```{note}
 #    These verbs are not attested in G-stem as well.
 #    ```  
@@ -96,7 +96,7 @@
 #     | 1pl.c.  | *n**u**parras* | *n**u**ptarris*| *n**u**parris*
 # 
 #     ```{note}
-#     The *-t-* of the perfect undergoes the assimilation before g, d, ṭ, s, ṣ and z as in the G-stem: 
+#     The *-t-* of the perfect undergoes the assimilation before *g, d, ṭ, s, ṣ* and *z* as in the G-stem: 
 #     - *uṣṣabbit*
 #     - *ussahher*
 #     ```
@@ -180,7 +180,7 @@
 # 
 # ```{note}
 # - In the perfect: *uw-* > *ū*
-# - *w* at the beginnig is often dropped: *(w)utturum*, *(w)utter*
+# - *w* at the beginning is often dropped: *(w)utturum*, *(w)utter*
 # ```
 # 
 # ## II-weak
@@ -192,7 +192,7 @@
 # |               | *kânum*  | 
 # | -------       | ---------- | 
 # | Durative      | *ukān*, *ukannū* | 
-# | Perfect       | *uktīn*, *ukannū* | 
+# | Perfect       | *uktīn*, *uktinnū* | 
 # | Preterite     | *ukīn*, *ukinnū* | 
 # | Imperative    | *kīn*, *kinnā* | 
 # | Participle    | *mukinnum* |
