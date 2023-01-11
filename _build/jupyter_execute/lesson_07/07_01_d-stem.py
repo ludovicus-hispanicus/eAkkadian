@@ -8,7 +8,7 @@
 # # L7.1: D-stem
 # The D-stem denotes a factitive intensification of the G-stem. 
 # 
-# ## Funktion
+# ## Meaning
 # 
 # 1. **Factitive** of adjectival verbs:
 #    ```{admonition} Example

@@ -7,6 +7,7 @@
 # # L7.2: Š-Stem
 # The Š-stem is the causative counterpart of the G-stem.
 # 
+# ## Meaning
 # 1. The most common use of the Š-stem is as a causative of active-transitive verbs:
 # 
 #     ```{admonition} Example

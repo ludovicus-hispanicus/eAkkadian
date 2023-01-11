@@ -183,6 +183,21 @@ parts:
       title: Assignment
   - file: lesson_08/08_00_intro
     title: Lesson 8
+    sections:
+    - file: lesson_08/08_01_gt-stem
+      title: Gt-Stem 
+    - file: lesson_08/08_02_dt-stem 
+      title: Dt-Stem
+    - file: lesson_08/08_03_št-stem
+      title: Št-Stem
+    - file: lesson_08/08_04_tan-stems
+      title: The tan-stems
+    - file: lesson_08/08_05_exercises
+      title: Exercises
+    - file: lesson_08/08_06_vocabulary
+      title: Vocavbulary
+    - file: lesson_08/08_07_assignment
+      title: Assignment
   - file: lesson_09/lesson_09_intro
     title: Lesson 9
   - file: lesson_10/lesson_10_intro

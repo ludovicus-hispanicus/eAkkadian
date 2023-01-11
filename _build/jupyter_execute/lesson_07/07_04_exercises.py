@@ -17,9 +17,6 @@
 # 2. *bēlum muballiṭ Uruk šākin mê ana nišīšu*
 # 3. *anāku šarrum lā mušallim mātīšu*
 # 
-# Normalize and translate CH § 1
-# - *šum-ma a-wi-lum a-wi-lam ú-ub-bi-ir-ma ne-er-tam e-li-šu id-di-ma la uk-ti-in-šu mu-ub-bi-ir-šu id-da-ak*
-# 
 # ## Š-Stem
 # Analyse and translate the following forms:
 # 
@@ -35,13 +32,30 @@
 # 3. *Nintu šulput mātīšu ina pī Enlil ušaškin*
 # 4. *Adad mušaškin hegallim*
 # 
-# Normalize and translate CH § 127
-# *šum-ma a-wi-lum e-li NIN.DINGIR u₃ aš-ša-at a-wi-lim u₂-ba-nam u₂-ša-at-ri-iṣ-ma la uk-ti-in a-wi-lam šu-a-ti ma-har da-a-a-ni i-na-aṭ-ṭu₃-u₂-šu u₃ mu-ut-ta-su₂ u₂-gal-la-bu*
+# ## N-Stem
 # 
-# C. Transliterate and translate
-# Beginning of CH
-# 1. <font size="11">𒉌𒉡𒀭𒍢𒊒𒌝</font>
-# 2. <font size="11">𒈗𒀭𒀀𒉣𒈾𒆠</font>
-# 3. <font size="11">𒀭𒂗𒆤</font>
-# 4. <font size="11">𒁁𒂖𒊭𒈨𒂊</font>
-# 5. <font size="11">𒅇𒅕𒍢𒁴</font>
+# Analyse and translate the following forms:
+# 1. *iṣṣabbat*
+# 2. *ittaškanū*
+# 3. *ṭuppum iššebir*
+# 4. *narûm šaṭer*
+# 5. *narûm iššater*
+# 
+# Translate
+# 1. *kaspum iššaqil*
+# 2. *marāt šarrim tallapit*
+# 3. *ina Bābili ninnamer*
+# 4. *awīlū lemnūtum innamrū-ma iṣṣabtū*
+# 5. *iṣṣūrum mupparšum*
+# 
+# ## From the CH §6
+# 1. <font size="11">𒋳𒈠𒀀𒉿𒈝</font> 
+# 2. <font size="11">𒃻𒆥𒀭</font>
+# 3. <font size="11">𒅇𒂍𒃲</font>
+# 4. <font size="11">𒅖𒊑𒅅</font>
+# 5. <font size="11">𒀀𒉿𒈝𒋗𒌑</font>
+# 6. <font size="11">𒀉𒁕𒀝</font>
+# 7. <font size="11">𒅇𒊭𒋗𒌫𒂵𒄠</font>
+# 8. <font size="11">𒄿𒈾𒂵𒋾𒋗</font>
+# 9. <font size="11">𒅎𒄷𒊒</font>
+# 10. <font size="11">𒀉𒁕𒀝</font>
