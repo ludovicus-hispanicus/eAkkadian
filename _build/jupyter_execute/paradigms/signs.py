@@ -68,7 +68,7 @@
 # | 498	| <font size="11">𒂊</font> | E              | *e*  |
 # | 490	| <font size="11">𒌑</font> | U₂             | *u₂*, (*šam*) | U₂ = *šammum* "grass, herb", KUŠ₃ = *ammatum* "forearm; cubit"|
 # | 491	| <font size="11">𒂵</font> | GA             | *ga, qa₂* |(GA = *šizbum* "milk")|
-# | 496	| <font size="11">𒆗</font> |KAL             | *dan, kal, rab*   |KALA(G) = *dannum* "mighty"|
+# | 496	| <font size="11">𒆗</font> |KAL             | *dan, kal, rab*   |KALA(G) = *dannum* "mighty", KALAM = *mātum* land |
 # | 495	| <font size="11">𒂍</font> | E₂             | *bid/t/ṭ*   | E₂ = *bītum* "house", E₂.GAL = *ekallum* "palace"|
 # | 504	| <font size="11">𒌒</font> | UB             | *ub, up, ar₂* |
 # | 511	| <font size="11">𒊏</font> | RA             | *ra*  |

@@ -34,3 +34,12 @@
 # 3. <font size="11">𒀭𒂗𒆤</font>
 # 4. <font size="11">𒁁𒂖𒊭𒈨𒂊</font>
 # 5. <font size="11">𒅇𒅕𒍢𒁴</font>
+# 
+# D. N-stem
+# Analyse and translate
+# 
+# 1. *nagmurum*
+# 2. *naddi* / *nandi*
+# 3. *išdum ippa︎ṭṭar*
+# 4. *bābum muppetûm*
+# 5. *aplum innassah*
