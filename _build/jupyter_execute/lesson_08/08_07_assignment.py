@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L8.6: Assignment
+# # L8.7: Assignment
 # 
 # ## ta-stems
 # 1. *nimtagar*
@@ -9,7 +9,7 @@
 # 3. *imtahru*
 # 4. *taṣṣabbatā*
 # 5. *tiṣbutā*
-# 6. *ṣābum ūtebbeb*/*ūtabbab**
+# 6. *ṣābum ūtebbeb*/*ūtabbab*
 # 7. *ubtallaṭu*
 # 8. *tuštaṣabbat*
 # 9. *uštamli*
