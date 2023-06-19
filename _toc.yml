@@ -39,23 +39,23 @@ parts:
     sections:
     - file: lesson_01/01_01_semantic-root
       title: Semantic Root
-    - file: lesson_01/01_01_nominals
+    - file: lesson_01/01_02_nominals
       title: Nominals
-    - file: lesson_01/01_02_status
+    - file: lesson_01/01_03_nouns_status
       title: Status  
-    - file: lesson_01/01_02_nominal_inflection
-      title: Nominal Inflection
-    - file: lesson_01/01_03_det-pron-sha
-      title: The Determinative Pronoun ša
     - file: lesson_01/01_04_status-constructus
-      title: Status Constructus - Part 1
-    - file: lesson_01/01_05_vowel-contraction
-      title: Vowel Contraction
-    - file: lesson_01/01_06_pronouns_01
-      title: Pronouns Part 1
-    - file: lesson_01/01_07_verbless_sentences
-      title: Verbless Sentences
-    - file: lesson_01/01_08_exercises
+      title: Status Constructus
+    - file: lesson_01/01_05_nominal_inflection
+      title: Nominal Inflection
+    - file: lesson_01/01_06_prep-part
+      title: Prepostion and Particles
+    - file: lesson_01/01_07_adverb_noun_um
+      title: Locative-Adverbiative
+    - file: lesson_01/01_08_adverb_noun_ish
+      title: Terminative-Adverbiative
+    - file: lesson_01/01_09_digital-projects
+      title: Digital Projects in the Assyriology
+    - file: lesson_01/01_10_exercises
       title: Exercises
     - file: lesson_01/01_09_vocab_signs
       title: Vocabulary & Signs 
@@ -64,105 +64,105 @@ parts:
   - file: lesson_02/02_00_intro
     title: Lesson 2
     sections:
-    - file: lesson_02/02_01_semantic-root
-      title: Semantic root
-    - file: lesson_02/02_02_verbal-system
+    - file: lesson_02/02_01_verbal-system
       title: Verbal System
-    - file: lesson_02/02_03_G-stem
+    - file: lesson_02/02_02_G-stem
       title: The G-Stem
-    - file: lesson_02/02_04_G-preterite
+    - file: lesson_02/02_03_G-preterite
       title: The G Preterite
-    - file: lesson_02/02_05_G-durative
+    - file: lesson_02/02_04_G-durative
       title: The G Durative
-    - file: lesson_02/02_06_G-perfect
+    - file: lesson_02/02_05_G-perfect
       title: The G Perfect
-    - file: lesson_02/02_07_exercises
+    - file: lesson_02/02_06_peculiarities-strong-verbs
+      title: Peculiarities of the Strong Verbs
+    - file: lesson_02/02_07_geminated-verbs
+      title: Geminated Verbs
+    - file: lesson_02/02_08_verbless_sentences
+      title: The Simple Sentence
+    - file: lesson_02/02_09_regex
+      title: Regular Expressions
+    - file: lesson_02/02_10_exercises
       title: Exercises
-    - file: lesson_02/02_08_vocab-signs
+    - file: lesson_02/02_11_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_02/02_09_assignment
+    - file: lesson_02/02_13_assignment
       title: Assignment
   - file: lesson_03/03_00_intro
     title: Lesson 3
     sections:
-    - file: lesson_03/03_01_pron-suff
+    - file: lesson_03/03_01_pronouns
+      title: Pronouns 
+    - file: lesson_03/03_02_pron-suff
       title: Pronominal Suffixes 
-    - file: lesson_03/03_02_pron-suff_noun
+    - file: lesson_03/03_03_pron-suff_noun
       title: Pronominal Suffixes on Nouns (Status Constructus part 2)
-    - file: lesson_03/03_03_pron-suff_prep
+    - file: lesson_03/03_04_pron-suff_prep
       title: Pronominal Suffixes on Prepositions
-    - file: lesson_03/03_04_pron-suff_verb
+    - file: lesson_03/03_05_pron-suff_verb
       title: Pronominal Suffixes on Verbs
-    - file: lesson_03/03_05_denom_adjec
-      title: Denominative Adjectives
-    - file: lesson_03/03_06_demons_adjec_pron
-      title: Demonstrative Adjectives and Pronouns
-    - file: lesson_03/03_07_adverb_noun_um
-      title: Locative-Adverbiative
-    - file: lesson_03/03_08_adverb_noun_ish
-      title: Terminative-Adverbiative
-    - file: lesson_03/03_09_exercises
+    - file: lesson_03/03_06_annotation
+      title: Annotations
+    - file: lesson_03/03_07_exercises
       title: Exercises
-    - file: lesson_03/03_10_vocab-signs
+    - file: lesson_03/03_08_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_03/03_11_assignment
+    - file: lesson_03/03_09_assignment
       title: Assignment  
   - file: lesson_04/04_00_intro
     title: Lesson 4
     sections:
-    - file: lesson_04/04_01_peculiarities-strong-verb
-      title: Peculiarities of the Strong Verbs
-    - file: lesson_04/04_02_1_aleph_verbs
-      title: Verbs I-ʾ
-    - file: lesson_04/04_03_weak_verbs
-      title: Weak Verbs 
-    - file: lesson_04/04_04_geminated-verbs
-      title: Geminated Verbs
-    - file: lesson_04/04_05_1_n_verbs
-      title: Verbs I-n
-    - file: lesson_04/04_06_1_w_verbs
-      title: Verbs I-w
-    - file: lesson_04/04_07_1_y_verbs
-      title: Verbs I-y
-    - file: lesson_04/04_08_III_weak_verbs
-      title: Verbs III-weak
-    - file: lesson_04/04_09_exercises
+    - file: lesson_04/04_01_denom_adjec
+      title: Denominative Adjective
+    - file: lesson_04/04_02_demons_adjec
+      title: Demonstrative Adjectives
+    - file: lesson_04/04_03_demons_pron
+      title: Demonstrative Pronouns
+    - file: lesson_04/04_04_exercises
       title: Exercises
-    - file: lesson_04/04_10_vocab-signs
+    - file: lesson_04/04_05_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_04/04_11_assignment
+    - file: lesson_04/04_06_assignment
       title: Assignment
   - file: lesson_05/05_00_intro
     title: Lesson 5
     sections:
-    - file: lesson_05/05_01_II_weak_verbs
-      title: Verbs II-Weak
-    - file: lesson_05/05_02_double_weak
-      title: Double Weaks Verbs
-    - file: lesson_05/05_03_special_verbs
-      title: Special Verbs
-    - file: lesson_05/05_04_subordinator
-      title: Subordination
-    - file: lesson_05/05_05_ob_letters
-      title: Old Babylonian Letters
-    - file: lesson_05/05_06_exercises
+    - file: lesson_05/05_01_nom-verb-forms
+      title: Nominal Verbs Forms
+    - file: lesson_05/05_02_infinitive
+      title: Infinitive
+    - file: lesson_05/05_03_participle
+      title: Participle
+    - file: lesson_05/05_04_verbaladjective
+      title: Verbal Adjective
+    - file: lesson_05/05_05_stative
+      title: Stative
+    - file: lesson_05/05_06_verbless-sentences
+      title: Stative
+    - file: lesson_05/05_07_exercises
       title: Exercises
-    - file: lesson_05/05_07_vocab-signs
+    - file: lesson_05/05_08_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_05/05_08_assignment
+    - file: lesson_05/05_09_assignment
       title: Assignment
   - file: lesson_06/06_00_intro
     title: Lesson 6
     sections:
-    - file: lesson_06/06_01_stative
-      title: Stative 
-    - file: lesson_06/06_02_imperative-cohortative 
-      title: Imperative & Cohortative
-    - file: lesson_06/06_03_precative
+    - file: lesson_06/06_01_negation
+      title: Negation
+    - file: lesson_06/06_02_modals 
+      title: Modals
+    - file: lesson_06/06_03_imperative 
+      title: Imperative
+    - file: lesson_06/06_04_prohibitive
+      title: Prohibitive
+    - file: lesson_06/06_05_precative
       title: Precative
-    - file: lesson_06/06_04_vetitive
+    - file: lesson_06/06_06_cohortative
+      title: Cohortative     
+    - file: lesson_06/06_07_vetitive
       title: Vetitive
-    - file: lesson_06/06_05_prohibitive
+    - file: lesson_06/06_07_precative-state-verbs-affirmative
       title: Prohibitive
     - file: lesson_06/06_06_exercises
       title: Exercises
@@ -177,8 +177,8 @@ parts:
       title: D-Stem 
     - file: lesson_07/07_02_š-stem 
       title: Š-Stem
-    - file: lesson_07/07_03_n-stem
-      title: N-Stem
+    - file: lesson_07/07_03_subordination-relative-sentences
+      title: Subordination and Relative Sentences
     - file: lesson_07/07_04_exercises
       title: Excercises
     - file: lesson_07/07_05_vocabulary
@@ -188,12 +188,12 @@ parts:
   - file: lesson_08/08_00_intro
     title: Lesson 8
     sections:
-    - file: lesson_08/08_01_gt-stem
+    - file: lesson_08/08_01_n-stem
       title: Gt-Stem 
-    - file: lesson_08/08_02_dt-stem 
-      title: Dt-Stem
-    - file: lesson_08/08_03_št-stem
-      title: Št-Stem
+    - file: lesson_08/08_02_tan-stem 
+      title: tan-Stem
+    - file: lesson_08/08_03_ta-stem
+      title: ta-Stem
     - file: lesson_08/08_04_tan-stems
       title: The tan-stems
     - file: lesson_08/08_05_exercises
@@ -202,10 +202,62 @@ parts:
       title: Vocavbulary
     - file: lesson_08/08_07_assignment
       title: Assignment
-  - file: lesson_09/lesson_09_intro
+  - file: lesson_09/09_00_intro
     title: Lesson 9
-  - file: lesson_10/lesson_10_intro
+    - file: lesson_09/09_01_weak_verbs
+      title: Weak Verbs 
+    - file: lesson_09/09_02_1_n_verbs 
+      title: Verbs I-n
+    - file: lesson_09/09_03_1_w_verbs
+      title: Verbs I-w
+    - file: lesson_09/09_05_exercises
+      title: Exercises
+    - file: lesson_09/09_06_vocabulary
+      title: Vocavbulary
+    - file: lesson_09/09_07_assignment
+      title: Assignment
+  - file: lesson_10/10_00_intro
     title: Lesson 10
+    - file: lesson_10/10_01_weak_verbs
+      title: Weak Verbs 
+    - file: lesson_10/10_02_1_ʾ_verbs 
+      title: Verbs I-ʾ
+    - file: lesson_10/10_03_1_y_verbs
+      title: Verbs I-y
+    - file: lesson_10/10_05_relative-sentences
+      title: Relative Sentences
+    - file: lesson_10/10_05_exercises
+      title: Exercises
+    - file: lesson_10/10_06_vocabulary
+      title: Vocavbulary
+    - file: lesson_10/10_07_assignment
+      title: Assignment
+  - file: lesson_11/11_00_intro
+    title: Lesson 11
+    - file: lesson_11/11_01_III_weak_verbs
+      title: Weak Verbs 
+    - file: lesson_11/11_02_four_radical_verbs 
+      title: Four Radical Verbs
+    - file: lesson_11/11_04_exercises
+      title: Exercises
+    - file: lesson_11/11_05_vocabulary
+      title: Vocavbulary
+    - file: lesson_11/11_06_assignment
+      title: Assignment
+  - file: lesson_12/12_00_intro
+    title: Lesson 11
+    - file: lesson_12/12_01_II_weak_verbs
+      title: Double Weak Verbs 
+    - file: lesson_12/12_02_special_verbs 
+      title: Special Verbs
+    - file: lesson_12/12_03_special_verbs 
+      title: Special Verbs
+    - file: lesson_12/12_04_exercises
+      title: Exercises
+    - file: lesson_12/12_05_vocabulary
+      title: Vocavbulary
+    - file: lesson_12/12_06_assignment
+      title: Assignment
 - caption: Appendix
   chapters:
   - file: appendix/signs
