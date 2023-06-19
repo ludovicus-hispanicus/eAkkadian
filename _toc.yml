@@ -5,13 +5,11 @@ parts:
   chapters:
   - file: how-to/How-To-Interact-With-This-Book
     title: Interact with This Book
-  - file: how-to/how-to-use-print-literature
-    title: Use Print Literature 
   - file: how-to/conventions-abbreviations
     title: Conventions & Abbreviations
 - caption: The Course
   chapters:
-  - file: course-schedule-2022-2023
+  - file: course-schedule
     title: Course Schedule
 - caption: The Book
   chapters:
@@ -28,17 +26,23 @@ parts:
       title: Cuneiform Script
     - file: introduction/00_05_syllabification
       title: Syllabification
-    - file: introduction/00_06_vocabulary_signs
+    - file: introduction/00_06_dh
+      title: What are Digital Humanities
+    - file: introduction/00_07_vocabulary_signs
       title: Vocabulary & Signs
-    - file: introduction/00_07_exercises
+    - file: introduction/00_08_excercises
       title: Exercises
-    - file: introduction/00_08_assignment
+    - file: introduction/00_09_assignment
       title: Assignment
   - file: lesson_01/01_00_intro
     title: Lesson 1
     sections:
-    - file: lesson_01/01_01_nouns_status
-      title: Status
+    - file: lesson_01/01_01_semantic-root
+      title: Semantic Root
+    - file: lesson_01/01_01_nominals
+      title: Nominals
+    - file: lesson_01/01_02_status
+      title: Status  
     - file: lesson_01/01_02_nominal_inflection
       title: Nominal Inflection
     - file: lesson_01/01_03_det-pron-sha
@@ -202,18 +206,36 @@ parts:
     title: Lesson 9
   - file: lesson_10/lesson_10_intro
     title: Lesson 10
-- caption: Paradigms & Signs
+- caption: Appendix
   chapters:
-  - file: paradigms/01_nouns
+  - file: appendix/signs
+    title: Signs
+  - file: appendix/numbers
+    title: Numbers
+  - file: appendix/nominal-forms
+    title: Nominal Forms
+  - file: appendix/paradigm-nouns
     title: Nominal Paradigm
-  - file: paradigms/signs
-    title: Signs     
+  - file: appendix/paradigm-verbs
+    title: Verbal Paradigm
+  - file: appendix/vowel-contraction
+    title: Vowel Contraction
+  - file: appendix/mimmation-nunnation
+    title: Mimmation and Nunnation 
+  - file: appendix/tens-aspect-mode
+    title: Tense, Aspect and Mode
+  - file: appendix/literary-genres
+    title: Literary Genres
 - caption: Datasets
   chapters:
   - file: datasets/datasets
     title: Datasets
+  - file: datasets/digital_projects
+    title: Digital Projects
 - caption: Bibliography
   chapters:
+  - file: how-to/how-to-use-print-literature
+    title: Use Print Literature 
   - file: bibliography/general_bibliography
     title: General Bibliography
   - file: bibliography/textbooks
@@ -226,8 +248,7 @@ parts:
     title: Sign Lists
 - caption: Extra Material
   chapters:
-  - file: extra_material/digital_projects
-    title: Digital Projects
+
   - file: extra_material/digital_tools
     title: Digital Tools
 - caption: Acknowledgements
