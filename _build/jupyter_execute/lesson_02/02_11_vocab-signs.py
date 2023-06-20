@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L2.11: Vocabulary & Signs
+# # L2.8: Vocabulary & Signs
 # 
-# ## Vocabulary - Verbs
+# ## Verbs
 # | Verbs          | Translation |
 # | ------------   | ----------- |
 # | *balāṭu* (u)  | to live |
@@ -14,7 +14,7 @@
 # | *mahāṣum* (a)  | to strike, to hit, smite |
 # | *maqātum* (a-u) | to fall, fall down, collapse |
 # | *marāṣum* (a)  | to be/become sick, fall ill |
-# | *nakāsu*  (i)  | to cut, fell             |
+# | *nakāsum*  (i)  | to cut, fell             |
 # | *paqādum* (i)  | to entrust, care for with *ana*
 # | *ragāmum* (a-u)  | to shout, to prosecute, raise claim |
 # | *rapāšum* (i)  | to be/to become wide, broad |
@@ -22,7 +22,7 @@
 # | *šakānum* (a-u) | to place, set, put: to establish, install |
 # | *šarāqum* (i)  | to steal |
 # 
-# ## Vocabulary - Nouns
+# ## Nouns
 # | Nouns          | Translation |
 # | ------------   | ----------- |
 # | *Akkadûm*      | land of Akkad  |
@@ -44,7 +44,7 @@
 # | *šumum*        | name        |
 # | *ṭabtum*       | salz        |
 # 
-# ## Vocabulary - Adjectives
+# ## Adjectives
 # | Adjectives     | Translation |
 # | ------------   | ----------- |
 # | *arkum*, fem. *ariktum* | brother  |
@@ -55,7 +55,7 @@
 # | *ṣīrum*, fem. *ṣirtum* | exalted, supreme, splendid |
 # 
 # 
-# ## Vocabulary - Prepositions
+# ## Prepositions
 # | Prepostitions  | Translation |
 # | ------------   | ----------- |
 # | *aššum*        | because (of) |

@@ -28,10 +28,10 @@ parts:
       title: Syllabification
     - file: introduction/00_06_dh
       title: What are Digital Humanities
-    - file: introduction/00_07_vocabulary_signs
+    - file: introduction/00_07_exercises
+      title: Exercises 
+    - file: introduction/00_08_vocabulary
       title: Vocabulary & Signs
-    - file: introduction/00_08_excercises
-      title: Exercises
     - file: introduction/00_09_assignment
       title: Assignment
   - file: lesson_01/01_00_intro
@@ -204,6 +204,7 @@ parts:
       title: Assignment
   - file: lesson_09/09_00_intro
     title: Lesson 9
+    sections:
     - file: lesson_09/09_01_weak_verbs
       title: Weak Verbs 
     - file: lesson_09/09_02_1_n_verbs 
@@ -218,22 +219,22 @@ parts:
       title: Assignment
   - file: lesson_10/10_00_intro
     title: Lesson 10
-    - file: lesson_10/10_01_weak_verbs
-      title: Weak Verbs 
-    - file: lesson_10/10_02_1_ʾ_verbs 
+    sections:
+    - file: lesson_10/10_01_1_ʾ_verbs 
       title: Verbs I-ʾ
-    - file: lesson_10/10_03_1_y_verbs
+    - file: lesson_10/10_02_1_y_verbs
       title: Verbs I-y
-    - file: lesson_10/10_05_relative-sentences
+    - file: lesson_10/10_03_relative-sentences
       title: Relative Sentences
-    - file: lesson_10/10_05_exercises
+    - file: lesson_10/10_04_exercises
       title: Exercises
-    - file: lesson_10/10_06_vocabulary
+    - file: lesson_10/10_05_vocabulary
       title: Vocavbulary
-    - file: lesson_10/10_07_assignment
+    - file: lesson_10/10_06_assignment
       title: Assignment
   - file: lesson_11/11_00_intro
     title: Lesson 11
+    sections:
     - file: lesson_11/11_01_III_weak_verbs
       title: Weak Verbs 
     - file: lesson_11/11_02_four_radical_verbs 
@@ -245,13 +246,14 @@ parts:
     - file: lesson_11/11_06_assignment
       title: Assignment
   - file: lesson_12/12_00_intro
-    title: Lesson 11
+    title: Lesson 12
+    sections:
     - file: lesson_12/12_01_II_weak_verbs
       title: Double Weak Verbs 
     - file: lesson_12/12_02_special_verbs 
       title: Special Verbs
-    - file: lesson_12/12_03_special_verbs 
-      title: Special Verbs
+    - file: lesson_12/12_03_subordinator 
+      title: Subordinators
     - file: lesson_12/12_04_exercises
       title: Exercises
     - file: lesson_12/12_05_vocabulary
@@ -274,7 +276,7 @@ parts:
     title: Vowel Contraction
   - file: appendix/mimmation-nunnation
     title: Mimmation and Nunnation 
-  - file: appendix/tens-aspect-mode
+  - file: appendix/tense-aspect-mode
     title: Tense, Aspect and Mode
   - file: appendix/literary-genres
     title: Literary Genres
@@ -300,7 +302,6 @@ parts:
     title: Sign Lists
 - caption: Extra Material
   chapters:
-
   - file: extra_material/digital_tools
     title: Digital Tools
 - caption: Acknowledgements
