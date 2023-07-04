@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# (l1-voc-sig)=
-# # L1.9: Vocabulary & Signs
+# # L1.11: Vocabulary & Signs
 # Learn the folowing words and signs:
 # 
 # (l1-vocab)=

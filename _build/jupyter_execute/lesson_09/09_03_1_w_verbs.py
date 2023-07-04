@@ -17,7 +17,7 @@
 # - *warāqum* "to be(come) green-yellow"
 # ```
 # 
-# The stative verbs are treated like [I-*y* roots](04_07_1_y_verbs). 
+# The stative verbs are treated like [I-*y* roots](/lesson_10/10_02_1_y_verbs.ipynb). 
 # 
 # ## I-*w* Fientic Verbs
 # The fientic verbs show some weak forms:

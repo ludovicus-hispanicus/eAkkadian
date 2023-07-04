@@ -1,91 +1,57 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L4.10. Exercises
+# # L5.6: Exercises
 # 
-# ## A. Translate
-# 1. *qātā ilim rabîm awīlam ibniā*
-#    
-#    ```{admonition} Solution
-#    :class: dropdown
-#    The  great god's hands created the man
-#    ```
+# ## A. Normalize and Translate the following letter:
+# 1. *a-na* ᵈAMAR.UTU
+# 2. *be-li-im ra-bi-im*
+# 3. *na-di-in* HE₂.GAL₂
+# 4. *a-na i₃-li₂*
+# 5.* be-el* E₂.SAG.IL₂
+# 6. *u₃* E₂.ZI.DA
+# 7. *be-li-šu*
+# 8. *ha-am-mu-ra-bi*
+# 9. *na-bi-u₃* AN-*nim*
+# 10. [*še*]*-mu* ᵈEN.LIL₂
+# 11. [*mi*]*-gi₄-ir*
+# 12. ᵈUTU
+# 13. SIPA *na-ra-am*
+# 14. ᵈAMAR.UTU
+# 15. LUGAL *da-num₂*
+# 16. LUGAL KALAM *šu-me-ri-im*
+# 17. *u₃ ak-ka-dim*
+# 18. LUGAL *ki-ib-ra-tim*
+# 19. *ar-ba-tim*
+# 20. *i₃-nu* ᵈEN.LIL₂
+# 21. KALAM *u₃ ni-ši₃*
+# 22. *a-na be-li-im*
+# 23. *id-di-nu-šum*
+# 24. *ṣe-er-ra-si₂-na*
+# 25. *a-na qa₂-ti-šu*
+# 26. *u-ma-al-li-u₃*
+# 27. *a-na* ᵈAMAR.UTU
+# 28. DINGIR *ba-ni-šu*
+# 29. *in Bar-si₂-pa*<sup>ki</sup>
+# 30. URU *na-ra-mi-šu*
+# 31. E₂.ZI.DA
+# 32. BARAG-*šu* *el-lam*
+# 33. *ib-ni-šum*
 # 
-# 2. *nār ālim mê ul imla* 
-#    
-#    ```{admonition} Solution
-#    :class: dropdown
-#    The  town's river did not fill with water.
-#    ```
+# ## B. Transliterate, Normalize and Translate the following letter:
+# 1. <font size="11">𒀀𒈾𒁁𒉌𒅀</font>
+# 2. <font size="11">𒆠𒉈𒈠</font>
+# 3. <font size="11">𒌝𒈠𒆠𒅁𒊑𒀭𒁕𒃶</font>
+# 4. <font size="11">𒀴𒅗𒀀𒈠</font>
+# 5. <font size="11">𒀭𒁕𒃶𒅇𒅀𒀝𒊒𒌒𒂖</font>
+# 6. <font size="11">𒊭𒀠𒈬</font>
+# 7. <font size="11">𒀀𒈝𒌁𒋡𒆠</font>
+# 8. <font size="11">𒅇𒄩𒀠𒍮𒌝𒊭𒅆</font>
+# 9. <font size="11">𒊭𒉌𒌓𒀸𒋳𒅀𒀊𒁉𒀭𒁕𒃶</font>
+# 10. <font size="11">𒊭𒁁𒉌𒅖𒁍𒊏𒄠</font>
+# 11. <font size="11">𒌓𒌝𒁾𒁉𒁁𒉌𒅀</font>
+# 12. <font size="11">𒅅𒋗𒁮</font>
+# 13. <font size="11">𒋡𒌓𒀀𒈾𒋡𒁴𒌉𒊭𒀀𒌅</font>
+# 14. <font size="11">𒀜𒄭𒅈𒁮</font>
 # 
-# 3. *mārū bēlim aššātim īhuzū-ma bītātim rabiātim īpušū*
-#     ```{admonition} Solution
-#    :class: dropdown
-#    The lord's sons married wives and constructed large houses.
-#    ```
-# 
-# 4. *wardū awât qarrādim damqātim išmû-ma ana dannatim šuāti īrubū*
-#    
-#    ```{admonition} Solution
-#    :class: dropdown
-#    The slaves obeyed the good words of the warrior and entered that fortress.
-#    ```
-# 
-# 5. *kasap bēlim mādam ina mātim nakartim ēzim-ma ana āli bēlim ul allik*.
-#    
-#    ```{admonition} Solution
-#    :class: dropdown
-#    I left much silver of the lord’s in a foreign land, and so I have not gone to the lord’s city.
-#    ```
-# 
-# 6. *mātum ina emūqī šarrim rabîm īšir-ma mātam ul nīzib*.
-# 
-#    ```{admonition} Solution
-#    :class: dropdown
-#    Since the land prospered by the strength of the great king, we did not leave the land.
-#    ```
-# 
-# 7. *ūmū marsim īrikū-ma ibluṭ-ma ana bīt ilim īrum-ma ihdu*.
-# 
-#    ```{admonition} Solution
-#    :class: dropdown
-#    When the sick man’s days grew long and he recovered, he entered the temple and rejoiced.
-#    ```
-# 
-# ## Normalize and translate
-# 
-# 1. *qa₂-ra-dum šu-u₂ i-na bi-tim u₂-ši-ib ha-ra-nam it-ti-ni u₂-ul il-li-ik*.
-# 
-#    ```{admonition} Solution
-#    :class: dropdown
-#    *qarrādum šū ina bītim ušib harrānam ittīni ul illik*. 
-#    
-#    That warrior remained in (his) house; he did not undertake the campaign with us.
-#    ```
-# 
-# 2. *šar-ra-am ma-ru šar-ri-im i-na e-kal-lim i-ne₂-ru*.
-# 
-#    ```{admonition} Solution
-#    :class: dropdown
-#    *šarram mārū šarrim ina ekallim inērū*. 
-#    
-#    The king’s sons slew the king in the palace..
-#    ```
-# 
-# 3. *hu-ra-ṣu₂-um wa-at-ru-um a-na e-ka-al-li-im i-ru-um-ma hu-ra-ṣu₂-um i-mi-id-ma li-ib-bi šar-ri-im i-ṭi-ib.*
-# 
-#    ```{admonition} Solution
-#    :class: dropdown
-#    *hurāṣum watrum ana ekallim irum-ma hurāṣum imīd-ma libbi šarrim iṭīb*. 
-#    
-#    Excess gold entered the palace; because the gold increased, the king’s heart was satisfied.
-#    ```
-# 
-# 4. *al-pu ma-du-tum ša ru-be-em i-mu-tu al-pi₂ mi-tu-tim it-ti-ni ú-ul i-ša-am.*
-# 
-#    ```{admonition} Solution
-#    :class: dropdown
-#    *alpū mādūtum ša rubêm imūtū alpī mītūtim ittīni ul išām*. 
-#    
-#    Many of the prince’s oxen died; he did not buy the dead oxen from us.
-#    ```
+#  

@@ -5,7 +5,7 @@
 # We have learnt already seen how many types of pronouns there are:
 # 
 # - Personal
-#   - [Independent](/lesson_01/01_06_pronouns_01.ipynb)
+#   - Independent
 #   - Pronominal Suffixes
 # - Determinative 
 # - Demonstrative
@@ -13,7 +13,7 @@
 # - Interrogative
 # - Indefinite 
 # 
-# In lesson 1 we have learnt the [independent personal pronouns](/lesson_01/01_06_pronouns_01.ipynb) in nominative case. In this lesson we want to learn the pronominal suffixes. They are declined in:
+# In lesson 1 we have learnt the independent personal pronouns in nominative case. In this lesson we want to learn the pronominal suffixes. They are declined in:
 # 
 # - Grammatical Case: **genitive**, **dative**, **accusative**.
 # - Grammatical Gender: **masculine** and **feminine**. 

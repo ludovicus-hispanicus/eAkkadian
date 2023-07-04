@@ -1,5 +1,5 @@
 format: jb-book
-root: ita_welcome
+root: home
 parts:
 - caption: How To
   chapters:
@@ -30,7 +30,7 @@ parts:
       title: What are Digital Humanities
     - file: introduction/00_07_exercises
       title: Exercises 
-    - file: introduction/00_08_vocabulary
+    - file: introduction/00_08_vocabulary_signs
       title: Vocabulary & Signs
     - file: introduction/00_09_assignment
       title: Assignment
@@ -57,9 +57,9 @@ parts:
       title: Digital Projects in the Assyriology
     - file: lesson_01/01_10_exercises
       title: Exercises
-    - file: lesson_01/01_09_vocab_signs
+    - file: lesson_01/01_11_vocab_signs
       title: Vocabulary & Signs 
-    - file: lesson_01/01_10_assignment
+    - file: lesson_01/01_12_assignment
       title: Assignment      
   - file: lesson_02/02_00_intro
     title: Lesson 2
@@ -86,7 +86,7 @@ parts:
       title: Exercises
     - file: lesson_02/02_11_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_02/02_13_assignment
+    - file: lesson_02/02_12_assignment
       title: Assignment
   - file: lesson_03/03_00_intro
     title: Lesson 3
@@ -101,7 +101,7 @@ parts:
       title: Pronominal Suffixes on Prepositions
     - file: lesson_03/03_05_pron-suff_verb
       title: Pronominal Suffixes on Verbs
-    - file: lesson_03/03_06_annotation
+    - file: lesson_03/03_06_annotations
       title: Annotations
     - file: lesson_03/03_07_exercises
       title: Exercises
@@ -118,11 +118,13 @@ parts:
       title: Demonstrative Adjectives
     - file: lesson_04/04_03_demons_pron
       title: Demonstrative Pronouns
-    - file: lesson_04/04_04_exercises
+    - file: lesson_04/04_04_word-alignment
       title: Exercises
-    - file: lesson_04/04_05_vocab-signs
+    - file: lesson_04/04_05_exercises
+      title: Exercises
+    - file: lesson_04/04_06_vocab-signs
       title: Vocabulary & Signs
-    - file: lesson_04/04_06_assignment
+    - file: lesson_04/04_07_assignment
       title: Assignment
   - file: lesson_05/05_00_intro
     title: Lesson 5
@@ -162,13 +164,13 @@ parts:
       title: Cohortative     
     - file: lesson_06/06_07_vetitive
       title: Vetitive
-    - file: lesson_06/06_07_precative-state-verbs-affirmative
-      title: Prohibitive
-    - file: lesson_06/06_06_exercises
+    - file: lesson_06/06_08_coordination-words-sentences
+      title: Coordination
+    - file: lesson_06/06_09_exercises
       title: Exercises
-    - file: lesson_06/06_07_vocabulary
+    - file: lesson_06/06_10_vocabulary
       title: Vocabulary
-    - file: lesson_06/06_08_assignment
+    - file: lesson_06/06_11_assignment
       title: Assignment
   - file: lesson_07/07_00_intro
     title: Lesson 7
@@ -194,13 +196,15 @@ parts:
       title: tan-Stem
     - file: lesson_08/08_03_ta-stem
       title: ta-Stem
-    - file: lesson_08/08_04_tan-stems
+    - file: lesson_08/08_04_ShD-stem
       title: The tan-stems
-    - file: lesson_08/08_05_exercises
+    - file: lesson_08/08_05_interrogation
+      title: Interrogation
+    - file: lesson_08/08_06_exercises
       title: Exercises
-    - file: lesson_08/08_06_vocabulary
+    - file: lesson_08/08_07_vocabulary
       title: Vocavbulary
-    - file: lesson_08/08_07_assignment
+    - file: lesson_08/08_08_assignment
       title: Assignment
   - file: lesson_09/09_00_intro
     title: Lesson 9
@@ -211,6 +215,8 @@ parts:
       title: Verbs I-n
     - file: lesson_09/09_03_1_w_verbs
       title: Verbs I-w
+    - file: lesson_09/09_04_dh-topic
+      title: DH Topic
     - file: lesson_09/09_05_exercises
       title: Exercises
     - file: lesson_09/09_06_vocabulary
@@ -220,45 +226,51 @@ parts:
   - file: lesson_10/10_00_intro
     title: Lesson 10
     sections:
-    - file: lesson_10/10_01_1_ʾ_verbs 
+    - file: lesson_10/10_01_1_aleph_verbs 
       title: Verbs I-ʾ
     - file: lesson_10/10_02_1_y_verbs
       title: Verbs I-y
     - file: lesson_10/10_03_relative-sentences
       title: Relative Sentences
-    - file: lesson_10/10_04_exercises
+    - file: lesson_10/10_04_dh-topic
+      title: DH Topic
+    - file: lesson_10/10_05_exercises
       title: Exercises
-    - file: lesson_10/10_05_vocabulary
+    - file: lesson_10/10_06_vocab-signs
       title: Vocavbulary
-    - file: lesson_10/10_06_assignment
+    - file: lesson_10/10_07_assignment
       title: Assignment
   - file: lesson_11/11_00_intro
     title: Lesson 11
     sections:
     - file: lesson_11/11_01_III_weak_verbs
       title: Weak Verbs 
-    - file: lesson_11/11_02_four_radical_verbs 
+    - file: lesson_11/11_02_four-radical-verbs 
       title: Four Radical Verbs
+    - file: lesson_11/11_03_dh-topic
+      title: DH-Topic
     - file: lesson_11/11_04_exercises
       title: Exercises
     - file: lesson_11/11_05_vocabulary
-      title: Vocavbulary
+      title: Vocabulary
     - file: lesson_11/11_06_assignment
       title: Assignment
   - file: lesson_12/12_00_intro
     title: Lesson 12
     sections:
-    - file: lesson_12/12_01_II_weak_verbs
+    - file: lesson_12/12_01_double_weak_verbs
       title: Double Weak Verbs 
     - file: lesson_12/12_02_special_verbs 
       title: Special Verbs
-    - file: lesson_12/12_03_subordinator 
+    - file: lesson_12/12_03_subordination 
       title: Subordinators
-    - file: lesson_12/12_04_exercises
+    - file: lesson_12/12_04_dh-topic
+      title: DH-Topic
+    - file: lesson_12/12_05_exercises
       title: Exercises
-    - file: lesson_12/12_05_vocabulary
+    - file: lesson_12/12_06_vocabulary
       title: Vocavbulary
-    - file: lesson_12/12_06_assignment
+    - file: lesson_12/12_07_assignment
       title: Assignment
 - caption: Appendix
   chapters:

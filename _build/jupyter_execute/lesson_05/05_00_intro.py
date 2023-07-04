@@ -1,55 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L5.1: Verbs II-Weak
-# These verbs are also known as "hollow roots" or "middle weak" because they have a long vowel in place of middle radical. Any of the four vowels can appear as a theme vowel.
+# # L5.0: Introduction
 # 
-# ## Theme vowel *ā*
-# There are only few verbs with this theme vowel:
 # 
-# ```{admonition} Example
-# *ibāš* (< *bâšum*) "he became ashamed".
-# ```
-# 
-# ## Theme vowel *ē*
-# Also medial *aleph* are counted with the verbs of theme vowel *ē*
-# 
-# ```{admonition} Example
-# *ibêl* (< *bêlum*) "he is ruling".
-# ```
-# 
-# ## Theme vowel *ū*
-# Hollow verbs with the htme vowel *ū* are the most common.
-# 
-# ```{admonition} Example
-# - *dâkum* "to kill".
-# - *târum* "to turn"
-# ```
-# 
-# ## Theme vowel *ī*
-# ```{admonition} Example
-# - *diānum* "to pronounce a verdict".
-# - *qiāšum* "to bestow"
-# - *šiānum* "to urinate"
-# ```
-# 
-# ## Conjugation of the verbs II-Weak
-# 
-# - When the personal suffix is a vowel the third radical is doubled (geminated):
-#     ```{admonition} Example
-#     *ikâ**n***, *iku**nn**ū*
-#     ``` 
-# 
-# - In G Durative the root vowel appears:
-#     ```{admonition} Example
-#     *ik**â**n*, *ik**u**nnū*
-#     ``` 
-# That is the reason for presenting the plural form in the following conjugation table.
-# 
-# |               | Durative         | Perfect           | Preterite    | Participle    | Infinitve | Verbal Adjective |
-# | -------       | --------------   | --------          | ---------    | ------------  | --------  | ---------------  | 
-# | G II-*ū*      | *ikân*, *ikunnū* | *iktūn*, *iktūnū* | *ikūn*, *ikūnū* | *dāʾikum*  | *kânum*   | *kīnum*          |
-# | G II-*ī*      | *iqīaš*, *iqiššū* | *iqtīš*, *iqtīšū* | *iqīš*, *iqīšū* | *qaʾišum* | *qâšum*   | *qīšum*          |
-# | G II-*ā*      | *ibâš*, *ibaššū* | *ibtaš*, *ibtašū* | *ibāš*, *ibāšū* | *baʾišum*  | *bâšum**  | --               |
-# | G II-*ē*      | *ibêl*, *ibellū* | *ibtēl*, *ibtēlū* | *ibēl*, *ibēlū* | **beʾilum* | *bêlum*   | --               |
-# 
+# - L5.1: [Nominal Verb Forms](05_01_nom-verb-forms.ipynb)
+# - L5.2: [Infinitive](05_02_infinitive.ipynb)
+# - L5.3: [Participle](05_03_participle.ipynb)
+# - L5.4: [Verbal Adjective](05_04_verbaladjective.ipynb)
+# - L5.5: [Stative](05_05_stative.ipynb)
+# - L5.6: [Verbless Sentences](05_06_verbless-sentences.ipynb)
+# - L5.7: [Exercises](05_07_exercises.ipynb)
+# - L5.8: [Vocabulary & Signs](05_08_vocab-signs.ipynb)
+# - L5.9: [Assignment](05_09_assignment.ipynb)

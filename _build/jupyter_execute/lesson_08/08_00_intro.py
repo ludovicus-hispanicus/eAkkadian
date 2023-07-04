@@ -3,10 +3,11 @@
 
 # # L8.0: Introduction
 # 
-# - L8.1: [Gt-Stem](08_01_gt-stem)
-# - L8.2: [Dt-Stem](08_02_dt-stem) 
-# - L8.3: [Št-Stem](08_03_št-stem)
-# - L8.4: [The *tan-*stems](08_04_tan-stems)
-# - L8.5: [Exercises](08_05_exercises)
-# - L8.6: [Vocabulary](08_06_vocabulary)
-# - L8.7: [Assignment](08_07_assignment)
+# - L8.1: [N-Stem](08_01_n-stem.ipynb)
+# - L8.2: [tan-Stems](08_02_tan-stem.ipynb) 
+# - L8.3: [ta-Stem](08_03_ta-stem.ipynb)
+# - L8.4: [ŠD-Stem](08_04_ShD-stem.ipynb)
+# - L8.5: [Interrogation](08_05_interrogation.ipynb)
+# - L8.6: [Exercises](08_06_exercises.ipynb)
+# - L8.7: [Vocabulary](08_07_vocabulary.ipynb)
+# - L8.8: [Assignment](08_08_assignment.ipynb)

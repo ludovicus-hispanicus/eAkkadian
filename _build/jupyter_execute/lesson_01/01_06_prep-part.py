@@ -5,7 +5,7 @@
 # GoA 2.3
 # ````
 # 
-# # L1.3 The Determinative Pronoun *ša*
+# # L1.6: The Determinative Pronoun *ša*
 # The Determinative pronoun *ša* means 'the one of' and has three functions:
 # 
 # ## Without a Reference Word

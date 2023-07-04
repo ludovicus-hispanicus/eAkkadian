@@ -49,7 +49,7 @@
 # | 1c.pl.  | *paris*         | *-ānu*    | *damqānu* | We are good   |   
 # 
 # ```{warning}
-# [Geminated verbs](/lesson_04/04_04_geminated-verbs.ipynb) can have a special conjugation pattern, because the reduplicated radical desappears and the vowel becomes long:
+# [Geminated verbs](/lesson_02/02_07_geminated-verbs.ipynb) can have a special conjugation pattern, because the reduplicated radical desappears and the vowel becomes long:
 # 
 # - *danānu* "to be strong" > *dān* "he is strong", but *dannāta* "you are strong"
 # ```

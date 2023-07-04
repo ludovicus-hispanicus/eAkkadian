@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L1.8: Exercises
+# # L1.10: Exercises
 # 
 # ## A. Nominal Inflection
 # Translate the following phrases into Akkadian:

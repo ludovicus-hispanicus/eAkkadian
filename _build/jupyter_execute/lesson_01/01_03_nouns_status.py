@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# (state)=
-# # L1.1: Status
+# # L1.3: Status
 # The status is the form the noun takes when it stands by itself or in relation to another noun. In Akkadian there are three status:
 # 
 # (st-rt)=

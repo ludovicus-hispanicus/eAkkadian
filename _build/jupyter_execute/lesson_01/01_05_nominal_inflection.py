@@ -6,7 +6,7 @@
 # ````
 # 
 # (nom-inflec)=
-# # L1.2 Nominal Inflection
+# # L1.5: Nominal Inflection
 # Nouns and adjectves are congruence i.e. the match up in case, gender and number:
 # 
 # ```{note}

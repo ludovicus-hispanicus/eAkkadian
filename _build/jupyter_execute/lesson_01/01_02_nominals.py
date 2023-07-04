@@ -4,7 +4,7 @@
 # ````{margin} Grammar references
 # GoA 3.1
 # ````
-# # L2.1: The Semantic Root
+# # L1.1: The Semantic Root
 # In the Akkadian language, as in all Semitic languages, most words consist of a **root**. A root is a sequence of consonants in which a pattern of internal vowels are used to modify it. Each consonant of the root is called **radical** (abb. R). Additionally prefixes, infixes, suffixes and consonant doubling can also be employed to modify it, in order to build verbs, adjectives, nouns and adverbs. See the following root:
 # 
 # <ruby><font size="5">P-</font><rp>(</rp><rt><i><font size="2">R₁</font></i></rt><rp>)</rp></ruby><ruby><font size="5">R-</font><rp>(</rp><rt><i><font size="2">R₂</font></i></rt><rp>)</rp></ruby><ruby><font size="5">S</font><rp>(</rp><rt><i><font size="2">R₃</font></i></rt><rp>)</rp></ruby> = to divide, separate, select, decide.

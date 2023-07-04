@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L1.10 Assignment
+# # L1.12: Assignment
 # 
 # ## A. Nominal Inflection - 1
 # Analyse and translate the following phrases into English:
