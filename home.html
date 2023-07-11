@@ -1,0 +1,1408 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>eAkkadian: An online Coursebook &#8212; eAkkadian</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="How to interact with this book" href="how-to/How-To-Interact-With-This-Book.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PW78G45323"></script>
+<script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){ dataLayer.push(arguments); }
+                    gtag('js', new Date());
+                    gtag('config', 'G-PW78G45323');
+                </script>
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+      
+      
+      <h1 class="site-logo" id="site-title">eAkkadian</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  How To
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="how-to/How-To-Interact-With-This-Book.html">
+   Interact with This Book
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="how-to/conventions-abbreviations.html">
+   Conventions &amp; Abbreviations
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  The Course
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="course-schedule.html">
+   Course Schedule
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  The Book
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="introduction/00_00_intro.html">
+   Introduction
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_01_akkadian_semitic_language.html">
+     Akkadian as a Semitic Language
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_02_history_periodisation.html">
+     History and Periodisation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_03_phonems_akkadian.html">
+     Phonems in Akkadian
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_04_cuneiform.html">
+     Cuneiform Script
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_05_syllabification.html">
+     Syllabification
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_06_dh.html">
+     What are Digital Humanities
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_07_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_08_vocabulary_signs.html">
+     Vocabulary &amp; Signs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="introduction/00_09_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_01/01_00_intro.html">
+   Lesson 1
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_01_semantic-root.html">
+     Semantic Root
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_02_nominals.html">
+     Nominals
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_03_nouns_status.html">
+     Status
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_04_status-constructus.html">
+     Status Constructus
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_05_nominal_inflection.html">
+     Nominal Inflection
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_06_prep-part.html">
+     Prepostion and Particles
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_07_adverb_noun_um.html">
+     Locative-Adverbiative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_08_adverb_noun_ish.html">
+     Terminative-Adverbiative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_09_digital-projects.html">
+     Digital Projects in the Assyriology
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_10_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_11_vocab_signs.html">
+     Vocabulary &amp; Signs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_01/01_12_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_02/02_00_intro.html">
+   Lesson 2
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_01_verbal-system.html">
+     Verbal System
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_02_G-stem.html">
+     The G-Stem
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_03_G-preterite.html">
+     The G Preterite
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_04_G-durative.html">
+     The G Durative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_05_G-perfect.html">
+     The G Perfect
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_06_peculiarities-strong-verbs.html">
+     Peculiarities of the Strong Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_07_geminated-verbs.html">
+     Geminated Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_08_verbless_sentences.html">
+     The Simple Sentence
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_09_regex.html">
+     Regular Expressions
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_10_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_11_vocab-signs.html">
+     Vocabulary &amp; Signs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_02/02_12_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_03/03_00_intro.html">
+   Lesson 3
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_01_pronouns.html">
+     Pronouns
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_02_pron-suff.html">
+     Pronominal Suffixes
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_03_pron-suff_noun.html">
+     Pronominal Suffixes on Nouns (Status Constructus part 2)
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_04_pron-suff_prep.html">
+     Pronominal Suffixes on Prepositions
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_05_pron-suff_verb.html">
+     Pronominal Suffixes on Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_06_annotations.html">
+     Annotations
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_07_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_08_vocab-signs.html">
+     Vocabulary &amp; Signs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_03/03_09_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_04/04_00_intro.html">
+   Lesson 4
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_01_denom_adjec.html">
+     Denominative Adjective
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_02_demons_adjec.html">
+     Demonstrative Adjectives
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_03_demons_pron.html">
+     Demonstrative Pronouns
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_04_word-alignment.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_05_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_06_vocab-signs.html">
+     Vocabulary &amp; Signs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_04/04_07_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_05/05_00_intro.html">
+   Lesson 5
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_01_nom-verb-forms.html">
+     Nominal Verbs Forms
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_02_infinitive.html">
+     Infinitive
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_03_participle.html">
+     Participle
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_04_verbaladjective.html">
+     Verbal Adjective
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_05_stative.html">
+     Stative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_06_verbless-sentences.html">
+     Stative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_07_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_08_vocab-signs.html">
+     Vocabulary &amp; Signs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_05/05_09_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_06/06_00_intro.html">
+   Lesson 6
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
+  <label for="toctree-checkbox-7">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_01_negation.html">
+     Negation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_02_modals.html">
+     Modals
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_03_imperative.html">
+     Imperative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_04_prohibitive.html">
+     Prohibitive
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_05_precative.html">
+     Precative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_06_cohortative.html">
+     Cohortative
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_07_vetitive.html">
+     Vetitive
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_08_coordination-words-sentences.html">
+     Coordination
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_09_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_10_vocabulary.html">
+     Vocabulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_06/06_11_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_07/07_00_intro.html">
+   Lesson 7
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
+  <label for="toctree-checkbox-8">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_07/07_01_d-stem.html">
+     D-Stem
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_07/07_02_%C5%A1-stem.html">
+     Š-Stem
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_07/07_03_subordination-relative-sentences.html">
+     Subordination and Relative Sentences
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_07/07_04_exercises.html">
+     Excercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_07/07_05_vocabulary.html">
+     Vocabulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_07/07_06_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_08/08_00_intro.html">
+   Lesson 8
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/>
+  <label for="toctree-checkbox-9">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_01_n-stem.html">
+     Gt-Stem
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_02_tan-stem.html">
+     tan-Stem
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_03_ta-stem.html">
+     ta-Stem
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_04_ShD-stem.html">
+     The tan-stems
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_05_interrogation.html">
+     Interrogation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_06_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_07_vocabulary.html">
+     Vocavbulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_08/08_08_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_09/09_00_intro.html">
+   Lesson 9
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/>
+  <label for="toctree-checkbox-10">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_01_weak_verbs.html">
+     Weak Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_02_1_n_verbs.html">
+     Verbs I-n
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_03_1_w_verbs.html">
+     Verbs I-w
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_04_dh-topic.html">
+     DH Topic
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_05_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_06_vocabulary.html">
+     Vocavbulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_09/09_07_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_10/10_00_intro.html">
+   Lesson 10
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/>
+  <label for="toctree-checkbox-11">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_01_1_aleph_verbs.html">
+     Verbs I-ʾ
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_02_1_y_verbs.html">
+     Verbs I-y
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_03_relative-sentences.html">
+     Relative Sentences
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_04_dh-topic.html">
+     DH Topic
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_05_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_06_vocab-signs.html">
+     Vocavbulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_10/10_07_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_11/11_00_intro.html">
+   Lesson 11
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/>
+  <label for="toctree-checkbox-12">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_11/11_01_III_weak_verbs.html">
+     Weak Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_11/11_02_four-radical-verbs.html">
+     Four Radical Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_11/11_03_dh-topic.html">
+     DH-Topic
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_11/11_04_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_11/11_05_vocabulary.html">
+     Vocabulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_11/11_06_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="lesson_12/12_00_intro.html">
+   Lesson 12
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/>
+  <label for="toctree-checkbox-13">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_01_double_weak_verbs.html">
+     Double Weak Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_02_special_verbs.html">
+     Special Verbs
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_03_subordination.html">
+     Subordinators
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_04_dh-topic.html">
+     DH-Topic
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_05_exercises.html">
+     Exercises
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_06_vocabulary.html">
+     Vocavbulary
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="lesson_12/12_07_assignment.html">
+     Assignment
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Appendix
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/signs.html">
+   Signs
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/numbers.html">
+   Numbers
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/nominal-forms.html">
+   Nominal Forms
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/paradigm-nouns.html">
+   Nominal Paradigm
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/paradigm-verbs.html">
+   Verbal Paradigm
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/vowel-contraction.html">
+   Vowel Contraction
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/mimmation-nunnation.html">
+   Mimmation and Nunnation
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/tense-aspect-mode.html">
+   Tense, Aspect and Mode
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="appendix/literary-genres.html">
+   Literary Genres
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Datasets
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="datasets/datasets.html">
+   Datasets
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="datasets/digital_projects.html">
+   Digital Projects
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Bibliography
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="how-to/how-to-use-print-literature.html">
+   Use Print Literature
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography/general_bibliography.html">
+   General Bibliography
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography/textbooks.html">
+   Akkadian Textbooks
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography/grammars.html">
+   Akkadian Grammars
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography/dictionaries.html">
+   Dictionaries and Lexica
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="bibliography/sign_lists.html">
+   Sign Lists
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Extra Material
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="extra_material/digital_tools.html">
+   Digital Tools
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Acknowledgements
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="acknowledgement.html">
+   Acknowledgements
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<div class="menu-dropdown menu-dropdown-launch-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Launch interactive content">
+      <i class="fas fa-rocket"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://mybinder.org/v2/gh/DigitalPasts/eAkkadian/main?urlpath=tree/home.ipynb"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Launch on Binder"
+>
+  
+
+<span class="headerbtn__icon-container">
+  
+    <img src="_static/images/logo_binder.svg">
+  </span>
+<span class="headerbtn__text-container">Binder</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/DigitalPasts/eAkkadian/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/DigitalPasts/eAkkadian//issues/new?title=Issue%20on%20page%20%2Fhome.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/home.ipynb"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.ipynb</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-is-akkadian">
+   What is Akkadian? 👅
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-is-this-online-course">
+   What is this online course? 🧑‍💻
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#why-a-jupiter-book">
+   Why a Jupiter Book? 🚀
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>eAkkadian: An online Coursebook</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-is-akkadian">
+   What is Akkadian? 👅
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-is-this-online-course">
+   What is this online course? 🧑‍💻
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#why-a-jupiter-book">
+   Why a Jupiter Book? 🚀
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="eakkadian-an-online-coursebook">
+<h1>eAkkadian: An online Coursebook<a class="headerlink" href="#eakkadian-an-online-coursebook" title="Permalink to this headline">#</a></h1>
+<p><strong>Design by the <a class="reference external" href="https://digitalpasts.github.io/">Digital Pasts Lab</a> // Powered by <a class="reference external" href="https://jupyterbook.org/">Jupyter Book</a></strong></p>
+<aside class="margin sidebar">
+<p class="sidebar-title"></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>There are three main sources for the Sennacherib’s third military campaign: <a class="reference external" href="https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp;ObjectID=P421809">Taylor Prism</a> in the British Museum. The <a class="reference external" href="https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp;ObjectID=P313081">Chicago Prism</a> in the Oriental Institute, University of Chicago, and the <a class="reference external" href="https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp;ObjectID=P430082">Jerusalem Prism</a> in the Israel Museum, Jerusalem</p>
+</div>
+</aside>
+<p>On the year 701 BCE the Assyrian King Sennacherib led his troops against rebellious kingdoms in the Levant. This was his third military campaign. In his annals, written in Akkadian on clay prisms, the narration begins as follows:</p>
+<figure class="align-default" id="detail-taylor-prism-3-campaign-png">
+<img alt="_images/taylor-prism-3-campaign_detail.png" src="_images/taylor-prism-3-campaign_detail.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 1 </span><span class="caption-text">Details from the <a class="reference external" href="https://www.britishmuseum.org/collection/object/W_1855-1003-1">Taylor Prism</a> of the third campaign.</span><a class="headerlink" href="#detail-taylor-prism-3-campaign-png" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Transliteration</p></th>
+<th class="head"><p>Translation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>(ii 37) <em>i-na šal-ši ger-ri-ia a-na</em> <sup>kur</sup><em>ḫa-at-ti lu al-lik</em> (ii 38) <sup>m</sup><em>lu-li-i</em> LUGAL <sup>uru</sup><em>ṣi-du-un-ni pul-ḫi me-lam-me</em> (ii 39) <em>be-lu-ti-ia is-ḫu-pu-šu-ma a-na ru-uq-qí</em> (ii 40) <em>qa-bal tam-tim in-na-bit-ma šad-da-šú e-mid</em> (ii 41) <sup>uru</sup><em>ṣi-du-un-nu</em> GAL*-ú* <sup>uru</sup><em>ṣi-du-un-nu ṣe-eḫ-ru</em> (ii 42) <sup>uru</sup>É-<em>zi-it-te</em> <sup>uru</sup><em>ṣa-ri-ip-tu</em> <sup>uru</sup><em>ma-ḫal-li-ba</em> (ii 43) <sup>uru</sup><em>ú-šu-ú</em> <sup>uru</sup><em>ak-zi-ba</em> <sup>uru</sup><em>ak-ku-ú</em> (ii 44) URU.MEŠ-<em>šú dan-nu-ti</em> É BÀD.MEŠ-<em>ni a-šar ri-i-ti</em> (ii 45) <em>ù maš-qí-ti</em> É <em>tuk-la-ti-šú ra-šub-bat</em> GIŠ.TUKUL <sup>d</sup><em>aš-šur</em> (ii 46) EN-<em>ia is-ḫu-pu-šú-nu-ti-ma ik-nu-šú</em> (ii 47) <em>še-pu-ú-a</em></p></td>
+<td><p>On my third campaign, I marched to the land Ḫatti. Fear of my lordly brilliance overwhelmed Lulî, the king of the city Sidon, and he fled afar into the midst of the sea. The awesome terror of the weapon of the god Aššur, my lord, overwhelmed the cities Great Sidon, Lesser Sidon, Bīt-Zitti, Ṣarepta, Maḫalliba, Ušû, Akzibu, (and) Acco, his fortified cities (and) fortresses, an area of pasture(s) and water-place(s), resources upon which he relied, and they bowed down at my feet.</p></td>
+</tr>
+</tbody>
+</table>
+<p>He marches all the way south until the gates of Jerusalem punishing those who rebelled and showing mercy to those who were loyal. With all his military power Sennacherib conquers one judean city after another including the fortification of Lachish and siege Jerusalem. Hezekiah, king of Juda, was among the rebellious kings. The narration continues:</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Transliteration</p></th>
+<th class="head"><p>Translation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>(iii 19) <em>ša la ik-nu-šú a-na ni-ri-ia</em> 46 URU.MEŠ-<em>šú</em> <em>dan-nu-ti</em> (iii 20) É BÀD.MEŠ <em>ù</em> URU.MEŠ TUR.MEŠ <em>ša li-me-ti-šú-nu</em> (iii 21) <em>ša ni-ba la i-šu-ú i-na šuk-bu-us a-ram-me</em> (iii 22) <em>ù qit-ru-ub šu-pi-i mit-ḫu-uṣ zu-uk</em> GÌR.II (iii 23) <em>pil-ši nik-si ù kal-ban-na-te al-me</em> KUR-<em>ud</em> (iii 24) 2 ME LIM 1 ME 50 UN.MEŠ TUR GAL NITA ù MUNUS (iii 25) ANŠE.KUR.RA.MEŠ ANŠE.KUNGA.MEŠ ANŠE.MEŠ ANŠE.GAM.MAL.MEŠ (iii 26) GU₄.MEŠ <em>ù ṣe-e-ni ša la ni-bi ul-tu qer-bi-šú-un</em> (iii 27) <em>ú-še-ṣa-am-ma šal-la-tiš am-nu šá-a-šú</em> GIM MUŠEN <em>qu-up-pi</em> (iii 28) <em>qé-reb</em> URU.<em>ur-sa-li-im-mu</em> URU LUGAL-<em>ti-šú</em> (iii 29) <em>e-sír-šú</em> URU.ḪAL.ṢU.MEŠ UGU-<em>šú ú-rak-kis-ma</em> (iii 30) <em>a-ṣe-e</em> KÁ.GAL URU-<em>šú ú-ter-ra ik-ki-bu-uš</em> URU.MEŠ-<em>šú</em> (iii 31) <em>ša áš-lu-la ul-tu qé-reb</em> KUR-<em>šú ab-tuq-ma</em> (iii 32) <em>a-na</em> <sup>m</sup><em>mi-ti-in-ti</em> LUGAL <sup>uru</sup><em>as-du-di</em> (iii 33) <sup>m</sup><em>pa-di-i</em> LUGAL <sup>uru</sup><em>am-qar-ru-na ù</em> <sup>m</sup>GISSU-EN (iii 34) LUGAL <sup>uru</sup><em>ḫa-zi-ti ad-din-ma ú-ṣa-aḫ-ḫir</em> KUR-<em>su</em> (iii 35) <em>e-li</em> GUN <em>maḫ-ri-ti na-dan šat-ti-šú-un</em>* (iii 36) <em>man-da-at-tu kàd-re-e be-lu-ti-ia ú-rad-di-ma</em> (iii 37) <em>ú-kin ṣe-ru-uš-šú šu-ú</em> […]</p></td>
+<td><p>Moreover, (as for) Hezekiah of the land Judah, who had not submitted to my yoke, I surrounded (and) conquered forty-six of his fortified cities, (iii 20) fortresses, and small(er) settlements in their environs, which were without number, by having ramps trodden down and battering rams brought up, the assault of foot soldiers, sapping, breaching, and siege engines. I brought out of them 200,150 people, young (and) old, male and female, (iii 25) horses, mules, donkeys, camels, oxen, and sheep and goats, which were without number, and I counted (them) as booty. (iii 27b) <strong>As for him (Hezekiah), I confined him inside the city Jerusalem, his royal city, like a bird in a cage.</strong> I set up blockades against him and (iii 30) made him dread exiting his city gate. I detached from his land the cities of his that I had plundered and I gave (them) to Mitinti, the king of the city Ashdod, Padî, the king of the city Ekron, and Ṣilli-Bēl, the king of the city Gaza, and (thereby) made his land smaller. (iii 35) To the former tribute, their annual giving, I added the payment (of) gifts (in recognition) of my overlordship and imposed (it) upon them (text: “him”).</p></td>
+</tr>
+</tbody>
+</table>
+<p>However for some reasons Sennacherib spared the life of Hiskia and did not take the city in exchange of tributes as is narrated in the Old Testament:</p>
+<div class="admonition-kings-18-14 admonition">
+<p class="admonition-title">2 Kings 18: 14</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="text-align:right head"><p>BHS</p></th>
+<th class="head"><p>KJV</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-align:right"><p>וַיִּשְׁלַח חִזְקִיָּה מֶלֶךְ־יְהוּדָה אֶל־מֶלֶךְ־אַשּׁוּר לָכִישָׁה לֵאמֹר חָטָאתִי שׁוּב מֵעָלַי אֵת אֲשֶׁר־תִּתֵּן עָלַי אֶשָּׂא וַיָּשֶׂם מֶלֶךְ־אַשּׁוּר עַל־חִזְקִיָּה מֶלֶךְ־יְהוּדָה שְׁלֹשׁ מֵאֹות כִּכַּר־כֶּסֶף וּשְׁלֹשִׁים כִּכַּר זָהָב׃</p></td>
+<td><p>And Hezekiah king of Judah sent to the king of Assyria to Lachish, saying, I have offended; return from me: that which thou puttest on me will I bear. And the king of Assyria appointed unto Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>As well as in the prism:</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Transliteration</p></th>
+<th class="head"><p>Translation</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>(iii 37b) <sup>m</sup><em>ḫa-za-qi-a-ú</em> (iii 38) <em>pul-ḫi me-lam-me be-lu-ti-ia is-ḫu-pu-šu-ma</em> (iii 39) LÚ.<em>úr-bi ù</em> LÚ.ERIM.MEŠ-<em>šú</em> SIG₅.MEŠ <em>ša a-na dun-nun</em> (iii 40) URU.<em>ur-sa-li-im-mu</em> URU LUGAL*-ti-šú ú-še-ri-bu-ma* (iii 41) <em>ir-šu-ú til-la-a-ti it-ti</em> 30 GUN <a class="reference external" href="http://K%C3%99.GI">KÙ.GI</a> (iii 42) 8 ME GUN KÙ.BABBAR <em>ni-siq-ti gu-uḫ-li</em> (iii 43) <em>ták-kàs-si</em> <a class="reference external" href="http://NA%E2%82%84.AN.ZA.GUL.ME">NA₄.AN.ZA.GUL.ME</a> GAL.MEŠ GIŠ.NÁ.MEŠ ZÚ (iii 44) GIŠ.GU.ZA.MEŠ <em>né-me-di</em> ZÚ KUŠ <a class="reference external" href="http://AM.SI">AM.SI</a> ZÚ <a class="reference external" href="http://AM.SI">AM.SI</a> (iii 45) GIŠ.ESI GIŠ.TÚG <em>mim-ma šum-šú ni-ṣir-tu ka-bit-tu</em> (iii 46) <em>ù</em> DUMU.MUNUS.MEŠ-<em>šú</em> MUNUS.UN.MEŠ É.GAL-<em>šú</em> LÚ.NAR.MEŠ (iii 47) MUNUS.NAR.MEŠ (a-na qé-reb) <a class="reference external" href="http://NINA.KI">NINA.KI</a> URU <em>be-lu-ti-ia</em> (iii 48) EGIR-<em>ia ú-še-bi-lam-ma a-na na-dan man-da-at-te</em> (iii 49) <em>ù e-peš</em> ARAD-<em>ú-ti iš-pu-ra rak-bu-šú</em></p></td>
+<td><p>(iii 37b) As for him, Hezekiah, fear of my lordly brilliance overwhelmed him and, after my (departure), he had the auxiliary forces and his elite troops whom (iii 40) he had brought inside to strengthen the city Jerusalem, his royal city, thereby gaining reinforcements, along with 30 talents of gold, 800 talents of silver, choice antimony, large blocks of …, ivory beds, armchairs of ivory, elephant hide(s), elephant ivory, (iii 45) ebony, boxwood, every kind of valuable treasure, as well as his daughters, his palace women, male singers, (and) female singers brought into Nineveh, my capital city, and he sent a mounted messenger of his to me to deliver (this) payment and to do obeisance.</p></td>
+</tr>
+</tbody>
+</table>
+<p>This is one of the most famous assyrian prisms and Akkadian texts.</p>
+<section id="what-is-akkadian">
+<h2>What is Akkadian? 👅<a class="headerlink" href="#what-is-akkadian" title="Permalink to this headline">#</a></h2>
+<p>But what is Akkadian? This prism is written in Akkadian, more especifically in the Standard Babylonian dialect of Akkadian, the official language of the Assyrian kings. Akkadian is due to his geographical and chronological distrbution one of most important languages in the Ancient Near East. Its written tradition is likewise only comparable to latin (Streck {cite:year}). This language was in antiquity the <em>lingua franca</em> in the Ancient Near East. It was written with the so-called <a class="reference internal" href="introduction/00_04_cuneiform.html#cuneif"><span class="std std-ref">cuneiform</span></a> script on wet clay, stones, metall, etc. Its decipherment was an accomplishment of many generations of scholars and its understanding brought light into the culture, science, literature, magic and history of the Ancient Near East and therefore of the Old Testament as well.</p>
+</section>
+<section id="what-is-this-online-course">
+<h2>What is this online course? 🧑‍💻<a class="headerlink" href="#what-is-this-online-course" title="Permalink to this headline">#</a></h2>
+<p>This website hosts an online course book, <em>eAkkadian</em>, which offers a short introduction to the Akkadian language. By the end of this course the reading the prism presented above will be as easy as reading a tabloid.</p>
+</section>
+<section id="why-a-jupiter-book">
+<h2>Why a <a class="reference external" href="https://jupyterbook.org/en/stable/intro.html">Jupiter Book</a>? 🚀<a class="headerlink" href="#why-a-jupiter-book" title="Permalink to this headline">#</a></h2>
+<p>Jupyter Notebooks offer a very powerful platform for dynamic content. So this book aim not just to be a regular textbook but rather an interactive <em>vademecum</em> for the Akkadian language and culture.</p>
+</section>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='right-next' id="next-link" href="how-to/How-To-Interact-With-This-Book.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">How to interact with this book</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Shai Gordin & Luis Sáenz<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
