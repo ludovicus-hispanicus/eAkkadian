@@ -1,84 +1,50 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # L3.4: Pronominal Suffixes on Verbs
-# When a sufix is attached to a verb only the [dative](pron-suff_dat) or [accusative](pron-suff_akk) are used.
+# # Semantic Annotations
 # 
-# ```{admonition} Example
-# - *ašpur* "I wrote → *ašpurkum* "I wrote to you"
-# - *iṣbat* "He has seized" → *iṣbatni* "He seized me"
-# ```
+# Semantic annotations refer to the process of adding metadata or labels to textual or multimedia content to provide additional contextual information and meaning. These annotations are used to enhance the understanding, organization, and retrieval of information by both humans and machines.
 # 
-# ## Rules for the Suffixes
-# - All conjugated forms can have a personal suffix.
-# - Both ([dative](pron-suff_dat) and [accusative](pron-suff_akk)) can be used in the same verb.
-# - Order: Verb + dative + accusative
-#   ```{admonition} Example
-#   - *iṭrudū* + *kunūšim* + *šunūti* > *iṭrudūkunūšiššunūti* "They (masc. plu.) sent them (masc. plu.) to you (masc. plu.)"
-#   ```
-# - When the final consonant of the root is a dental (*d, t, ṭ*) or a sibilant (*s, ṣ, š, z*), it changes to ***ss*** before the *š* of the 3rd person.
-#   ```{admonition} Example
-#   - *imhaṣ* + *šu* > *imhassu*  "He hit him"
-#   - *taṭrud* + *šu* > *tatrussu* "You sent him"
-#   ```
+# Semantic annotations can be applied at different levels, such as word or phrase level, document level, or even across multiple documents. The annotations may include various types of information, such as:
 # 
-# - The consonant *m* of some suffixes in final position assimilates to the next consonant.
-#   ```{admonition} Example
-#   - *iṭrudū* + *kunūšim* + *šunūti* > *iṭrudūkunūšiššunūti* "They (masc. plu.) sent them (masc. plu.) to you (masc. plu.)"
-#   ```
+#     1. Entity Recognition: Identifying and labeling named entities in text, such as names of people, organizations, locations, dates, etc. This helps in extracting specific information and understanding the relationships between entities.
 # 
-# ```{admonition} Good-to-know 🤓
-# :class: tip
-# After the old Babylonian the accusative begins to replace the dative. 
-# ```
+#     2. Part-of-Speech (POS) Tagging: Assigning grammatical tags to each word in a sentence, indicating its role and function (e.g., noun, verb, adjective, etc.). POS tagging aids in syntactic analysis and understanding the grammatical structure of text.
 # 
-# ## The Ventiv
-# The pronominal suffix of the 1st. singular *-am*, *-m*, *-nim* can be used to enlarge the forms with suffixes. It expresses originally the directional idea "to me", but it is understood in the widest meaning of an action in direction of the speaker. This is called **ventiv**. It occurs chiefly with verbs of movement and of sending, often corresponds to English "here" versus "there". 
+#     3. Sentiment Analysis: Assigning sentiment labels (positive, negative, neutral) to text or parts of text to determine the overall sentiment expressed. This is useful in analyzing opinions, reviews, and social media sentiment.
 # 
-# ```{admonition} Example
-# *wabālu* "to carry, bring" + ventive = to bring to a destination.
-# - *ubbal* "he bings" ⇔ *ubbal-am* "he brings to a destination".
-# *alāku* "gehen" + ventive = to go to a destination.
-# - *illik* "he went" ⇔ *illik-am* "he went to a destination" = "he came". 
-# ```
+#     4. Topic Modeling: Assigning topics or themes to documents or text segments based on their content. Topic modeling algorithms can automatically discover the main subjects or themes discussed in a collection of documents.
 # 
-# Nevertheless this distinction is not always possible or necessary, because sometimes the ventive seems to be used rather for emphasising. The dative and accusative suffixes are placed after the ventive forms. 
+#     5. Relation Extraction: Identifying and labeling relationships between entities in text. For example, extracting relationships like "person A works for organization B" from a set of sentences.
 # 
-# ```{important}
-# The consonant *-m* is assimilated to the next consonant.
-# - *-am* + *kum* → *akkum*
-# - *-am* + *ni* → *anni*
-# - *-nim* + *ni* → *ninni*
-# ```
+# Semantic annotations provide a way to make content more accessible, searchable, and interconnected. They enable advanced information retrieval techniques, such as faceted search, where users can filter and explore information based on different semantic criteria. Additionally, these annotations are essential for various natural language processing (NLP) tasks, such as information extraction, question answering, and text summarization.
 # 
-# ## Verbs with Pronominal Suffixes in Dative
-# | Suffix        | Verb + (ventiv *-am*) + 3 masc. sing | Verb + (ventiv *-m*) + 2 fem. sing. | Verb + (ventiv *-nim*) + 3 masc. plu. | Translation  | 
-# |--------       | ------                | ----------------- |--------           | ------------ | 
-# | 3 sing. masc. | *išpur(aš)šum*        | *tašpurī(š)šum*   | *išpurū(niš)šum*  | He/You/They sent to him             
-# | 3 sing. fem.  | *išpur(aš)šim*        | *tašpurī(š)šim*   | *išpurū(niš)šim*   | He/You/They sent to her            
-# | 2 sing. masc. | *išpur(ak)kum*        |                   | *išpurū(nik)kum*   | He/You/They sent to you          
-# | 2 sing. fem.  | *išpur(ak)kim*        |                   | *išpurū(nik)kim*   | He/You/They sent to you            
-# | 1 sing. com.  | *išpuram*             | *tašpurīm*        | *išpurūnim*        | He/You/They sent to me
-# | 3 plu. masc.  | *išpur(aš)šunūšim*    | *tašpurī(š)šunūšim*   | *išpurū(niš)šunūšum*  | He/You/They sent to them 
-# | 3 plu. fem.   | *išpur(aš)šināšim*    | *tašpurī(š)šināšim*   | *išpurū(niš)šināšum*   | He/You/They sent to them
-# | 2 plu. masc.  | *išpur(ak)kunūšim*    |                   | *išpurū(nik)kunūšim*      | He/You/They sent to you
-# | 2 plu. fem.   | *išpur(ak)kināšim*    |                   | *išpurū(nik)kināšim*      | He/You/They sent to you
-# | 1 plu. com.   | *išpur(an)niāšim*     | *tašpurī(n)niāšim* | *išpurū(nin)niāšim*       | He/You/They sent to us
+# The process of adding semantic annotations can be performed manually by human annotators or automated using machine learning techniques, such as named entity recognition (NER), sentiment analysis models, or topic modeling algorithms.
 # 
-# ```{warning}
-# When the verb in plural ends with a wowel the form *-nim* is used.
-# ```
-# ## Verbs with Pronominal Suffixes in Accusative
-# | Suffix        |  Verb + (ventiv *-am*) + 3 masc. sing  | Verb + (ventiv *-m*) + 2 fem. sing. | Verb + (ventiv *-nim*) + 3 masc. plu. | Translation  | 
-# |--------       | ------               |--------              | ------------            | ------------ |  
-# | 3 sing. masc. | *išpur(aš)šu*        | *tašpurī(š)šu*       | *išpurū(niš)šu*         | He/You/They sent him             
-# | 3 sing. fem.  | *išpur(aš)ši*        | *tašpurī(š)ši*       | *išpurū(niš)ši*          | He/You/They sent her            
-# | 2 sing. masc. | *išpur(ak)ka*        |                      | *išpurū(nik)ka*          | He/You/They sent you          
-# | 2 sing. fem.  | *išpur(ak)ki*        |                      | *išpurū(nik)ki*          | He/You/They sent you            
-# | 1 sing. com.  | *išpuranni*           | *tašpurīnni*        | *išpurūninni*            | He/You/They sent me
-# | 3 plu. masc.  | *išpur(aš)šunūti*    | *tašpurī(š)šunūti*   | *išpurū(niš)šunūti*      | He/You/They sent them 
-# | 3 plu. fem.   | *išpur(aš)šinati*    | *tašpurī(š)šināti*   | *išpurū(niš)šināti*      | He/You/They sent them
-# | 2 plu. masc.  | *išpur(ak)kunūti*    |                      | *išpurū(nik)kunūti*     | He/You/They sent you
-# | 2 plu. fem.   | *išpur(ak)kināti*    |                      | *išpurū(nik)kināti*     | He/You/They sent you
-# | 1 plu. com.   | *išpur(an)niātim*     | *tašpurī(n)niāti*   | *išpurū(nin)niāti*       | He/You/They sent us
+# ## Annotating Akkadian Texts
+# 
+# First, we want to prepare the text:
+# Let’s go for example to the website of ORACC. Let’s download, for example, SAA 5, 001 in ATF format. 
+# 		
+# 		[Copy and paste SAAo 05 001]
+# 
+# There are many ways to download it. We could download the whole SAA 05 or even SAA. 
+# 
+# We can’t go into details, but you can process the text using regex. If you want to process, for example, all the data of SAAo at once, you can follow the instruction in Compass, the Jupyter Notebook of Niek Veldlhuis.
+# 
+# Save the normalized text and the translation as two different text files.
+# 
+# 		[Show the files in the explorer]	
+# 	
+# For the annotations, we use INCEpTION. 
+# 
+# [Show INCEpTION website]
+# 
+# This is a powerful and flexible annotation platform that assists researchers and practitioners in efficiently annotating and preparing text data for training and evaluating NLP models. This annotation tool offers support for machine learning models integration, allowing users to train and improve NLP models using the annotated data.
+# 
+# Open the text file in INCEpTION and make the annotations you want. You can add many layers of annotations.
+# 
+# 		[Show the CONLLU file in Chrome]
+# 
+# In this way you can have a close reading of an Akkadian text and understand the syntactic relationship within a sentence. As stated before This data can be later used. An article on this topic by Matthew Ong and Shai Gordin is being reviewed.
 # 

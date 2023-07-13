@@ -5,7 +5,7 @@
 # GoA 28.2
 # ```
 # 
-# # L1.8: Terminative-Adverbiative *-iš*
+# # L1.8: Terminative-Adverbiative
 # The ending *-iš* had originally a terminative, later locative, function. It corresponds semantically to the preposition *ana* plus genitive. It can occur on nouns and adjectives:
 # 
 # ```{admonition} Example

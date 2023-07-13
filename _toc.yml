@@ -9,8 +9,8 @@ parts:
     title: Conventions & Abbreviations
 - caption: The Course
   chapters:
-  - file: course-schedule
-    title: Course Schedule
+  - file: course-schedule WS 2023-2024
+    title: Course Schedule WS 2023-2024
 - caption: The Book
   chapters:
   - file: introduction/00_00_intro
