@@ -9,8 +9,8 @@ parts:
     title: Conventions & Abbreviations
 - caption: The Course
   chapters:
-  - file: course-schedule WS 2023-2024
-    title: Course Schedule WS 2023-2024
+  - file: course-schedule
+    title: Course Schedule
 - caption: The Book
   chapters:
   - file: introduction/00_00_intro
@@ -119,7 +119,7 @@ parts:
     - file: lesson_04/04_03_demons_pron
       title: Demonstrative Pronouns
     - file: lesson_04/04_04_word-alignment
-      title: Exercises
+      title: Word Alignment
     - file: lesson_04/04_05_exercises
       title: Exercises
     - file: lesson_04/04_06_vocab-signs

@@ -112,3 +112,7 @@
 #    - <font size="11">𒋳</font> = *šum*
 #    - <font size="11">𒌉</font> = DUMU = *māru*
 #    ```
+# 
+# ## H. Annotating Akkadian Texts
+# Search for the text SAA 1, 41 in the ORACC Project ``State Archive of Assyria online'' and annotate the the morphological features.
+# 

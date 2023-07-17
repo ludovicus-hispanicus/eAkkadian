@@ -119,4 +119,11 @@
 # 
 # 10. <font size="11">𒄿𒁲𒅅𒆷𒀜</font> 
 # 
+# ## F. Search
+# We want to learn how to perform searches in the different digital projects.
+# 
+# 1. ORACC
+# 2. eBL
+# 3. CDLI
+# 4. SEAL
 # 

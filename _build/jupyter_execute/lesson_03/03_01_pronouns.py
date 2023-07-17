@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # (pron-1)=
-# # L1.6: Pronouns Part 1
+# # L1.6: Pronouns
 # There are six types of demostrantive pronouns
 # 
 # - Personal

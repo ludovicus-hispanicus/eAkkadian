@@ -112,3 +112,8 @@
 #    - <font size="11">𒋳</font> = *šum*
 #    - <font size="11">𒌉</font> = DUMU = *māru*
 #    ```
+# 
+# ## H. Akkadian-English Alignment
+# 
+# Search for CTN 4, 093 in the ORACC project ``Bilinguals in Late Mesopotamian Scholarship'' and align the akkadian-sumerian-english vocabulary.
+# 

@@ -66,5 +66,7 @@
 # This input method can also be used for special charachters.
 # 
 # ## Hypothesis
+# [Hypothesis](https://web.hypothes.is/) an open-source software that enables sentence-level note-taking or critique on top of classroom reading, news, blogs, scientific articles, books and more. This allows the user to take notes in a virtual room that every member of the group will see. This also offers a place for discussion, as well as corrections. 
 # 
+# Follow the instruction in the link above to create an account and install the extension.
 # 

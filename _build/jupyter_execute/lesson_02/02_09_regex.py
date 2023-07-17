@@ -16,4 +16,39 @@
 # 
 # Regex syntax may vary slightly depending on the programming language or tool you are using, but the basic concepts and most commonly used symbols are generally consistent. Regex can be a complex topic, but mastering it can greatly enhance your ability to work with text in various programming and data processing tasks.
 # 
+# ## Examples
+# Here are some examples of how regular expressions (regex) can be used with a novel:
+# 
+# Find All Occurrences of a Character:
+# 
+#     [Aa]lice
+# 
+# This regex pattern will match both "Alice" and "alice" in the text. You can use it to find all instances of the character name "Alice" regardless of the capitalization.
+# 
+# Match Dialogue:
+# 
+#     "[^"]+"
+# 
+# This regex pattern can be used to match dialogue within quotation marks. It will capture any text enclosed in double quotation marks, which is commonly used to represent spoken words in a novel.
+# 
+# Replace All Instances of a Word:
+# 
+#     \bcat\b
+# 
+# This regex pattern will match the word "cat" as a whole word and not as part of another word. You can use it to replace all instances of the word "cat" with another word or phrase.
+# 
+# Find Sentences Ending with an Exclamation Mark:
+# 
+#     [^.!?]*!
+# 
+# This regex pattern will match sentences that end with an exclamation mark. It captures all text before the exclamation mark, allowing you to identify and analyze instances of exclamation in the novel.
+# 
+# Match Character Descriptions:
+# 
+#     [A-Z][a-zA-Z]+\s[A-Z][a-zA-Z]+
+# 
+# This regex pattern can be used to match character names in title case. It assumes that character names consist of two words, with the first letter capitalized for each word. You can use it to identify character introductions and analyze their presence in the novel.
+# 
+# These examples demonstrate how regex can be used to search for and manipulate text patterns within a novel. The specific patterns you use will depend on the context and requirements of your analysis.
+# 
 # Mocktext created by ChatGPT

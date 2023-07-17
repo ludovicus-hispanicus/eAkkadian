@@ -13,18 +13,33 @@
 # 
 # Word alignment is crucial in various applications apart from machine translation. It is used in tasks like bilingual dictionary construction, cross-lingual information retrieval, and corpus analysis. It helps in building resources and models that enable effective language processing and understanding across different languages.
 # 
-# ## Akkadian-English Alignment
+# # How to align words in different languages
+# → Open the text files with we cerated for the assignment of semantic annotations.
+# → Go to [UGARIT](https://ugarit.ialigner.com/main.php) and follow there the instruction to cerate an account add there the Akkadian and English text files.
 # 
-# In the next step we can make word alignments. We open the SAA 5 text we used before and the translation text file
-# 
-# Now we go to UGARIT and add there the Akkadian and English text files.
-# 
+# ```{Admonition} ugarit
 # Ugarit is a platform a simple and user-friendly environment to facilitate the collection of aligned pairs, which could then be used as training data for the development of automatic translation, alignment models, translations studies, etc
+# ```
 # 
-# Align the Akkadian-English equivalences. 
-# Save and close
+# → Open a new alignment project and put the Akkadina and English texts respectively:
 # 
-# This method gives the student also a closer reading of the akkadian text as he or she has to know what is the equivalent of an Akkadian word in English. Again the generated data 
+# ```{figure} ../images/ugarit_new-alignment.png
+# ---
+# name: ugarit_new-alignment 
+# ---
+# New Akkadian-English alignment project.
+# ```
 # 
-# 	[export the csv. File from UGARIT]
+# → Align the Akkadian-English equivalences. 
+# → Save and close
+# 
+# ```{figure} ../images/ugarit_saao5_001.png
+# ---
+# name: ugarit_aligned_saao5_001 
+# ---
+# Aligned Akkadian-English words.
+# ```
+# 
+# This method gives the student a closer reading of the akkadian text as he or she has to know what is the equivalent of an Akkadian word in English. The generated data can be used for other NLP tasks.
+# 
 # 

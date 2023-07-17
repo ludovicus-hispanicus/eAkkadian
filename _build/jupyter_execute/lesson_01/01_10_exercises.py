@@ -39,7 +39,7 @@
 # 
 # ```{admonition} Solution
 # :class: dropdown  
-# - **Transliteration** : URU-*am*
+# - **Transliteration** : URU-*im*
 # - **Normalisation**: *ālim*
 # - **Translation**: city
 # - **Status**: *status rectus*

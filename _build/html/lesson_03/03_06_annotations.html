@@ -133,8 +133,8 @@ const thebe_selector_output = ".output, .cell_output"
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="../course-schedule%20WS%202023-2024.html">
-   Course Schedule WS 2023-2024
+  <a class="reference internal" href="../course-schedule.html">
+   Course Schedule
   </a>
  </li>
 </ul>
@@ -429,7 +429,7 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="../lesson_04/04_04_word-alignment.html">
-     Exercises
+     Word alginment
     </a>
    </li>
    <li class="toctree-l2">
@@ -1187,8 +1187,8 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#annotating-akkadian-texts">
-   Annotating Akkadian Texts
+  <a class="reference internal nav-link" href="#how-to-annotate-akkadian-texts">
+   How to Annotate Akkadian Texts
   </a>
  </li>
 </ul>
@@ -1211,8 +1211,8 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#annotating-akkadian-texts">
-   Annotating Akkadian Texts
+  <a class="reference internal nav-link" href="#how-to-annotate-akkadian-texts">
+   How to Annotate Akkadian Texts
   </a>
  </li>
 </ul>
@@ -1229,40 +1229,54 @@ title="Print to PDF"
 <h1>Semantic Annotations<a class="headerlink" href="#semantic-annotations" title="Permalink to this headline">#</a></h1>
 <p>Semantic annotations refer to the process of adding metadata or labels to textual or multimedia content to provide additional contextual information and meaning. These annotations are used to enhance the understanding, organization, and retrieval of information by both humans and machines.</p>
 <p>Semantic annotations can be applied at different levels, such as word or phrase level, document level, or even across multiple documents. The annotations may include various types of information, such as:</p>
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>1. Entity Recognition: Identifying and labeling named entities in text, such as names of people, organizations, locations, dates, etc. This helps in extracting specific information and understanding the relationships between entities.
-
-2. Part-of-Speech (POS) Tagging: Assigning grammatical tags to each word in a sentence, indicating its role and function (e.g., noun, verb, adjective, etc.). POS tagging aids in syntactic analysis and understanding the grammatical structure of text.
-
-3. Sentiment Analysis: Assigning sentiment labels (positive, negative, neutral) to text or parts of text to determine the overall sentiment expressed. This is useful in analyzing opinions, reviews, and social media sentiment.
-
-4. Topic Modeling: Assigning topics or themes to documents or text segments based on their content. Topic modeling algorithms can automatically discover the main subjects or themes discussed in a collection of documents.
-
-5. Relation Extraction: Identifying and labeling relationships between entities in text. For example, extracting relationships like &quot;person A works for organization B&quot; from a set of sentences.
-</pre></div>
-</div>
+<ol class="simple">
+<li><p>Entity Recognition: Identifying and labeling named entities in text, such as names of people, organizations, locations, dates, etc. This helps in extracting specific information and understanding the relationships between entities.</p></li>
+<li><p>Part-of-Speech (POS) Tagging: Assigning grammatical tags to each word in a sentence, indicating its role and function (e.g., noun, verb, adjective, etc.). POS tagging aids in syntactic analysis and understanding the grammatical structure of text.</p></li>
+<li><p>Sentiment Analysis: Assigning sentiment labels (positive, negative, neutral) to text or parts of text to determine the overall sentiment expressed. This is useful in analyzing opinions, reviews, and social media sentiment.</p></li>
+<li><p>Topic Modeling: Assigning topics or themes to documents or text segments based on their content. Topic modeling algorithms can automatically discover the main subjects or themes discussed in a collection of documents.</p></li>
+<li><p>Relation Extraction: Identifying and labeling relationships between entities in text. For example, extracting relationships like “person A works for organization B” from a set of sentences.</p></li>
+</ol>
 <p>Semantic annotations provide a way to make content more accessible, searchable, and interconnected. They enable advanced information retrieval techniques, such as faceted search, where users can filter and explore information based on different semantic criteria. Additionally, these annotations are essential for various natural language processing (NLP) tasks, such as information extraction, question answering, and text summarization.</p>
 <p>The process of adding semantic annotations can be performed manually by human annotators or automated using machine learning techniques, such as named entity recognition (NER), sentiment analysis models, or topic modeling algorithms.</p>
-<section id="annotating-akkadian-texts">
-<h2>Annotating Akkadian Texts<a class="headerlink" href="#annotating-akkadian-texts" title="Permalink to this headline">#</a></h2>
-<p>First, we want to prepare the text:
-Let’s go for example to the website of ORACC. Let’s download, for example, SAA 5, 001 in ATF format.</p>
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>	[Copy and paste SAAo 05 001]
-</pre></div>
+<section id="how-to-annotate-akkadian-texts">
+<h2>How to Annotate Akkadian Texts<a class="headerlink" href="#how-to-annotate-akkadian-texts" title="Permalink to this headline">#</a></h2>
+<p>First, we will prepare one text as an example:</p>
+<p>→ Go to <a class="reference external" href="http://oracc.museum.upenn.edu/saao/saa05/corpus">ORACC/SAAo/SAAo5</a></p>
+<figure class="align-default" id="saao-5">
+<img alt="../_images/SAAo5.png" src="../_images/SAAo5.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 3 </span><span class="caption-text">Browse SAAo 5.</span><a class="headerlink" href="#saao-5" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<p>→ Select the transliteration and translation and then copy and paste it in your Quelltext-Editor, e.g. SAA 5, 001.</p>
+<figure class="align-default" id="select-text-saao-5">
+<img alt="../_images/select_ssao5.png" src="../_images/select_ssao5.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 4 </span><span class="caption-text">Selected text of SAAo 5 001.</span><a class="headerlink" href="#select-text-saao-5" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>There are many ways to download it. We could download the whole SAA 05 or even SAA. You can follow the instruction in <a class="reference external" href="https://github.com/niekveldhuis/compass">Compass</a>, the Jupyter Notebook of Niek Veldlhuis, for downloading the whole SAA corpus and cleaning the data for the purposes you need.</p>
 </div>
-<p>There are many ways to download it. We could download the whole SAA 05 or even SAA.</p>
-<p>We can’t go into details, but you can process the text using regex. If you want to process, for example, all the data of SAAo at once, you can follow the instruction in Compass, the Jupyter Notebook of Niek Veldlhuis.</p>
-<p>Save the normalized text and the translation as two different text files.</p>
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>	[Show the files in the explorer]	
-</pre></div>
-</div>
-<p>For the annotations, we use INCEpTION.</p>
-<p>[Show INCEpTION website]</p>
+<p>→ Prepare the Akkadian text and the translation as follow using RegEx:</p>
+<figure class="align-default" id="transliteration-translation-saao-5-001">
+<img alt="../_images/transliteartion-translation_SAAo5_001.png" src="../_images/transliteartion-translation_SAAo5_001.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 5 </span><span class="caption-text">Cleaned translitearation and translation of SAAo 5 001.</span><a class="headerlink" href="#transliteration-translation-saao-5-001" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<p>→ Save the normalized text and the translation as two different text files.</p>
+<p>For the annotations, we use <a class="reference external" href="https://inception-project.github.io/">INCEpTION</a>.</p>
 <p>This is a powerful and flexible annotation platform that assists researchers and practitioners in efficiently annotating and preparing text data for training and evaluating NLP models. This annotation tool offers support for machine learning models integration, allowing users to train and improve NLP models using the annotated data.</p>
-<p>Open the text file in INCEpTION and make the annotations you want. You can add many layers of annotations.</p>
-<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>	[Show the CONLLU file in Chrome]
-</pre></div>
-</div>
-<p>In this way you can have a close reading of an Akkadian text and understand the syntactic relationship within a sentence. As stated before This data can be later used. An article on this topic by Matthew Ong and Shai Gordin is being reviewed.</p>
+<p>→ Open the text file in INCEpTION and make the annotations you want. You can add many layers of annotations.</p>
+<figure class="align-default" id="saao5-001-annotated">
+<img alt="../_images/inception_saao5_001.png" src="../_images/inception_saao5_001.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 6 </span><span class="caption-text">Annotated Akkadian text in INCEpTION.</span><a class="headerlink" href="#saao5-001-annotated" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<p>In this way you can have a close reading of an Akkadian text and understand the syntactic relationship within a sentence. This data can be later used for NLP tasks. An article on this topic by Matthew Ong and Shai Gordin is being reviewed.</p>
 </section>
 </section>
 

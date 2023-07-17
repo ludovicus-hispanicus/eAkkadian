@@ -133,8 +133,8 @@ const thebe_selector_output = ".output, .cell_output"
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="../course-schedule%20WS%202023-2024.html">
-   Course Schedule WS 2023-2024
+  <a class="reference internal" href="../course-schedule.html">
+   Course Schedule
   </a>
  </li>
 </ul>
@@ -1164,12 +1164,36 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#examples">
+   Examples
+  </a>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -1181,6 +1205,19 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#examples">
+   Examples
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -1200,7 +1237,37 @@ title="Print to PDF"
 <li><p>Text manipulation: Regex provides powerful tools for modifying and transforming text. You can use it to find and replace specific patterns, add or remove certain elements, or reformat text according to your needs.</p></li>
 </ol>
 <p>Regex syntax may vary slightly depending on the programming language or tool you are using, but the basic concepts and most commonly used symbols are generally consistent. Regex can be a complex topic, but mastering it can greatly enhance your ability to work with text in various programming and data processing tasks.</p>
+<section id="examples">
+<h2>Examples<a class="headerlink" href="#examples" title="Permalink to this headline">#</a></h2>
+<p>Here are some examples of how regular expressions (regex) can be used with a novel:</p>
+<p>Find All Occurrences of a Character:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>[Aa]lice
+</pre></div>
+</div>
+<p>This regex pattern will match both “Alice” and “alice” in the text. You can use it to find all instances of the character name “Alice” regardless of the capitalization.</p>
+<p>Match Dialogue:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>&quot;[^&quot;]+&quot;
+</pre></div>
+</div>
+<p>This regex pattern can be used to match dialogue within quotation marks. It will capture any text enclosed in double quotation marks, which is commonly used to represent spoken words in a novel.</p>
+<p>Replace All Instances of a Word:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>\bcat\b
+</pre></div>
+</div>
+<p>This regex pattern will match the word “cat” as a whole word and not as part of another word. You can use it to replace all instances of the word “cat” with another word or phrase.</p>
+<p>Find Sentences Ending with an Exclamation Mark:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>[^.!?]*!
+</pre></div>
+</div>
+<p>This regex pattern will match sentences that end with an exclamation mark. It captures all text before the exclamation mark, allowing you to identify and analyze instances of exclamation in the novel.</p>
+<p>Match Character Descriptions:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>[A-Z][a-zA-Z]+\s[A-Z][a-zA-Z]+
+</pre></div>
+</div>
+<p>This regex pattern can be used to match character names in title case. It assumes that character names consist of two words, with the first letter capitalized for each word. You can use it to identify character introductions and analyze their presence in the novel.</p>
+<p>These examples demonstrate how regex can be used to search for and manipulate text patterns within a novel. The specific patterns you use will depend on the context and requirements of your analysis.</p>
 <p>Mocktext created by ChatGPT</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
