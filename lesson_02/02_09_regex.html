@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>L2.7: Exercises &#8212; eAkkadian</title>
+    <title>Regular Expressions &#8212; eAkkadian</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -1187,33 +1187,8 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#semantic-root">
-   Semantic Root
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#verbal-system">
-   Verbal System
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-stem">
-   The G Stem
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-preterite">
-   The G Preterite
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-durative">
-   The G Durative
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-perfect">
-   The G Perfect
+  <a class="reference internal nav-link" href="#examples">
+   Examples
   </a>
  </li>
 </ul>
@@ -1225,7 +1200,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>L2.7: Exercises</h1>
+                <h1>Regular Expressions</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -1236,33 +1211,8 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#semantic-root">
-   Semantic Root
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#verbal-system">
-   Verbal System
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-stem">
-   The G Stem
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-preterite">
-   The G Preterite
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-durative">
-   The G Durative
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-g-perfect">
-   The G Perfect
+  <a class="reference internal nav-link" href="#examples">
+   Examples
   </a>
  </li>
 </ul>
@@ -1275,387 +1225,48 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="l2-7-exercises">
-<h1>L2.7: Exercises<a class="headerlink" href="#l2-7-exercises" title="Permalink to this headline">#</a></h1>
-<section id="semantic-root">
-<h2>Semantic Root<a class="headerlink" href="#semantic-root" title="Permalink to this headline">#</a></h2>
-<p>What are the radicals of the following verbs:</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p><em>damāqum</em> = <em>D-M-Q</em></p></li>
-</ul>
+  <section class="tex2jax_ignore mathjax_ignore" id="regular-expressions">
+<h1>Regular Expressions<a class="headerlink" href="#regular-expressions" title="Permalink to this headline">#</a></h1>
+<p>Regex, short for regular expression, is a sequence of characters that forms a search pattern. It’s a powerful tool used in computer science and programming for matching and manipulating text strings.</p>
+<p>Regex allows you to define a pattern using a combination of special characters and literals. These patterns can be used to search, match, and replace strings in a flexible and efficient manner.</p>
+<p>Here are a few common use cases of regex:</p>
+<ol class="simple">
+<li><p>Pattern matching: Regex can be used to check if a string matches a specific pattern. For example, you can use regex to verify if an email address is valid or if a phone number is in the correct format.</p></li>
+<li><p>Search and extraction: Regex enables you to search for specific patterns within a larger text and extract the matching portions. For instance, you can extract all URLs from a webpage or find all occurrences of a particular word in a document.</p></li>
+<li><p>Validation and data cleaning: Regex is often employed to validate user input or to clean up data. It allows you to enforce specific rules on the format or structure of input data. For example, you can use regex to ensure that a password meets certain complexity requirements or remove unwanted characters from a text file.</p></li>
+<li><p>Text manipulation: Regex provides powerful tools for modifying and transforming text. You can use it to find and replace specific patterns, add or remove certain elements, or reformat text according to your needs.</p></li>
+</ol>
+<p>Regex syntax may vary slightly depending on the programming language or tool you are using, but the basic concepts and most commonly used symbols are generally consistent. Regex can be a complex topic, but mastering it can greatly enhance your ability to work with text in various programming and data processing tasks.</p>
+<section id="examples">
+<h2>Examples<a class="headerlink" href="#examples" title="Permalink to this headline">#</a></h2>
+<p>Here are some examples of how regular expressions (regex) can be used with a novel:</p>
+<p>Find All Occurrences of a Character:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>[Aa]lice
+</pre></div>
 </div>
-<ul class="simple">
-<li><p><em>danānum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>D-N-N</em></p>
+<p>This regex pattern will match both “Alice” and “alice” in the text. You can use it to find all instances of the character name “Alice” regardless of the capitalization.</p>
+<p>Match Dialogue:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>&quot;[^&quot;]+&quot;
+</pre></div>
 </div>
-<ul class="simple">
-<li><p><em>halāqum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>H-L-Q</em></p>
+<p>This regex pattern can be used to match dialogue within quotation marks. It will capture any text enclosed in double quotation marks, which is commonly used to represent spoken words in a novel.</p>
+<p>Replace All Instances of a Word:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>\bcat\b
+</pre></div>
 </div>
-<ul class="simple">
-<li><p><em>kašādum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>K-Š-D</em></p>
+<p>This regex pattern will match the word “cat” as a whole word and not as part of another word. You can use it to replace all instances of the word “cat” with another word or phrase.</p>
+<p>Find Sentences Ending with an Exclamation Mark:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>[^.!?]*!
+</pre></div>
 </div>
-<ul class="simple">
-<li><p><em>mahāṣum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>M-H-Ṣ</em></p>
+<p>This regex pattern will match sentences that end with an exclamation mark. It captures all text before the exclamation mark, allowing you to identify and analyze instances of exclamation in the novel.</p>
+<p>Match Character Descriptions:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>[A-Z][a-zA-Z]+\s[A-Z][a-zA-Z]+
+</pre></div>
 </div>
-<ul class="simple">
-<li><p><em>qātum</em> (hand)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>Q-T</em></p>
-</div>
-</section>
-<section id="verbal-system">
-<h2>Verbal System<a class="headerlink" href="#verbal-system" title="Permalink to this headline">#</a></h2>
-<p>What is the root and the infinitive of the following words?</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p><em>mithuṣum</em> = <em>M-H-Ṣ</em></p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p><em>miqtum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>M-Q-T</em></p>
-</div>
-<ul class="simple">
-<li><p><em>naṣbutum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>Ṣ-B-T</em></p>
-</div>
-<ul class="simple">
-<li><p><em>murrapišum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>R-P-Š</em></p>
-</div>
-<ul class="simple">
-<li><p><em>hulqum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>H-L-Q</em></p>
-</div>
-<ul class="simple">
-<li><p><em>kāšidum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>K-Š-D</em></p>
-</div>
-<ul class="simple">
-<li><p><em>dummuqum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>D-M-Q</em></p>
-</div>
-<ul class="simple">
-<li><p><em>šahluhtum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>H-L-Q</em></p>
-</div>
-</section>
-<section id="the-g-stem">
-<h2>The G Stem<a class="headerlink" href="#the-g-stem" title="Permalink to this headline">#</a></h2>
-<p>Build the participle and the verbal adjective of the following verbs:</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p><em>mahāṣum</em> = <em>māhiṣum</em>; <em>mahṣum</em></p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p><em>nadānum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>nādinum</em>; <em>nadnum</em></p>
-</div>
-<ul class="simple">
-<li><p><em>paqādum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>pāqidum</em>; <em>paqdum</em></p>
-</div>
-<ul class="simple">
-<li><p><em>ṣabātum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>ṣābitum</em>; <em>ṣabtum</em></p>
-</div>
-<ul class="simple">
-<li><p><em>wašābum</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>wāšibum</em>; <em>wašbum</em></p>
-</div>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>👹 🐉 <span style="color: red">Only for brave souls</span> 🐴🤴⚔️</p>
-<ul class="simple">
-<li><p>Explain and Translate <em>pāris purussê</em></p></li>
-</ul>
-</div>
-</section>
-<section id="the-g-preterite">
-<h2>The G Preterite<a class="headerlink" href="#the-g-preterite" title="Permalink to this headline">#</a></h2>
-<p>Write in Akkadian</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p>she seized = <em>iṣbat</em></p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p>He escaped (<em>halāqum</em> i-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>ihliq</em></p>
-</div>
-<ul class="simple">
-<li><p>I conquered/arrived (<em>kašādum</em> a/u-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>akšud</em></p>
-</div>
-<ul class="simple">
-<li><p>you (masc.sing.) stole (<em>šarāqum</em> i-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>tašriq</em></p>
-</div>
-<ul class="simple">
-<li><p>it became wide (<em>rapāšum</em> i-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>irpiš</em></p>
-</div>
-<ul class="simple">
-<li><p>they (masc.) improved (<em>damāqum</em> i-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>idmiqū</em></p>
-</div>
-<p>Translate into English</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p><em>amtam ša šarratim taṣbat</em> = you (masc.sing.) seized the queen’s womanservant</p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p><em>huraṣum u kaspum ša wardī ihliqū</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>The gold and silver of the (male) slaves got lost.</p>
-</div>
-<ul class="simple">
-<li><p><em>ilum īnīn ša mutim imhaṣ</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>A/The god struck the husband’s eyes</p>
-</div>
-<ul class="simple">
-<li><p><em>bīt awīlim idmiq</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>The man’s house(hold) improved.</p>
-</div>
-<ul class="simple">
-<li><p><em>narātum ša mātātim irpišā</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>The rivers of the lands grew wide.</p>
-</div>
-<ul class="simple">
-<li><p><em>aššatum u mārū ša bēlim imraṣū</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>The lord’s wife and children fell ill.</p>
-</div>
-<ul class="simple">
-<li><p><em>iltum  išdīn ša ālim ina qāt šarrim iškun</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>The goddess placed the foundation(s) of the city under the king’s hand (authority)</p>
-</div>
-<ul class="simple">
-<li><p><em>šumma awīlum mārat awīlim imhaṣ</em> (<em>šumma</em> = when)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>When a man beat (preterite) the daughter of (another) man.
-👏🏽 Congrats! You just translated a sentence from the Codex Hammurapi.</p>
-</div>
-</section>
-<section id="the-g-durative">
-<h2>The G Durative<a class="headerlink" href="#the-g-durative" title="Permalink to this headline">#</a></h2>
-<p>Write in Akkadian</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p>You (plu.) will hit = <em>tamahhaṣā</em></p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p>It is broadening (<em>rapāšum</em> i-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>irappiš</em></p>
-</div>
-<ul class="simple">
-<li><p>They (masc.) will tear down (<em>naqārum</em> a/u-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>inaqqarū</em></p>
-</div>
-<ul class="simple">
-<li><p>We reach (<em>kašādum</em> a/u-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>nikaššad</em></p>
-</div>
-<ul class="simple">
-<li><p>I will be guarding (<em>naṣārum</em> a/u-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>ana︎ṣṣar</em></p>
-</div>
-<ul class="simple">
-<li><p>They are gathering (<em>pahārum</em> u-class)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p><em>ipahharū</em></p>
-</div>
-<p>Translate into English</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p><em>išakkanū</em> = They (plu.) place.</p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p><em>ikaššadā</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>They (fem.) arrive.</p>
-</div>
-<ul class="simple">
-<li><p><em>išarriqū</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>They steal.</p>
-</div>
-<ul class="simple">
-<li><p><em>iraggum</em> (<em>ragāmum</em> = to shout )</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>He shouts out.</p>
-</div>
-<ul class="simple">
-<li><p><em>aššassu ul iṣabbatū</em> (<em>aššassu</em> &lt;<em>aššat</em>+<em>šu</em> = his wife; <em>ul</em> = negation  )</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>They will not seize his wife.</p>
-</div>
-<ul class="simple">
-<li><p><em>alammad</em> (<em>lamādum</em> = to learn)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>I learn.</p>
-</div>
-</section>
-<section id="the-g-perfect">
-<h2>The G Perfect<a class="headerlink" href="#the-g-perfect" title="Permalink to this headline">#</a></h2>
-<p>Write in Akkadian</p>
-<div class="tip admonition">
-<p class="admonition-title">Example</p>
-<ul class="simple">
-<li><p><em>tahtaliq</em> = you (masc.) have gone lost.</p></li>
-</ul>
-</div>
-<ul class="simple">
-<li><p><em>aštapar</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>I have sent.</p>
-</div>
-<ul class="simple">
-<li><p><em>iṣṣabat</em></p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Tip</p>
-<p><img alt="It's a trap" src="../_images/itsatrap.jpg" /></p>
-</div>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>She/he has seized.</p>
-</div>
-<ul>
-<li><p><em>šumma mārum abāšu imtahaṣ, rittašu inakkisū</em></p>
-<p>(<em>abāšu</em> &lt;<em>abum</em>+šu = his; <em>rittašu</em> &lt;<em>rittum</em> = hand + <em>šu</em> = his)</p>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>If a sohn has beaten his father, they will cut his hand.</p>
-</div>
-</li>
-<li><p><em>šumma muškēnum lēt muškēnim imtahaṣ, ešeret šiqil kaspam išaqqal</em> (<em>muškēnum</em> = citizen; <em>lētum</em> = cheek; <em>ešret šiqil</em> = ten schekels: <em>šaqālum</em> = to pay)</p></li>
-</ul>
-<div class="dropdown admonition">
-<p class="admonition-title">Solution</p>
-<p>If a citizen has slapped the cheek of (another) citizen, he will pay 10 schekels.</p>
-</div>
+<p>This regex pattern can be used to match character names in title case. It assumes that character names consist of two words, with the first letter capitalized for each word. You can use it to identify character introductions and analyze their presence in the novel.</p>
+<p>These examples demonstrate how regex can be used to search for and manipulate text patterns within a novel. The specific patterns you use will depend on the context and requirements of your analysis.</p>
+<p>Mocktext created by ChatGPT</p>
 </section>
 </section>
 
