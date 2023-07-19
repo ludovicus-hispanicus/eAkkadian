@@ -3,7 +3,8 @@
 
 # # L2.9: Assignment
 # 
-# ## Write in Akkadian
+# ## A. Write in Akkadian
+# 
 # ```{admonition} Example
 # :class: tip
 # - she seized = *iṣbat*
@@ -18,7 +19,7 @@
 # 7. We caught the thief stealing (for stealing use the infinitv)
 # 8. I was in the city
 # 
-# ## Translate
+# ## B. Translate
 # ```{admonition} Example
 # :class: tip
 # *iššakanū* = They placed (durative, 3.Plu. masc.)
@@ -43,7 +44,12 @@
 # 17. *šumma dajjānum purussâm iprus*
 # 18. *šumma awīlum namkūr ilim u ekallim išriq* (namkūrum = property, possession(s), capital)
 # 
-# ## Normalize and translate
+# ```{warning}
+# 👹 🐉 <span style="color: red">Only for brave souls</span> 🐴🤴⚔️
+# - Explain and Translate *pāris purussê* 
+# ```
+# 
+# ## C. Normalize and translate
 # ```{admonition} Example
 # :class: tip
 # *ta-ap-qi₂-id* = *tapqid* "you entrusted"
@@ -64,7 +70,7 @@
 # 14. *bi-tum na-ad-nu-um*
 # 15. *šum-ma warad a-wi-lim le-e-et mār a-wi-lim im-ta-haṣ, u₂-zu-un-šu i-na-ak-ki-su* (*uzun-šu* = his ear)
 # 
-# ## Transliterate and translate
+# ## D. Transliterate and translate
 # 1. <font size="11">𒀊𒇻𒌝</font>
 # 2. <font size="11">𒋫𒀊𒌈</font>
 # 3. <font size="11">𒄴𒄭</font>
@@ -78,6 +84,9 @@
 # 11. <font size="11">𒀸𒀸</font> (use two different phonetic values)
 # 12. <font size="11">𒆠</font> (see exercise no. 11)
 # 14. <font size="11">𒋫𒀊𒆠𒀉</font>
+# 
+# E. Extract text with RegEx
+# Go to SAA 1, 41 in the ORACC Project ``State Archive of Assyria online'' and extract the transliteration and Translation.
 # 
 # 
 #     

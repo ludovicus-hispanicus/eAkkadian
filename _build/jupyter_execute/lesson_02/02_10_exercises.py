@@ -3,7 +3,7 @@
 
 # # L2.7: Exercises
 # 
-# ## Semantic Root
+# ## A. Semantic Root
 # What are the radicals of the following verbs:
 # 
 # ```{admonition} Example
@@ -11,156 +11,153 @@
 # - *damāqum* = *D-M-Q*
 # ```
 # 
-# - *danānum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *D-N-N*
-# ```
+# 1.  *danānum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *D-N-N*
+#     ```
 # 
-# - *halāqum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *H-L-Q*
-# ```
+# 2. *halāqum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *H-L-Q*
+#     ```
 # 
-# - *kašādum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *K-Š-D*
-# ```
+# 3. *kašādum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *K-Š-D*
+#     ```
 # 
-# - *mahāṣum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *M-H-Ṣ*
-# ```
-# - *qātum* (hand)
-# ```{admonition} Solution
-# :class: dropdown  
-# *Q-T*
-# ```  
+# 4. *mahāṣum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *M-H-Ṣ*
+#     ```
+# 5. *qātum* (hand)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *Q-T*
+#     ```  
 # 
-# ## Verbal System
+# ## B. Verbal System
 # What is the root and the infinitive of the following words?
+#     
 # ```{admonition} Example
 # :class: tip
 # - *mithuṣum* = *M-H-Ṣ*
 # ```
 # 
-# - *miqtum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *M-Q-T*
-# ```
+# 1. *miqtum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *M-Q-T*
+#     ```
 # 
-# - *naṣbutum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *Ṣ-B-T*
-# ```
+# 2. *naṣbutum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *Ṣ-B-T*
+#     ```
 # 
-# - *murrapišum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *R-P-Š*
-# ```
+# 3. *murrapišum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *R-P-Š*
+#     ```
 # 
-# - *hulqum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *H-L-Q*
-# ```
+# 4. *hulqum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *H-L-Q*
+#     ```
 # 
-# - *kāšidum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *K-Š-D*
-# ```
+# 5. *kāšidum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *K-Š-D*
+#     ```
 # 
-# - *dummuqum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *D-M-Q*
-# ```
+# 6. *dummuqum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *D-M-Q*
+#     ```
 # 
-# - *šahluhtum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *H-L-Q*
-# ```
+# 7. *šahluhtum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *H-L-Q*
+#     ```
 # 
-# ## The G Stem 
+# ## C. The G Stem 
 # Build the participle and the verbal adjective of the following verbs:
 # ```{admonition} Example
 # :class: tip
 # - *mahāṣum* = *māhiṣum*; *mahṣum*
 # ```
 # 
-# - *nadānum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *nādinum*; *nadnum*
-# ```
+# 1. *nadānum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *nādinum*; *nadnum*
+#     ```
 # 
-# - *paqādum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *pāqidum*; *paqdum*
-# ```
+# 2. *paqādum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *pāqidum*; *paqdum*
+#     ```
 # 
-# - *ṣabātum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *ṣābitum*; *ṣabtum*
-# ```
+# 3. *ṣabātum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *ṣābitum*; *ṣabtum*
+#     ```
 # 
-# - *wašābum*
-# ```{admonition} Solution
-# :class: dropdown  
-# *wāšibum*; *wašbum*
-# ```
+# 4. *wašābum*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *wāšibum*; *wašbum*
+#     ```
 # 
-# ```{warning}
-# 👹 🐉 <span style="color: red">Only for brave souls</span> 🐴🤴⚔️
-# - Explain and Translate *pāris purussê* 
-# ```
+# ## D. The G Preterite
+# Translate into Akkadian
 # 
-# ## The G Preterite
-# Write in Akkadian
 # ```{admonition} Example
 # :class: tip
 # - she seized = *iṣbat*
 # ```
 # 
-# - He escaped (*halāqum* i-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *ihliq*
-# ```
+# 1. He escaped (*halāqum* i-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *ihliq*
+#     ```
 # 
-# - I conquered/arrived (*kašādum* a/u-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *akšud*
-# ```
+# 2. I conquered/arrived (*kašādum* a/u-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *akšud*
+#     ```
 # 
-# - you (masc.sing.) stole (*šarāqum* i-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *tašriq*
-# ```
+# 3. you (masc.sing.) stole (*šarāqum* i-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *tašriq*
+#     ```
 # 
-# - it became wide (*rapāšum* i-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *irpiš*
-# ```
+# 4. it became wide (*rapāšum* i-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *irpiš*
+#     ```
 # 
-# - they (masc.) improved (*damāqum* i-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *idmiqū*
-# ```
+# 5. they (masc.) improved (*damāqum* i-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *idmiqū*
+#     ```
 # 
 # Translate into English
 # ```{admonition} Example
@@ -168,84 +165,85 @@
 # - *amtam ša šarratim taṣbat* = you (masc.sing.) seized the queen's womanservant
 # ```
 # 
-# - *huraṣum u kaspum ša wardī ihliqū*
-# ```{admonition} Solution
-# :class: dropdown  
-# The gold and silver of the (male) slaves got lost.
-# ```
-# - *ilum īnīn ša mutim imhaṣ*
-# ```{admonition} Solution
-# :class: dropdown  
-# A/The god struck the husband's eyes
-# ```
+# 1.  *huraṣum u kaspum ša wardī ihliqū*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     The gold and silver of the (male) slaves got lost.
+#     ```
 # 
-# - *bīt awīlim idmiq*
-# ```{admonition} Solution
-# :class: dropdown  
-# The man's house(hold) improved.
-# ```
+# 2. *ilum īnīn ša mutim imhaṣ*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     A/The god struck the husband's eyes
+#     ```
 # 
-# - *narātum ša mātātim irpišā*
-# ```{admonition} Solution
-# :class: dropdown  
-# The rivers of the lands grew wide.
-# ```
+# 3. *bīt awīlim idmiq*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     The man's house(hold) improved.
+#     ```
 # 
-# - *aššatum u mārū ša bēlim imraṣū*
-# ```{admonition} Solution
-# :class: dropdown  
-# The lord’s wife and children fell ill.
-# ```
+# 4. *narātum ša mātātim irpišā*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     The rivers of the lands grew wide.
+#     ```
 # 
-# - *iltum  išdīn ša ālim ina qāt šarrim iškun*
-# ```{admonition} Solution
-# :class: dropdown  
-# The goddess placed the foundation(s) of the city under the king's hand (authority)
-# ```
+# 5. *aššatum u mārū ša bēlim imraṣū*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     The lord’s wife and children fell ill.
+#     ```
 # 
-# - *šumma awīlum mārat awīlim imhaṣ* (*šumma* = when) 
-# ```{admonition} Solution
-# :class: dropdown  
-# When a man beat (preterite) the daughter of (another) man.
-# 👏🏽 Congrats! You just translated a sentence from the Codex Hammurapi.
-# ```
+# 6. *iltum  išdīn ša ālim ina qāt šarrim iškun*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     The goddess placed the foundation(s) of the city under the king's hand (authority)
+#     ```
 # 
-# ## The G Durative
+# 7. *šumma awīlum mārat awīlim imhaṣ* (*šumma* = when) 
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     When a man beat (preterite) the daughter of (another) man.
+#     👏🏽 Congrats! You just translated a sentence from the Codex Hammurapi.
+#     ```
+# 
+# ## E. The G Durative
 # Write in Akkadian
 # ```{admonition} Example
 # :class: tip
 # - You (plu.) will hit = *tamahhaṣā* 
 # ```
 # 
-# - It is broadening (*rapāšum* i-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *irappiš*
-# ```
+# 1. It is broadening (*rapāšum* i-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *irappiš*
+#     ```
 # 
-# - They (masc.) will tear down (*naqārum* a/u-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *inaqqarū*
-# ```
+# 2. They (masc.) will tear down (*naqārum* a/u-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *inaqqarū*
+#     ```
 # 
-# - We reach (*kašādum* a/u-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *nikaššad*
-# ```
+# 3. We reach (*kašādum* a/u-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *nikaššad*
+#     ```
 # 
-# - I will be guarding (*naṣārum* a/u-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *ana︎ṣṣar*
-# ```
+# 4. I will be guarding (*naṣārum* a/u-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *ana︎ṣṣar*
+#     ```
 # 
-# - They are gathering (*pahārum* u-class)
-# ```{admonition} Solution
-# :class: dropdown  
-# *ipahharū*
-# ```
+# 5. They are gathering (*pahārum* u-class)
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     *ipahharū*
+#     ```
 # 
 # Translate into English
 # ```{admonition} Example
@@ -253,70 +251,73 @@
 # - *išakkanū* = They (plu.) place. 
 # ```
 # 
-# - *ikaššadā* 
-# ```{admonition} Solution
-# :class: dropdown  
-# They (fem.) arrive.
-# ```
+# 1. *ikaššadā* 
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     They (fem.) arrive.
+#     ```
 # 
-# - *išarriqū*
-# ```{admonition} Solution
-# :class: dropdown  
-# They steal.
-# ```
+# 2. *išarriqū*
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     They steal.
+#     ```
 # 
-# - *iraggum* (*ragāmum* = to shout ) 
-# ```{admonition} Solution
-# :class: dropdown  
-# He shouts out.
-# ```
+# 3. *iraggum* (*ragāmum* = to shout ) 
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     He shouts out.
+#     ```
 # 
-# - *aššassu ul iṣabbatū* (*aššassu* <*aššat*+*šu* = his wife; *ul* = negation  ) 
-# ```{admonition} Solution
-# :class: dropdown  
-# They will not seize his wife.
-# ```
+# 4. *aššassu ul iṣabbatū* (*aššassu* <*aššat*+*šu* = his wife; *ul* = negation  ) 
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     They will not seize his wife.
+#     ```
 # 
-# - *alammad* (*lamādum* = to learn) 
-# ```{admonition} Solution
-# :class: dropdown  
-# I learn.
-# ```
+# 5. *alammad* (*lamādum* = to learn) 
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     I learn.
+#     ```
 # 
-# ## The G Perfect
-# Write in Akkadian
+# ## F. The G Perfect
+# Translate into English
+# 
 # ```{admonition} Example
 # :class: tip
 # - *tahtaliq* = you (masc.) have gone lost. 
 # ```
 # 
-# - *aštapar* 
-# ```{admonition} Solution
-# :class: dropdown   
-# I have sent.
-# ```
+# 1. *aštapar* 
+#     ```{admonition} Solution
+#     :class: dropdown   
+#     I have sent.
+#     ```
 # 
-# - *iṣṣabat* 
-# ```{admonition} Tip
-# :class: dropdown  
-# ![It's a trap](../images/itsatrap.jpg)
-# ```
+# 2. *iṣṣabat* 
+#     ```{admonition} Tip
+#     :class: dropdown  
+#     ![It's a trap](../images/itsatrap.jpg)
+#     ```
 # 
-# ```{admonition} Solution
-# :class: dropdown  
-# She/he has seized.
-# ```
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     She/he has seized.
+#     ```
 # 
-# - *šumma mārum abāšu imtahaṣ, rittašu inakkisū* 
+# 3. *šumma mārum abāšu imtahaṣ, rittašu inakkisū* 
 #     
-#   (*abāšu* <*abum*+šu = his; *rittašu* <*rittum* = hand + *šu* = his) 
-#   ```{admonition} Solution
-#   :class: dropdown  
-#   If a sohn has beaten his father, they will cut his hand.
-#   ```
+#     (*abāšu* <*abum*+šu = his; *rittašu* <*rittum* = hand + *šu* = his) 
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     If a sohn has beaten his father, they will cut his hand.
+#    ```
 # 
-# - *šumma muškēnum lēt muškēnim imtahaṣ, ešeret šiqil kaspam išaqqal* (*muškēnum* = citizen; *lētum* = cheek; *ešret šiqil* = ten schekels: *šaqālum* = to pay)  
-# ```{admonition} Solution
-# :class: dropdown  
-# If a citizen has slapped the cheek of (another) citizen, he will pay 10 schekels. 
-# ```
+# 4. *šumma muškēnum lēt muškēnim imtahaṣ, ešeret šiqil kaspam išaqqal* 
+#    
+#    (*muškēnum* = citizen; *lētum* = cheek; *ešret šiqil* = ten schekels: *šaqālum* = to pay)  
+#     ```{admonition} Solution
+#     :class: dropdown  
+#     If a citizen has slapped the cheek of (another) citizen, he will pay 10 schekels. 
+#     ```
