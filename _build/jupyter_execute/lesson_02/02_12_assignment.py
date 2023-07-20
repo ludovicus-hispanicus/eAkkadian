@@ -85,7 +85,7 @@
 # 12. <font size="11">𒆠</font> (see exercise no. 11)
 # 14. <font size="11">𒋫𒀊𒆠𒀉</font>
 # 
-# E. Extract text with RegEx
+# ## E. Extract text with RegEx
 # Go to SAA 1, 41 in the ORACC Project ``State Archive of Assyria online'' and extract the transliteration and Translation.
 # 
 # 
