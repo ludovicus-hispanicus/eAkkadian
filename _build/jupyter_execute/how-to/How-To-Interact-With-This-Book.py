@@ -30,16 +30,9 @@
 # 
 # (cunei-font)=
 # ## **𒀀** Cuneiform Font 
-# In this course we will mainly use the Neo-Assyrian script. In order to visualize it, you may want to download [Assurbanipal](https://www.hethport.uni-wuerzburg.de/cuneifont/) under the link "Neo-Assyrian Font" and install it. Once installed add it to your browser:
+# In this course we will mainly use the Neo-Assyrian script. In order to visualize it, you may want to download [Assurbanipal](https://www.hethport.uni-wuerzburg.de/cuneifont/) under the link "Neo-Assyrian Font" and install it.
 # 
-# - Google Chrome <i class="fa fa-chrome" aria-hidden="true"></i>
-#   
-#   Go to "Settings" > "Appearance" > Customize fonts > "Standard font" and choose "Assurbanipal".
-# - Firefox <i class="fa fa-firefox" aria-hidden="true"></i>
-#   
-#   Go to "Setting" > "General" > "Fonts" > "Advanced" > "Sans-serif" and choose "Assurbanipal".
-# 
-# Otherwise the browser will use the [default font](https://en.wikipedia.org/wiki/Cuneiform_(Unicode_block)), which is actually design according to the Old Babylonian ductus.  
+# Otherwise the browser will use a [font](https://fonts.google.com/noto/specimen/Noto+Sans+Cuneiform) based on the Unicode [reference glyphs](https://www.unicode.org/charts/PDF/U12000.pdf), which are mostly based on the Ur III forms of the signs (similar to Old Babylonian lapidary).
 # 
 # ## **Š** **Ṣ** **Ĝ** Special Characters
 # For the special characters there are two options you may install [WinCompose](http://wincompose.info/). Once installed download {download}`this list <../extra_material/.XCompose.txt>` and add it to in ```C:\Users\[username]```.
@@ -58,7 +51,7 @@
 # - [key] + a + ^ = â (the same combination for the other vowels)
 # 
 # ## **𒇽** **𒈗** Typing Cuneiform
-# [Robbin Leroy](https://github.com/eggrobin) has developped a cuneifornm input method called [Enmekar](https://github.com/eggrobin/Enmerkar) for typing cuneiform. Follow the instructions there to install it. 
+# [Robin Leroy](https://github.com/eggrobin) has developped a cuneiform input method called [Enmerkar](https://github.com/eggrobin/Enmerkar) for typing cuneiform. Follow the instructions there to install it. 
 # 
 # ```{note}
 # At the moment it only runs on Windows.

@@ -1,0 +1,7 @@
+:root {
+  --pst-font-family-base: var(--pst-font-family-base-system), Assurbanipal;
+}
+
+.ob-cursive {
+  font-family: Santakku;
+}
