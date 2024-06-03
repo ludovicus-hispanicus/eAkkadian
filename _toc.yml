@@ -53,6 +53,8 @@ parts:
       title: Locative-Adverbiative
     - file: lesson_01/01_08_adverb_noun_ish
       title: Terminative-Adverbiative
+    - file: lesson_01/02_09_verbless_sentence
+      title: The Verbless Sentence
     - file: lesson_01/01_09_digital-projects
       title: Digital Projects in the Assyriology
     - file: lesson_01/01_10_exercises
@@ -78,8 +80,6 @@ parts:
       title: Peculiarities of the Strong Verbs
     - file: lesson_02/02_07_geminated-verbs
       title: Geminated Verbs
-    - file: lesson_02/02_08_verbless_sentences
-      title: The Simple Sentence
     - file: lesson_02/02_09_regex
       title: Regular Expressions
     - file: lesson_02/02_10_exercises
