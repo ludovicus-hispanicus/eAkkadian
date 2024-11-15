@@ -44,26 +44,32 @@ The Book
             02_10_exercises
             02_11_vocab-signs
             02_12_assignment
-        lesson_03/03_00_intro
+        
         sections:
-    lesson_03/03_01_pronouns
-          lesson_03/03_02_pron-suff
-          lesson_03/03_03_pron-suff_noun
-          lesson_03/03_04_pron-suff_prep
-          lesson_03/03_05_pron-suff_verb
-          lesson_03/03_06_annotations
-          lesson_03/03_07_exercises
-          lesson_03/03_08_vocab-signs
-          lesson_03/03_09_assignment
-        lesson_04/04_00_intro
+    lesson_03
+        intro
         sections:
-    lesson_04/04_01_denom_adjec
-          lesson_04/04_02_demons_adjec
-          lesson_04/04_03_demons_pron
-          lesson_04/04_04_word-alignment
-          lesson_04/04_05_exercises
-          lesson_04/04_06_vocab-signs
-          lesson_04/04_07_assignment
+            03_00_intro
+			03_01_pronouns
+        	03_02_pron-suff
+          	03_03_pron-suff_noun
+          	03_04_pron-suff_prep
+          	03_05_pron-suff_verb
+          	03_06_annotations
+          	03_07_exercises
+          	03_08_vocab-signs
+          	03_09_assignment
+        
+    lesson_04
+		04_00_intro
+        sections:
+			04_01_denom_adjec
+          	04_02_demons_adjec
+          	04_03_demons_pron
+          	04_04_word-alignment
+          	04_05_exercises
+          	04_06_vocab-signs
+          	04_07_assignment
         lesson_05/05_00_intro
         sections:
     lesson_05/05_01_nom-verb-forms
